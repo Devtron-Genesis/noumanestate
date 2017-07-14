@@ -1,0 +1,4374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fortis7 Po Mo Files\n"
+"POT-Creation-Date: 2013-12-07 12:52-0800\n"
+"PO-Revision-Date: 2015-05-16 11:48+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_;_e;__\n"
+"X-Poedit-Basepath: ./\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: it_IT\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: 404.php:30 ../fortis7/404.php:30
+msgid "404 - Not Found"
+msgstr "HTTP 404 - Pagina non trovata"
+
+#: 404.php:65 ../fortis7/404.php:65
+msgid "oops! 404 Error Page"
+msgstr ""
+
+#: archive.php:45 search.php:41 ../fortis7/archive.php:45
+#: ../fortis7/search.php:41
+msgid "Archive"
+msgstr ""
+
+#: archive.php:50 search.php:46 ../fortis7/archive.php:50
+#: ../fortis7/search.php:46
+msgid "Home"
+msgstr ""
+
+#: class-wp-twitter-api.php:135
+#: themeple_framework/system/class-wp-twitter-api.php:135
+#: ../fortis7/class-wp-twitter-api.php:135
+#: ../fortis7/themeple_framework/system/class-wp-twitter-api.php:135
+msgid "Can't get the bearer token, check your credentials"
+msgstr ""
+
+#: class-wp-twitter-api.php:247
+#: themeple_framework/system/class-wp-twitter-api.php:247
+#: ../fortis7/class-wp-twitter-api.php:247
+#: ../fortis7/themeple_framework/system/class-wp-twitter-api.php:247
+msgid "Bearer Token is good, check your query"
+msgstr ""
+
+#: functions-fortis7.php:721 ../fortis7/functions-fortis7.php:721
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: functions-fortis7.php:822 bbpress/form-user-edit.php:173
+#: ../fortis7/functions-fortis7.php:822
+#: ../fortis7/bbpress/form-user-edit.php:173
+msgid "Save Changes"
+msgstr ""
+
+#: functions-fortis7.php:916 plugins/class-tgm-plugin-activation.php:164
+#: ../fortis7/functions-fortis7.php:916
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions-fortis7.php:917 plugins/class-tgm-plugin-activation.php:165
+#: ../fortis7/functions-fortis7.php:917
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr ""
+
+#: functions-fortis7.php:918 plugins/class-tgm-plugin-activation.php:166
+#: ../fortis7/functions-fortis7.php:918
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions-fortis7.php:919 ../fortis7/functions-fortis7.php:919
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions-fortis7.php:930 plugins/class-tgm-plugin-activation.php:178
+#: plugins/class-tgm-plugin-activation.php:490
+#: ../fortis7/functions-fortis7.php:930
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:178
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:490
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions-fortis7.php:931 plugins/class-tgm-plugin-activation.php:179
+#: plugins/class-tgm-plugin-activation.php:1846
+#: ../fortis7/functions-fortis7.php:931
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:179
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1846
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions-fortis7.php:932 ../fortis7/functions-fortis7.php:932
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions-woocommerce.php:262 functions-woocommerce.php:266
+#: functions-woocommerce.php:268 functions-woocommerce.php:270
+#: functions-woocommerce.php:272 functions-woocommerce.php:274
+#: functions-woocommerce.php:276 ../fortis7/functions-woocommerce.php:262
+#: ../fortis7/functions-woocommerce.php:266
+#: ../fortis7/functions-woocommerce.php:268
+#: ../fortis7/functions-woocommerce.php:270
+#: ../fortis7/functions-woocommerce.php:272
+#: ../fortis7/functions-woocommerce.php:274
+#: ../fortis7/functions-woocommerce.php:276
+msgid "Sort by"
+msgstr ""
+
+#: functions-woocommerce.php:266 ../fortis7/functions-woocommerce.php:266
+msgid "Default Sort"
+msgstr ""
+
+#: functions-woocommerce.php:268 bbpress/form-user-edit.php:14
+#: bbpress/form-user-edit.php:19 woocommerce/single-product-reviews.php:84
+#: ../fortis7/functions-woocommerce.php:268
+#: ../fortis7/bbpress/form-user-edit.php:14
+#: ../fortis7/bbpress/form-user-edit.php:19
+#: ../fortis7/woocommerce/single-product-reviews.php:84
+msgid "Name"
+msgstr ""
+
+#: functions-woocommerce.php:270 ../fortis7/functions-woocommerce.php:270
+msgid "Populatiry"
+msgstr ""
+
+#: functions-woocommerce.php:272 woocommerce/myaccount/my-orders.php:33
+#: ../fortis7/functions-woocommerce.php:272
+#: ../fortis7/woocommerce/myaccount/my-orders.php:33
+msgid "Date"
+msgstr ""
+
+#: functions-woocommerce.php:274 woocommerce/single-product-reviews.php:96
+#: ../fortis7/functions-woocommerce.php:274
+#: ../fortis7/woocommerce/single-product-reviews.php:96
+msgid "Rating"
+msgstr ""
+
+#: functions-woocommerce.php:276 woocommerce/cart/cart.php:29
+#: woocommerce/emails/admin-new-order.php:24
+#: woocommerce/emails/customer-completed-order.php:25
+#: woocommerce/emails/customer-invoice.php:29
+#: woocommerce/emails/customer-note.php:29
+#: woocommerce/emails/customer-processing-order.php:25
+#: ../fortis7/functions-woocommerce.php:276
+#: ../fortis7/woocommerce/cart/cart.php:29
+#: ../fortis7/woocommerce/emails/admin-new-order.php:24
+#: ../fortis7/woocommerce/emails/customer-completed-order.php:25
+#: ../fortis7/woocommerce/emails/customer-invoice.php:29
+#: ../fortis7/woocommerce/emails/customer-note.php:29
+#: ../fortis7/woocommerce/emails/customer-processing-order.php:25
+msgid "Price"
+msgstr ""
+
+#: functions-woocommerce.php:314 functions-woocommerce.php:318
+#: functions-woocommerce.php:320 functions-woocommerce.php:322
+#: themeple_framework/system/view-gen.inc.php:162
+#: ../fortis7/functions-woocommerce.php:314
+#: ../fortis7/functions-woocommerce.php:318
+#: ../fortis7/functions-woocommerce.php:320
+#: ../fortis7/functions-woocommerce.php:322
+#: ../fortis7/themeple_framework/system/view-gen.inc.php:162
+msgid "Show"
+msgstr ""
+
+#: functions-woocommerce.php:314 ../fortis7/functions-woocommerce.php:314
+msgid " Products"
+msgstr ""
+
+#: functions-woocommerce.php:318 functions-woocommerce.php:320
+#: functions-woocommerce.php:322 ../fortis7/functions-woocommerce.php:318
+#: ../fortis7/functions-woocommerce.php:320
+#: ../fortis7/functions-woocommerce.php:322
+msgid "Products"
+msgstr ""
+
+#: functions-woocommerce.php:532 template_inc/woocommerce-cart.php:24
+#: ../fortis7/functions-woocommerce.php:532
+#: ../fortis7/template_inc/woocommerce-cart.php:24
+msgid "View Cart"
+msgstr ""
+
+#: functions-woocommerce.php:534 template_inc/woocommerce-cart.php:25
+#: ../fortis7/functions-woocommerce.php:534
+#: ../fortis7/template_inc/woocommerce-cart.php:25
+msgid "Checkout"
+msgstr ""
+
+#: search.php:49 searchform.php:4
+#: themeple_framework/system/widgets.inc.php:2560 ../fortis7/search.php:49
+#: ../fortis7/searchform.php:4
+#: ../fortis7/themeple_framework/system/widgets.inc.php:2560
+msgid "Search"
+msgstr ""
+
+#: search.php:81 ../fortis7/search.php:81
+msgid "Your search did not match any entries"
+msgstr ""
+
+#: search.php:83 ../fortis7/search.php:83
+msgid "Suggestions"
+msgstr ""
+
+#: search.php:85 ../fortis7/search.php:85
+msgid "Make sure all words are spelled correctly"
+msgstr ""
+
+#: search.php:86 ../fortis7/search.php:86
+msgid "Try different keywords"
+msgstr ""
+
+#: search.php:87 ../fortis7/search.php:87
+msgid "Try more general keywords"
+msgstr ""
+
+#: sidebar.php:25 template_inc/admin/register-sidebars.php:6
+#: ../fortis7/sidebar.php:25
+#: ../fortis7/template_inc/admin/register-sidebars.php:6
+msgid "Sidebar Blog"
+msgstr ""
+
+#: sidebar.php:27 template_inc/admin/register-sidebars.php:21
+#: ../fortis7/sidebar.php:27
+#: ../fortis7/template_inc/admin/register-sidebars.php:21
+msgid "Sidebar Portfolio"
+msgstr ""
+
+#: sidebar.php:29 template_inc/admin/register-sidebars.php:14
+#: ../fortis7/sidebar.php:29
+#: ../fortis7/template_inc/admin/register-sidebars.php:14
+msgid "Sidebar Pages"
+msgstr ""
+
+#: sidebar.php:31 template_inc/admin/register-sidebars.php:29
+#: ../fortis7/sidebar.php:31
+#: ../fortis7/template_inc/admin/register-sidebars.php:29
+msgid "Sidebar Woocommerce"
+msgstr ""
+
+#: sidebar.php:35 template_inc/admin/register-sidebars.php:108
+#: woocommerce/shop/breadcrumb.php:203 ../fortis7/sidebar.php:35
+#: ../fortis7/template_inc/admin/register-sidebars.php:108
+#: ../fortis7/woocommerce/shop/breadcrumb.php:203
+msgid "Page"
+msgstr ""
+
+#: sidebar.php:39 template_inc/admin/register-sidebars.php:131
+#: ../fortis7/sidebar.php:39
+#: ../fortis7/template_inc/admin/register-sidebars.php:131
+msgid "Category"
+msgstr ""
+
+#: single.php:81 template_inc/loop-single_portfolio_bottom.php:12
+#: template_inc/loop-single_portfolio_left.php:12
+#: template_inc/loop-single_portfolio_right.php:21
+#: template_inc/loop-single_portfolio_wide.php:12 ../fortis7/single.php:81
+#: ../fortis7/template_inc/loop-single_portfolio_bottom.php:12
+#: ../fortis7/template_inc/loop-single_portfolio_left.php:12
+#: ../fortis7/template_inc/loop-single_portfolio_right.php:21
+#: ../fortis7/template_inc/loop-single_portfolio_wide.php:12
+msgid "Next Post"
+msgstr ""
+
+#: single.php:84 template_inc/loop-single_portfolio_bottom.php:15
+#: template_inc/loop-single_portfolio_left.php:15
+#: template_inc/loop-single_portfolio_right.php:24
+#: template_inc/loop-single_portfolio_wide.php:15 ../fortis7/single.php:84
+#: ../fortis7/template_inc/loop-single_portfolio_bottom.php:15
+#: ../fortis7/template_inc/loop-single_portfolio_left.php:15
+#: ../fortis7/template_inc/loop-single_portfolio_right.php:24
+#: ../fortis7/template_inc/loop-single_portfolio_wide.php:15
+msgid "Previous Post"
+msgstr ""
+
+#: template-portfolio.php:90 template_inc/generate_dynamic_template.php:2055
+#: template_inc/generate_dynamic_template.php:3033
+#: template_inc/loop-blog-masonry.php:19 ../fortis7/template-portfolio.php:90
+#: ../fortis7/template_inc/generate_dynamic_template.php:2055
+#: ../fortis7/template_inc/generate_dynamic_template.php:3033
+#: ../fortis7/template_inc/loop-blog-masonry.php:19
+msgid "View All"
+msgstr ""
+
+#: bbpress/content-single-topic-lead.php:18
+#: bbpress/content-single-topic-lead.php:90
+#: ../fortis7/bbpress/content-single-topic-lead.php:18
+#: ../fortis7/bbpress/content-single-topic-lead.php:90
+msgid "Creator"
+msgstr ""
+
+#: bbpress/content-single-topic-lead.php:22
+#: bbpress/content-single-topic-lead.php:94 bbpress/loop-topics.php:19
+#: ../fortis7/bbpress/content-single-topic-lead.php:22
+#: ../fortis7/bbpress/content-single-topic-lead.php:94
+#: ../fortis7/bbpress/loop-topics.php:19
+msgid "Topic"
+msgstr ""
+
+#: bbpress/content-statistics.php:17
+#: ../fortis7/bbpress/content-statistics.php:17
+msgid "Registered Users"
+msgstr ""
+
+#: bbpress/content-statistics.php:22
+#: ../fortis7/bbpress/content-statistics.php:22
+msgid "Forums"
+msgstr ""
+
+#: bbpress/content-statistics.php:27 bbpress/loop-forums.php:20
+#: ../fortis7/bbpress/content-statistics.php:27
+#: ../fortis7/bbpress/loop-forums.php:20
+msgid "Topics"
+msgstr ""
+
+#: bbpress/content-statistics.php:32 bbpress/loop-forums.php:21
+#: bbpress/loop-replies.php:32 bbpress/loop-topics.php:21
+#: ../fortis7/bbpress/content-statistics.php:32
+#: ../fortis7/bbpress/loop-forums.php:21
+#: ../fortis7/bbpress/loop-replies.php:32
+#: ../fortis7/bbpress/loop-topics.php:21
+msgid "Replies"
+msgstr ""
+
+#: bbpress/content-statistics.php:37
+#: ../fortis7/bbpress/content-statistics.php:37
+msgid "Topic Tags"
+msgstr ""
+
+#: bbpress/content-statistics.php:44
+#: ../fortis7/bbpress/content-statistics.php:44
+msgid "Empty Topic Tags"
+msgstr ""
+
+#: bbpress/content-statistics.php:53
+#: ../fortis7/bbpress/content-statistics.php:53
+msgid "Hidden Topics"
+msgstr ""
+
+#: bbpress/content-statistics.php:64
+#: ../fortis7/bbpress/content-statistics.php:64
+msgid "Hidden Replies"
+msgstr ""
+
+#: bbpress/feedback-logged-in.php:13
+#: ../fortis7/bbpress/feedback-logged-in.php:13
+msgid "You are already logged in."
+msgstr ""
+
+#: bbpress/feedback-no-access.php:13
+#: ../fortis7/bbpress/feedback-no-access.php:13
+msgid "Private"
+msgstr ""
+
+#: bbpress/feedback-no-access.php:16
+#: ../fortis7/bbpress/feedback-no-access.php:16
+msgid "You do not have permission to view this forum."
+msgstr ""
+
+#: bbpress/feedback-no-forums.php:13
+#: ../fortis7/bbpress/feedback-no-forums.php:13
+msgid "Oh bother! No forums were found here!"
+msgstr ""
+
+#: bbpress/feedback-no-replies.php:13
+#: ../fortis7/bbpress/feedback-no-replies.php:13
+msgid "Oh bother! No replies were found here!"
+msgstr ""
+
+#: bbpress/feedback-no-search.php:13
+#: ../fortis7/bbpress/feedback-no-search.php:13
+msgid "Oh bother! No search results were found here!"
+msgstr ""
+
+#: bbpress/feedback-no-topics.php:13
+#: ../fortis7/bbpress/feedback-no-topics.php:13
+msgid "Oh bother! No topics were found here!"
+msgstr ""
+
+#: bbpress/form-anonymous.php:17 ../fortis7/bbpress/form-anonymous.php:17
+msgid "Author Information"
+msgstr ""
+
+#: bbpress/form-anonymous.php:17 ../fortis7/bbpress/form-anonymous.php:17
+msgid "Your information:"
+msgstr ""
+
+#: bbpress/form-anonymous.php:22 ../fortis7/bbpress/form-anonymous.php:22
+msgid "Name (required):"
+msgstr ""
+
+#: bbpress/form-anonymous.php:27 ../fortis7/bbpress/form-anonymous.php:27
+msgid "Mail (will not be published) (required):"
+msgstr ""
+
+#: bbpress/form-anonymous.php:32 ../fortis7/bbpress/form-anonymous.php:32
+msgid "Website:"
+msgstr ""
+
+#: bbpress/form-forum.php:35 bbpress/form-topic.php:41
+#: ../fortis7/bbpress/form-forum.php:35 ../fortis7/bbpress/form-topic.php:41
+#, php-format
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr ""
+
+#: bbpress/form-forum.php:37 ../fortis7/bbpress/form-forum.php:37
+#, php-format
+msgid "Create New Forum in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: bbpress/form-forum.php:37 ../fortis7/bbpress/form-forum.php:37
+msgid "Create New Forum"
+msgstr ""
+
+#: bbpress/form-forum.php:47 ../fortis7/bbpress/form-forum.php:47
+msgid ""
+"This forum is closed to new content, however your account still allows you "
+"to do so."
+msgstr ""
+
+#: bbpress/form-forum.php:55 bbpress/form-reply.php:44
+#: bbpress/form-topic.php:61 ../fortis7/bbpress/form-forum.php:55
+#: ../fortis7/bbpress/form-reply.php:44 ../fortis7/bbpress/form-topic.php:61
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr ""
+
+#: bbpress/form-forum.php:67 ../fortis7/bbpress/form-forum.php:67
+#, php-format
+msgid "Forum Name (Maximum Length: %d):"
+msgstr ""
+
+#: bbpress/form-forum.php:82 bbpress/form-reply.php:64
+#: bbpress/form-topic.php:90 ../fortis7/bbpress/form-forum.php:82
+#: ../fortis7/bbpress/form-reply.php:64 ../fortis7/bbpress/form-topic.php:90
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+
+#: bbpress/form-forum.php:91 ../fortis7/bbpress/form-forum.php:91
+msgid "Forum Type:"
+msgstr ""
+
+#: bbpress/form-forum.php:100 ../fortis7/bbpress/form-forum.php:100
+msgid "Status:"
+msgstr ""
+
+#: bbpress/form-forum.php:109 ../fortis7/bbpress/form-forum.php:109
+msgid "Visibility:"
+msgstr ""
+
+#: bbpress/form-forum.php:118 ../fortis7/bbpress/form-forum.php:118
+msgid "Parent Forum:"
+msgstr ""
+
+#: bbpress/form-forum.php:123 ../fortis7/bbpress/form-forum.php:123
+msgid "(No Parent)"
+msgstr ""
+
+#: bbpress/form-forum.php:138 bbpress/form-reply-move.php:73
+#: bbpress/form-reply.php:135 bbpress/form-topic-merge.php:94
+#: bbpress/form-topic-split.php:98 bbpress/form-topic.php:203
+#: ../fortis7/bbpress/form-forum.php:138
+#: ../fortis7/bbpress/form-reply-move.php:73
+#: ../fortis7/bbpress/form-reply.php:135
+#: ../fortis7/bbpress/form-topic-merge.php:94
+#: ../fortis7/bbpress/form-topic-split.php:98
+#: ../fortis7/bbpress/form-topic.php:203
+msgid "Submit"
+msgstr ""
+
+#: bbpress/form-forum.php:161 ../fortis7/bbpress/form-forum.php:161
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new content."
+msgstr ""
+
+#: bbpress/form-forum.php:169 ../fortis7/bbpress/form-forum.php:169
+msgid "You cannot create new forums."
+msgstr ""
+
+#: bbpress/form-forum.php:169 ../fortis7/bbpress/form-forum.php:169
+msgid "You must be logged in to create new forums."
+msgstr ""
+
+#: bbpress/form-protected.php:14 ../fortis7/bbpress/form-protected.php:14
+msgid "Protected"
+msgstr ""
+
+#: bbpress/form-reply-move.php:24 ../fortis7/bbpress/form-reply-move.php:24
+#, php-format
+msgid "Move reply \"%s\""
+msgstr ""
+
+#: bbpress/form-reply-move.php:29 ../fortis7/bbpress/form-reply-move.php:29
+msgid ""
+"You can either make this reply a new topic with a new title, or merge it "
+"into an existing topic."
+msgstr ""
+
+#: bbpress/form-reply-move.php:33 ../fortis7/bbpress/form-reply-move.php:33
+msgid ""
+"If you choose an existing topic, replies will be ordered by the time and "
+"date they were created."
+msgstr ""
+
+#: bbpress/form-reply-move.php:37 ../fortis7/bbpress/form-reply-move.php:37
+msgid "Move Method"
+msgstr ""
+
+#: bbpress/form-reply-move.php:41 bbpress/form-topic-split.php:41
+#: ../fortis7/bbpress/form-reply-move.php:41
+#: ../fortis7/bbpress/form-topic-split.php:41
+#, php-format
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr ""
+
+#: bbpress/form-reply-move.php:42 ../fortis7/bbpress/form-reply-move.php:42
+#, php-format
+msgid "Moved: %s"
+msgstr ""
+
+#: bbpress/form-reply-move.php:49 bbpress/form-topic-split.php:49
+#: ../fortis7/bbpress/form-reply-move.php:49
+#: ../fortis7/bbpress/form-topic-split.php:49
+msgid "Use an existing topic in this forum:"
+msgstr ""
+
+#: bbpress/form-reply-move.php:58 bbpress/form-topic-split.php:58
+#: ../fortis7/bbpress/form-reply-move.php:58
+#: ../fortis7/bbpress/form-topic-split.php:58
+msgid "No other topics found!"
+msgstr ""
+
+#: bbpress/form-reply-move.php:69 bbpress/form-topic-merge.php:90
+#: bbpress/form-topic-split.php:94 ../fortis7/bbpress/form-reply-move.php:69
+#: ../fortis7/bbpress/form-topic-merge.php:90
+#: ../fortis7/bbpress/form-topic-split.php:94
+msgid "<strong>WARNING:</strong> This process cannot be undone."
+msgstr ""
+
+#: bbpress/form-reply-move.php:86 ../fortis7/bbpress/form-reply-move.php:86
+msgid "You do not have the permissions to edit this reply!"
+msgstr ""
+
+#: bbpress/form-reply-move.php:86 ../fortis7/bbpress/form-reply-move.php:86
+msgid "You cannot edit this reply."
+msgstr ""
+
+#: bbpress/form-reply.php:29 ../fortis7/bbpress/form-reply.php:29
+#, php-format
+msgid "Reply To: %s"
+msgstr ""
+
+#: bbpress/form-reply.php:36 ../fortis7/bbpress/form-reply.php:36
+msgid ""
+"This topic is marked as closed to new replies, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+
+#: bbpress/form-reply.php:75 ../fortis7/bbpress/form-reply.php:75
+msgid "Tags:"
+msgstr ""
+
+#: bbpress/form-reply.php:93 bbpress/form-topic.php:164
+#: ../fortis7/bbpress/form-reply.php:93 ../fortis7/bbpress/form-topic.php:164
+msgid "Notify the author of follow-up replies via email"
+msgstr ""
+
+#: bbpress/form-reply.php:97 bbpress/form-topic.php:168
+#: ../fortis7/bbpress/form-reply.php:97 ../fortis7/bbpress/form-topic.php:168
+msgid "Notify me of follow-up replies via email"
+msgstr ""
+
+#: bbpress/form-reply.php:114 bbpress/form-topic.php:184
+#: ../fortis7/bbpress/form-reply.php:114 ../fortis7/bbpress/form-topic.php:184
+msgid "Keep a log of this edit:"
+msgstr ""
+
+#: bbpress/form-reply.php:118 bbpress/form-topic.php:188
+#: ../fortis7/bbpress/form-reply.php:118 ../fortis7/bbpress/form-topic.php:188
+msgid "Optional reason for editing:"
+msgstr ""
+
+#: bbpress/form-reply.php:158 ../fortis7/bbpress/form-reply.php:158
+#, php-format
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr ""
+
+#: bbpress/form-reply.php:166 bbpress/form-topic.php:226
+#: ../fortis7/bbpress/form-reply.php:166 ../fortis7/bbpress/form-topic.php:226
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr ""
+
+#: bbpress/form-reply.php:174 ../fortis7/bbpress/form-reply.php:174
+msgid "You cannot reply to this topic."
+msgstr ""
+
+#: bbpress/form-reply.php:174 ../fortis7/bbpress/form-reply.php:174
+msgid "You must be logged in to reply to this topic."
+msgstr ""
+
+#: bbpress/form-search.php:14 ../fortis7/bbpress/form-search.php:14
+msgid "Search for:"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:24 ../fortis7/bbpress/form-topic-merge.php:24
+#, php-format
+msgid "Merge topic \"%s\""
+msgstr ""
+
+#: bbpress/form-topic-merge.php:29 ../fortis7/bbpress/form-topic-merge.php:29
+msgid ""
+"Select the topic to merge this one into. The destination topic will remain "
+"the lead topic, and this one will change into a reply."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:30 ../fortis7/bbpress/form-topic-merge.php:30
+msgid ""
+"To keep this topic as the lead, go to the other topic and use the merge tool "
+"from there instead."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:34 ../fortis7/bbpress/form-topic-merge.php:34
+msgid ""
+"All replies within both topics will be merged chronologically. The order of "
+"the merged replies is based on the time and date they were posted. If the "
+"destination topic was created after this one, it's post date will be updated "
+"to second earlier than this one."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:38 ../fortis7/bbpress/form-topic-merge.php:38
+msgid "Destination"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:42 ../fortis7/bbpress/form-topic-merge.php:42
+msgid "Merge with this topic:"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:51 ../fortis7/bbpress/form-topic-merge.php:51
+msgid "No topics were found to which the topic could be merged to!"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:57 ../fortis7/bbpress/form-topic-merge.php:57
+msgid "There are no other topics in this forum to merge with."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:65 bbpress/form-topic-split.php:69
+#: ../fortis7/bbpress/form-topic-merge.php:65
+#: ../fortis7/bbpress/form-topic-split.php:69
+msgid "Topic Extras"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:72 ../fortis7/bbpress/form-topic-merge.php:72
+msgid "Merge topic subscribers"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:77 ../fortis7/bbpress/form-topic-merge.php:77
+msgid "Merge topic favoriters"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:82 ../fortis7/bbpress/form-topic-merge.php:82
+msgid "Merge topic tags"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:107 bbpress/form-topic-split.php:111
+#: ../fortis7/bbpress/form-topic-merge.php:107
+#: ../fortis7/bbpress/form-topic-split.php:111
+msgid "You do not have the permissions to edit this topic!"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:107 bbpress/form-topic-split.php:111
+#: ../fortis7/bbpress/form-topic-merge.php:107
+#: ../fortis7/bbpress/form-topic-split.php:111
+msgid "You cannot edit this topic."
+msgstr ""
+
+#: bbpress/form-topic-split.php:24 ../fortis7/bbpress/form-topic-split.php:24
+#, php-format
+msgid "Split topic \"%s\""
+msgstr ""
+
+#: bbpress/form-topic-split.php:29 ../fortis7/bbpress/form-topic-split.php:29
+msgid ""
+"When you split a topic, you are slicing it in half starting with the reply "
+"you just selected. Choose to use that reply as a new topic with a new title, "
+"or merge those replies into an existing topic."
+msgstr ""
+
+#: bbpress/form-topic-split.php:33 ../fortis7/bbpress/form-topic-split.php:33
+msgid ""
+"If you use the existing topic option, replies within both topics will be "
+"merged chronologically. The order of the merged replies is based on the time "
+"and date they were posted."
+msgstr ""
+
+#: bbpress/form-topic-split.php:37 ../fortis7/bbpress/form-topic-split.php:37
+msgid "Split Method"
+msgstr ""
+
+#: bbpress/form-topic-split.php:42 ../fortis7/bbpress/form-topic-split.php:42
+#, php-format
+msgid "Split: %s"
+msgstr ""
+
+#: bbpress/form-topic-split.php:76 ../fortis7/bbpress/form-topic-split.php:76
+msgid "Copy subscribers to the new topic"
+msgstr ""
+
+#: bbpress/form-topic-split.php:81 ../fortis7/bbpress/form-topic-split.php:81
+msgid "Copy favoriters to the new topic"
+msgstr ""
+
+#: bbpress/form-topic-split.php:86 ../fortis7/bbpress/form-topic-split.php:86
+msgid "Copy topic tags to the new topic"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:18 ../fortis7/bbpress/form-topic-tag.php:18
+#, php-format
+msgid "Manage Tag: \"%s\""
+msgstr ""
+
+#: bbpress/form-topic-tag.php:22 ../fortis7/bbpress/form-topic-tag.php:22
+msgid "Rename"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:25 ../fortis7/bbpress/form-topic-tag.php:25
+msgid "Leave the slug empty to have one automatically generated."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:29 ../fortis7/bbpress/form-topic-tag.php:29
+msgid ""
+"Changing the slug affects its permalink. Any links to the old slug will stop "
+"working."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:35 ../fortis7/bbpress/form-topic-tag.php:35
+msgid "Name:"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:40 ../fortis7/bbpress/form-topic-tag.php:40
+msgid "Slug:"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:59 ../fortis7/bbpress/form-topic-tag.php:59
+msgid "Merge"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:62 ../fortis7/bbpress/form-topic-tag.php:62
+msgid "Merging tags together cannot be undone."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:68 ../fortis7/bbpress/form-topic-tag.php:68
+msgid "Existing tag:"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:73 ../fortis7/bbpress/form-topic-tag.php:73
+#, php-format
+msgid ""
+"Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:88 ../fortis7/bbpress/form-topic-tag.php:88
+msgid "Delete"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:91 ../fortis7/bbpress/form-topic-tag.php:91
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:94 ../fortis7/bbpress/form-topic-tag.php:94
+msgid "Deleting a tag cannot be undone."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:95 ../fortis7/bbpress/form-topic-tag.php:95
+msgid "Any links to this tag will no longer function."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:101 ../fortis7/bbpress/form-topic-tag.php:101
+#, php-format
+msgid ""
+"Are you sure you want to delete the \"%s\" tag? This is permanent and cannot "
+"be undone."
+msgstr ""
+
+#: bbpress/form-topic.php:43 ../fortis7/bbpress/form-topic.php:43
+#, php-format
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: bbpress/form-topic.php:43 ../fortis7/bbpress/form-topic.php:43
+msgid "Create New Topic"
+msgstr ""
+
+#: bbpress/form-topic.php:53 ../fortis7/bbpress/form-topic.php:53
+msgid ""
+"This forum is marked as closed to new topics, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+
+#: bbpress/form-topic.php:75 ../fortis7/bbpress/form-topic.php:75
+#, php-format
+msgid "Topic Title (Maximum Length: %d):"
+msgstr ""
+
+#: bbpress/form-topic.php:101 ../fortis7/bbpress/form-topic.php:101
+msgid "Topic Tags:"
+msgstr ""
+
+#: bbpress/form-topic.php:114 ../fortis7/bbpress/form-topic.php:114
+msgid "Forum:"
+msgstr ""
+
+#: bbpress/form-topic.php:117 ../fortis7/bbpress/form-topic.php:117
+msgid "(No Forum)"
+msgstr ""
+
+#: bbpress/form-topic.php:133 ../fortis7/bbpress/form-topic.php:133
+msgid "Topic Type:"
+msgstr ""
+
+#: bbpress/form-topic.php:145 ../fortis7/bbpress/form-topic.php:145
+msgid "Topic Status:"
+msgstr ""
+
+#: bbpress/form-topic.php:234 ../fortis7/bbpress/form-topic.php:234
+msgid "You cannot create new topics."
+msgstr ""
+
+#: bbpress/form-topic.php:234 ../fortis7/bbpress/form-topic.php:234
+msgid "You must be logged in to create new topics."
+msgstr ""
+
+#: bbpress/form-user-edit.php:24 ../fortis7/bbpress/form-user-edit.php:24
+msgid "First Name"
+msgstr ""
+
+#: bbpress/form-user-edit.php:29 ../fortis7/bbpress/form-user-edit.php:29
+msgid "Last Name"
+msgstr ""
+
+#: bbpress/form-user-edit.php:34 ../fortis7/bbpress/form-user-edit.php:34
+msgid "Nickname"
+msgstr ""
+
+#: bbpress/form-user-edit.php:39 ../fortis7/bbpress/form-user-edit.php:39
+msgid "Display Name"
+msgstr ""
+
+#: bbpress/form-user-edit.php:49 bbpress/form-user-edit.php:52
+#: ../fortis7/bbpress/form-user-edit.php:49
+#: ../fortis7/bbpress/form-user-edit.php:52
+msgid "Contact Info"
+msgstr ""
+
+#: bbpress/form-user-edit.php:57 ../fortis7/bbpress/form-user-edit.php:57
+msgid "Website"
+msgstr ""
+
+#: bbpress/form-user-edit.php:74 bbpress/form-user-edit.php:77
+#: ../fortis7/bbpress/form-user-edit.php:74
+#: ../fortis7/bbpress/form-user-edit.php:77
+msgid "About Yourself"
+msgstr ""
+
+#: bbpress/form-user-edit.php:74 bbpress/form-user-edit.php:77
+#: ../fortis7/bbpress/form-user-edit.php:74
+#: ../fortis7/bbpress/form-user-edit.php:77
+msgid "About the user"
+msgstr ""
+
+#: bbpress/form-user-edit.php:82 ../fortis7/bbpress/form-user-edit.php:82
+msgid "Biographical Info"
+msgstr ""
+
+#: bbpress/form-user-edit.php:90 bbpress/form-user-edit.php:93
+#: ../fortis7/bbpress/form-user-edit.php:90
+#: ../fortis7/bbpress/form-user-edit.php:93
+msgid "Account"
+msgstr ""
+
+#: bbpress/form-user-edit.php:98 bbpress/form-user-login.php:17
+#: bbpress/form-user-register.php:23
+#: themeple_framework/system/widgets.inc.php:2580
+#: woocommerce/myaccount/form-login.php:66
+#: ../fortis7/bbpress/form-user-edit.php:98
+#: ../fortis7/bbpress/form-user-login.php:17
+#: ../fortis7/bbpress/form-user-register.php:23
+#: ../fortis7/themeple_framework/system/widgets.inc.php:2580
+#: ../fortis7/woocommerce/myaccount/form-login.php:66
+msgid "Username"
+msgstr ""
+
+#: bbpress/form-user-edit.php:103 bbpress/form-user-register.php:28
+#: template_inc/generate_dynamic_template.php:3175
+#: woocommerce/single-product-reviews.php:86
+#: woocommerce/myaccount/form-login.php:78
+#: ../fortis7/bbpress/form-user-edit.php:103
+#: ../fortis7/bbpress/form-user-register.php:28
+#: ../fortis7/template_inc/generate_dynamic_template.php:3175
+#: ../fortis7/woocommerce/single-product-reviews.php:86
+#: ../fortis7/woocommerce/myaccount/form-login.php:78
+msgid "Email"
+msgstr ""
+
+#: bbpress/form-user-edit.php:115 ../fortis7/bbpress/form-user-edit.php:115
+#, php-format
+msgid ""
+"There is a pending email address change to <code>%1$s</code>. <a href=\"%2$s"
+"\">Cancel</a>"
+msgstr ""
+
+#: bbpress/form-user-edit.php:124 ../fortis7/bbpress/form-user-edit.php:124
+msgid "New Password"
+msgstr ""
+
+#: bbpress/form-user-edit.php:127 ../fortis7/bbpress/form-user-edit.php:127
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr ""
+
+#: bbpress/form-user-edit.php:130 ../fortis7/bbpress/form-user-edit.php:130
+msgid "Type your new password again."
+msgstr ""
+
+#: bbpress/form-user-edit.php:133 ../fortis7/bbpress/form-user-edit.php:133
+msgid ""
+"Your password should be at least ten characters long. Use upper and lower "
+"case letters, numbers, and symbols to make it even stronger."
+msgstr ""
+
+#: bbpress/form-user-edit.php:143 bbpress/form-user-edit.php:146
+#: ../fortis7/bbpress/form-user-edit.php:143
+#: ../fortis7/bbpress/form-user-edit.php:146
+msgid "User Role"
+msgstr ""
+
+#: bbpress/form-user-edit.php:153 ../fortis7/bbpress/form-user-edit.php:153
+msgid "Network Role"
+msgstr ""
+
+#: bbpress/form-user-edit.php:156 ../fortis7/bbpress/form-user-edit.php:156
+msgid "Grant this user super admin privileges for the Network."
+msgstr ""
+
+#: bbpress/form-user-edit.php:178 ../fortis7/bbpress/form-user-edit.php:178
+msgid "Update Profile"
+msgstr ""
+
+#: bbpress/form-user-edit.php:178 ../fortis7/bbpress/form-user-edit.php:178
+msgid "Update User"
+msgstr ""
+
+#: bbpress/form-user-login.php:14 bbpress/form-user-login.php:35
+#: ../fortis7/bbpress/form-user-login.php:14
+#: ../fortis7/bbpress/form-user-login.php:35
+msgid "Log In"
+msgstr ""
+
+#: bbpress/form-user-login.php:22
+#: themeple_framework/system/widgets.inc.php:2581
+#: woocommerce/myaccount/form-login.php:33
+#: woocommerce/myaccount/form-login.php:85 woocommerce/shop/form-login.php:24
+#: ../fortis7/bbpress/form-user-login.php:22
+#: ../fortis7/themeple_framework/system/widgets.inc.php:2581
+#: ../fortis7/woocommerce/myaccount/form-login.php:33
+#: ../fortis7/woocommerce/myaccount/form-login.php:85
+#: ../fortis7/woocommerce/shop/form-login.php:24
+msgid "Password"
+msgstr ""
+
+#: bbpress/form-user-login.php:28 ../fortis7/bbpress/form-user-login.php:28
+msgid "Keep me signed in"
+msgstr ""
+
+#: bbpress/form-user-lost-pass.php:14
+#: ../fortis7/bbpress/form-user-lost-pass.php:14
+msgid "Lost Password"
+msgstr ""
+
+#: bbpress/form-user-lost-pass.php:18
+#: ../fortis7/bbpress/form-user-lost-pass.php:18
+msgid "Username or Email"
+msgstr ""
+
+#: bbpress/form-user-lost-pass.php:27
+#: ../fortis7/bbpress/form-user-lost-pass.php:27
+msgid "Reset My Password"
+msgstr ""
+
+#: bbpress/form-user-register.php:14
+#: ../fortis7/bbpress/form-user-register.php:14
+msgid "Create an Account"
+msgstr ""
+
+#: bbpress/form-user-register.php:17
+#: ../fortis7/bbpress/form-user-register.php:17
+msgid "Your username must be unique, and cannot be changed later."
+msgstr ""
+
+#: bbpress/form-user-register.php:18
+#: ../fortis7/bbpress/form-user-register.php:18
+msgid ""
+"We use your email address to email you a secure password and verify your "
+"account."
+msgstr ""
+
+#: bbpress/form-user-register.php:36 woocommerce/myaccount/form-login.php:60
+#: woocommerce/myaccount/form-login.php:101
+#: ../fortis7/bbpress/form-user-register.php:36
+#: ../fortis7/woocommerce/myaccount/form-login.php:60
+#: ../fortis7/woocommerce/myaccount/form-login.php:101
+msgid "Register"
+msgstr ""
+
+#: bbpress/form-user-roles.php:13 ../fortis7/bbpress/form-user-roles.php:13
+msgid "Blog Role"
+msgstr ""
+
+#: bbpress/form-user-roles.php:20 ../fortis7/bbpress/form-user-roles.php:20
+msgid "Forum Role"
+msgstr ""
+
+#: bbpress/loop-forums.php:19 ../fortis7/bbpress/loop-forums.php:19
+msgid "Forum"
+msgstr ""
+
+#: bbpress/loop-forums.php:21 bbpress/loop-topics.php:21
+#: ../fortis7/bbpress/loop-forums.php:21 ../fortis7/bbpress/loop-topics.php:21
+msgid "Posts"
+msgstr ""
+
+#: bbpress/loop-search-forum.php:16
+#: ../fortis7/bbpress/loop-search-forum.php:16
+#, php-format
+msgid "Last updated %s"
+msgstr ""
+
+#: bbpress/loop-search-forum.php:26
+#: ../fortis7/bbpress/loop-search-forum.php:26
+msgid "Forum: "
+msgstr ""
+
+#: bbpress/loop-search-reply.php:20
+#: ../fortis7/bbpress/loop-search-reply.php:20
+msgid "In reply to: "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:24
+#: ../fortis7/bbpress/loop-search-topic.php:24
+msgid "Topic: "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:31
+#: ../fortis7/bbpress/loop-search-topic.php:31
+msgid "in group forum "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:35
+#: ../fortis7/bbpress/loop-search-topic.php:35
+msgid "in forum "
+msgstr ""
+
+#: bbpress/loop-search.php:18 bbpress/loop-search.php:40
+#: ../fortis7/bbpress/loop-search.php:18 ../fortis7/bbpress/loop-search.php:40
+msgid "Author"
+msgstr ""
+
+#: bbpress/loop-search.php:22 ../fortis7/bbpress/loop-search.php:22
+msgid "Search Results"
+msgstr ""
+
+#: bbpress/loop-single-reply.php:20
+#: ../fortis7/bbpress/loop-single-reply.php:20
+msgid "in reply to: "
+msgstr ""
+
+#: bbpress/loop-single-topic.php:60
+#: ../fortis7/bbpress/loop-single-topic.php:60
+#, php-format
+msgid "Started by: %1$s"
+msgstr ""
+
+#: bbpress/loop-single-topic.php:68
+#: ../fortis7/bbpress/loop-single-topic.php:68
+#, php-format
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: bbpress/loop-topics.php:20 ../fortis7/bbpress/loop-topics.php:20
+msgid "Voices"
+msgstr ""
+
+#: bbpress/user-details.php:29 bbpress/user-profile.php:15
+#: ../fortis7/bbpress/user-details.php:29
+#: ../fortis7/bbpress/user-profile.php:15
+msgid "Profile"
+msgstr ""
+
+#: bbpress/user-details.php:35 ../fortis7/bbpress/user-details.php:35
+msgid "Topics Started"
+msgstr ""
+
+#: bbpress/user-details.php:41 ../fortis7/bbpress/user-details.php:41
+msgid "Replies Created"
+msgstr ""
+
+#: bbpress/user-details.php:48 ../fortis7/bbpress/user-details.php:48
+msgid "Favorites"
+msgstr ""
+
+#: bbpress/user-details.php:58 ../fortis7/bbpress/user-details.php:58
+msgid "Subscriptions"
+msgstr ""
+
+#: bbpress/user-details.php:65 woocommerce/myaccount/my-address.php:45
+#: ../fortis7/bbpress/user-details.php:65
+#: ../fortis7/woocommerce/myaccount/my-address.php:45
+#: ../twentythirteen/content-aside.php:20
+#: ../twentythirteen/content-aside.php:28
+#: ../twentythirteen/content-audio.php:31
+#: ../twentythirteen/content-chat.php:29
+#: ../twentythirteen/content-gallery.php:39
+#: ../twentythirteen/content-image.php:35
+#: ../twentythirteen/content-link.php:19
+#: ../twentythirteen/content-quote.php:25
+#: ../twentythirteen/content-status.php:19
+#: ../twentythirteen/content-video.php:35 ../twentythirteen/content.php:29
+#: ../twentythirteen/image.php:44 ../twentythirteen/page.php:39
+#: ../twentytwelve/content-aside.php:26 ../twentytwelve/content-image.php:26
+#: ../twentytwelve/content-link.php:24 ../twentytwelve/content-page.php:24
+#: ../twentytwelve/content-quote.php:23 ../twentytwelve/content-status.php:30
+#: ../twentytwelve/content.php:46 ../twentytwelve/functions.php:341
+#: ../twentytwelve/image.php:37
+msgid "Edit"
+msgstr ""
+
+#: bbpress/user-favorites.php:15 ../fortis7/bbpress/user-favorites.php:15
+msgid "Favorite Forum Topics"
+msgstr ""
+
+#: bbpress/user-favorites.php:28 ../fortis7/bbpress/user-favorites.php:28
+msgid "You currently have no favorite topics."
+msgstr ""
+
+#: bbpress/user-favorites.php:28 ../fortis7/bbpress/user-favorites.php:28
+msgid "This user has no favorite topics."
+msgstr ""
+
+#: bbpress/user-profile.php:24 ../fortis7/bbpress/user-profile.php:24
+#, php-format
+msgid "Forum Role: %s"
+msgstr ""
+
+#: bbpress/user-profile.php:25 ../fortis7/bbpress/user-profile.php:25
+#, php-format
+msgid "Topics Started: %s"
+msgstr ""
+
+#: bbpress/user-profile.php:26 ../fortis7/bbpress/user-profile.php:26
+#, php-format
+msgid "Replies Created: %s"
+msgstr ""
+
+#: bbpress/user-replies-created.php:15
+#: ../fortis7/bbpress/user-replies-created.php:15
+msgid "Forum Replies Created"
+msgstr ""
+
+#: bbpress/user-replies-created.php:28
+#: ../fortis7/bbpress/user-replies-created.php:28
+msgid "You have not replied to any topics."
+msgstr ""
+
+#: bbpress/user-replies-created.php:28
+#: ../fortis7/bbpress/user-replies-created.php:28
+msgid "This user has not replied to any topics."
+msgstr ""
+
+#: bbpress/user-subscriptions.php:19
+#: ../fortis7/bbpress/user-subscriptions.php:19
+msgid "Subscribed Forum Topics"
+msgstr ""
+
+#: bbpress/user-subscriptions.php:32
+#: ../fortis7/bbpress/user-subscriptions.php:32
+msgid "You are not currently subscribed to any topics."
+msgstr ""
+
+#: bbpress/user-subscriptions.php:32
+#: ../fortis7/bbpress/user-subscriptions.php:32
+msgid "This user is not currently subscribed to any topics."
+msgstr ""
+
+#: bbpress/user-topics-created.php:15
+#: ../fortis7/bbpress/user-topics-created.php:15
+msgid "Forum Topics Started"
+msgstr ""
+
+#: bbpress/user-topics-created.php:28
+#: ../fortis7/bbpress/user-topics-created.php:28
+msgid "You have not created any topics."
+msgstr ""
+
+#: bbpress/user-topics-created.php:28
+#: ../fortis7/bbpress/user-topics-created.php:28
+msgid "This user has not created any topics."
+msgstr ""
+
+#: extras/page-forum-statistics.php:94
+#: ../fortis7/extras/page-forum-statistics.php:94
+msgid "<p>Here are the statistics and popular topics of our forums.</p>"
+msgstr ""
+
+#: extras/page-topic-tags.php:94 ../fortis7/extras/page-topic-tags.php:94
+msgid ""
+"<p>This is a collection of tags that are currently popular on our forums.</p>"
+msgstr ""
+
+#: extras/taxonomy-topic-tag-edit.php:17 extras/taxonomy-topic-tag.php:17
+#: ../fortis7/extras/taxonomy-topic-tag-edit.php:17
+#: ../fortis7/extras/taxonomy-topic-tag.php:17
+#, php-format
+msgid "Topic Tag: %s"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:167
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:180
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:517
+#: plugins/class-tgm-plugin-activation.php:2058
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:517
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:545
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:704
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1091
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1096
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1099
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1103
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1106
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1106
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1109
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1111
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1281
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1297
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1298
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1299
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1300
+#: woocommerce/myaccount/my-orders.php:34
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1300
+#: ../fortis7/woocommerce/myaccount/my-orders.php:34
+msgid "Status"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1318
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1319
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1829
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1830
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1831
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1832
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1833
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1834
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1845
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1955
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1956
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1956
+#: plugins/class-tgm-plugin-activation.php:1965
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1956
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1956
+#: plugins/class-tgm-plugin-activation.php:1965
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1956
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1957
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1958
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1962
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1963
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1964
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1965
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1966
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: plugins/class-tgm-plugin-activation.php:1967
+#: ../fortis7/plugins/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: template_inc/generate_dynamic_template.php:803
+#: template_inc/generate_dynamic_template.php:1150
+#: template_inc/loop-blog-grid.php:437 template_inc/loop-blog-masonry.php:237
+#: template_inc/loop-blog-second-style.php:202 template_inc/loop-index.php:207
+#: template_inc/slideshow.inc.php:348
+#: ../fortis7/template_inc/generate_dynamic_template.php:803
+#: ../fortis7/template_inc/generate_dynamic_template.php:1150
+#: ../fortis7/template_inc/loop-blog-grid.php:437
+#: ../fortis7/template_inc/loop-blog-masonry.php:237
+#: ../fortis7/template_inc/loop-blog-second-style.php:202
+#: ../fortis7/template_inc/loop-index.php:207
+#: ../fortis7/template_inc/slideshow.inc.php:348
+msgid "Comments"
+msgstr ""
+
+#: template_inc/generate_dynamic_template.php:814
+#: template_inc/generate_dynamic_template.php:1159
+#: template_inc/generate_dynamic_template.php:2667
+#: template_inc/generate_dynamic_template.php:2737
+#: template_inc/loop-blog-grid.php:493 template_inc/loop-blog-masonry.php:255
+#: template_inc/loop-blog-second-style.php:229 template_inc/loop-index.php:312
+#: template_inc/loop-portfolio-grid.php:141
+#: template_inc/loop-portfolio-list.php:283
+#: template_inc/loop-portfolio-masonry.php:283
+#: template_inc/slideshow.inc.php:349
+#: themeple_framework/system/widgets.inc.php:2769
+#: woocommerce/loop/add-to-cart.php:17 woocommerce/loop/add-to-cart.php:41
+#: woocommerce/loop/add-to-cart.php:50
+#: ../fortis7/template_inc/generate_dynamic_template.php:814
+#: ../fortis7/template_inc/generate_dynamic_template.php:1159
+#: ../fortis7/template_inc/generate_dynamic_template.php:2667
+#: ../fortis7/template_inc/generate_dynamic_template.php:2737
+#: ../fortis7/template_inc/loop-blog-grid.php:493
+#: ../fortis7/template_inc/loop-blog-masonry.php:255
+#: ../fortis7/template_inc/loop-blog-second-style.php:229
+#: ../fortis7/template_inc/loop-index.php:312
+#: ../fortis7/template_inc/loop-portfolio-grid.php:141
+#: ../fortis7/template_inc/loop-portfolio-list.php:283
+#: ../fortis7/template_inc/loop-portfolio-masonry.php:283
+#: ../fortis7/template_inc/slideshow.inc.php:349
+#: ../fortis7/themeple_framework/system/widgets.inc.php:2769
+#: ../fortis7/woocommerce/loop/add-to-cart.php:17
+#: ../fortis7/woocommerce/loop/add-to-cart.php:41
+#: ../fortis7/woocommerce/loop/add-to-cart.php:50
+msgid "Read More"
+msgstr "Leggi di piu"
+
+#: template_inc/generate_dynamic_template.php:3174
+#: ../fortis7/template_inc/generate_dynamic_template.php:3174
+msgid "Your Name"
+msgstr ""
+
+#: template_inc/loop-blog-grid.php:443
+#: template_inc/loop-blog-second-style.php:205 template_inc/loop-index.php:213
+#: ../fortis7/template_inc/loop-blog-grid.php:443
+#: ../fortis7/template_inc/loop-blog-second-style.php:205
+#: ../fortis7/template_inc/loop-index.php:213
+#: ../twentythirteen/content-gallery.php:36
+#: ../twentythirteen/content-image.php:32
+#: ../twentythirteen/content-quote.php:22
+#: ../twentythirteen/content-video.php:32 ../twentythirteen/content.php:47
+msgid "Leave a comment"
+msgstr ""
+
+#: template_inc/loop-blog-masonry.php:235
+#: ../fortis7/template_inc/loop-blog-masonry.php:235
+msgid "By"
+msgstr ""
+
+#: template_inc/loop-index.php:209 ../fortis7/template_inc/loop-index.php:209
+msgid "by"
+msgstr ""
+
+#: template_inc/loop-index.php:275 ../fortis7/template_inc/loop-index.php:275
+msgid "Share This Story"
+msgstr ""
+
+#: template_inc/loop-portfolio-list.php:399
+#: ../fortis7/template_inc/loop-portfolio-list.php:399
+msgid "View Details"
+msgstr ""
+
+#: template_inc/loop-single_portfolio_bottom.php:34
+#: template_inc/loop-single_portfolio_left.php:22
+#: template_inc/loop-single_portfolio_right.php:42
+#: template_inc/loop-single_portfolio_wide.php:38
+#: ../fortis7/template_inc/loop-single_portfolio_bottom.php:34
+#: ../fortis7/template_inc/loop-single_portfolio_left.php:22
+#: ../fortis7/template_inc/loop-single_portfolio_right.php:42
+#: ../fortis7/template_inc/loop-single_portfolio_wide.php:38
+msgid "About Project"
+msgstr ""
+
+#: template_inc/loop-single_portfolio_bottom.php:40
+#: template_inc/loop-single_portfolio_left.php:28
+#: template_inc/loop-single_portfolio_right.php:48
+#: template_inc/loop-single_portfolio_wide.php:44
+#: ../fortis7/template_inc/loop-single_portfolio_bottom.php:40
+#: ../fortis7/template_inc/loop-single_portfolio_left.php:28
+#: ../fortis7/template_inc/loop-single_portfolio_right.php:48
+#: ../fortis7/template_inc/loop-single_portfolio_wide.php:44
+msgid "Project Details"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:15
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:15
+msgid "Featured Portfolio"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:275
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:275
+msgid "Recent News"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:401
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:401
+msgid "Latest From Blog"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:616
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:616
+msgid "Full Blog"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:705
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:705
+msgid "Full Portfolio"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:782
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:782
+msgid "FAQ"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:856
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:856
+msgid "One Staff Member"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:942
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:942
+msgid "Slideshow"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:1076
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:1076
+msgid "Single Testimonial"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:1186
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:1186
+msgid "Simple Testimonial (Circular)"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:1252
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:1252
+msgid "Clients"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:1337
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:1337
+msgid "Divider"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:1390
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:1390
+msgid "Content (Shortcodes)"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:1466
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:1466
+msgid "Post/Page Content"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:1597
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:1597
+msgid "Widget"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:1694
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:1694
+msgid "Contact Form"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:1827
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:1827
+msgid "Google Map"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:1968
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:1968
+msgid "Element Header"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:2063
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:2063
+msgid "Text Bar"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:2171
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:2171
+msgid "Plain Text"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:2375
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:2375
+msgid "Toggles"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:2524
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:2524
+msgid "Services List"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:2655
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:2655
+msgid "Services Small"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:3036
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:3036
+msgid "Services Medium"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:3285
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:3285
+msgid "Services Medium Box"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:3534
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:3534
+msgid "Services Media"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:3697
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:3697
+msgid "Media"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:3874
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:3874
+msgid "Tabs"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:4076
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:4076
+msgid "Chart Skill"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:4099
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:4099
+msgid "Percentage %"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:4194
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:4194
+msgid "Skills"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:4350
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:4350
+msgid "Section Start"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:4504
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:4504
+msgid "Section End"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:4544
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:4544
+msgid "Page Intro"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:4641
+#: template_inc/admin/admin_metabox.php:52
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:4641
+#: ../fortis7/template_inc/admin/admin_metabox.php:52
+msgid "Page Header"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:4775
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:4775
+msgid "Great Gallery"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:4817
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:4817
+msgid "Countdown"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:4888
+#: ../fortis7/template_inc/admin/admin_dynamic_options.php:4888
+msgid "Price List"
+msgstr ""
+
+#: template_inc/admin/admin_faq_type.php:31
+#: ../fortis7/template_inc/admin/admin_faq_type.php:31
+msgid "Add New Faq Entry"
+msgstr ""
+
+#: template_inc/admin/admin_faq_type.php:33
+#: ../fortis7/template_inc/admin/admin_faq_type.php:33
+msgid "Edit Faq Entry"
+msgstr ""
+
+#: template_inc/admin/admin_faq_type.php:35
+#: ../fortis7/template_inc/admin/admin_faq_type.php:35
+msgid "New Faq Entry"
+msgstr ""
+
+#: template_inc/admin/admin_faq_type.php:37
+#: ../fortis7/template_inc/admin/admin_faq_type.php:37
+msgid "View Faq Entry"
+msgstr ""
+
+#: template_inc/admin/admin_faq_type.php:39
+#: ../fortis7/template_inc/admin/admin_faq_type.php:39
+msgid "Search Faq Entries"
+msgstr ""
+
+#: template_inc/admin/admin_faq_type.php:41
+#: ../fortis7/template_inc/admin/admin_faq_type.php:41
+msgid "No Faq Entries found"
+msgstr ""
+
+#: template_inc/admin/admin_faq_type.php:43
+#: ../fortis7/template_inc/admin/admin_faq_type.php:43
+msgid "No Faq Entries found in Trash"
+msgstr ""
+
+#: template_inc/admin/admin_greatgallery_type.php:31
+#: ../fortis7/template_inc/admin/admin_greatgallery_type.php:31
+msgid "Add New Gallery Entry"
+msgstr ""
+
+#: template_inc/admin/admin_greatgallery_type.php:33
+#: ../fortis7/template_inc/admin/admin_greatgallery_type.php:33
+msgid "Edit Gallery Entry"
+msgstr ""
+
+#: template_inc/admin/admin_greatgallery_type.php:35
+#: ../fortis7/template_inc/admin/admin_greatgallery_type.php:35
+msgid "New Gallery Entry"
+msgstr ""
+
+#: template_inc/admin/admin_greatgallery_type.php:37
+#: ../fortis7/template_inc/admin/admin_greatgallery_type.php:37
+msgid "View Gallery Entry"
+msgstr ""
+
+#: template_inc/admin/admin_greatgallery_type.php:39
+#: ../fortis7/template_inc/admin/admin_greatgallery_type.php:39
+msgid "Search Gallery Entries"
+msgstr ""
+
+#: template_inc/admin/admin_greatgallery_type.php:41
+#: ../fortis7/template_inc/admin/admin_greatgallery_type.php:41
+msgid "No Gallery Entries found"
+msgstr ""
+
+#: template_inc/admin/admin_greatgallery_type.php:43
+#: ../fortis7/template_inc/admin/admin_greatgallery_type.php:43
+msgid "No Gallery Entries found in Trash"
+msgstr ""
+
+#: template_inc/admin/admin_headers_type.php:31
+#: ../fortis7/template_inc/admin/admin_headers_type.php:31
+msgid "Add New Header Entry"
+msgstr ""
+
+#: template_inc/admin/admin_headers_type.php:33
+#: ../fortis7/template_inc/admin/admin_headers_type.php:33
+msgid "Edit Header Entry"
+msgstr ""
+
+#: template_inc/admin/admin_headers_type.php:35
+#: ../fortis7/template_inc/admin/admin_headers_type.php:35
+msgid "New Header Entry"
+msgstr ""
+
+#: template_inc/admin/admin_headers_type.php:37
+#: ../fortis7/template_inc/admin/admin_headers_type.php:37
+msgid "View Header Entry"
+msgstr ""
+
+#: template_inc/admin/admin_headers_type.php:39
+#: ../fortis7/template_inc/admin/admin_headers_type.php:39
+msgid "Search Header Entries"
+msgstr ""
+
+#: template_inc/admin/admin_headers_type.php:41
+#: ../fortis7/template_inc/admin/admin_headers_type.php:41
+msgid "No Header Entries found"
+msgstr ""
+
+#: template_inc/admin/admin_headers_type.php:43
+#: ../fortis7/template_inc/admin/admin_headers_type.php:43
+msgid "No Header Entries found in Trash"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:49
+#: template_inc/admin/admin_metabox.php:287
+#: ../fortis7/template_inc/admin/admin_metabox.php:49
+#: ../fortis7/template_inc/admin/admin_metabox.php:287
+msgid "Layout"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:51
+#: template_inc/admin/admin_metabox.php:54
+#: ../fortis7/template_inc/admin/admin_metabox.php:51
+#: ../fortis7/template_inc/admin/admin_metabox.php:54
+msgid "Slideshow Options"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:53
+#: ../fortis7/template_inc/admin/admin_metabox.php:53
+msgid "Big Title Options"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:56
+#: template_inc/admin/admin_metabox.php:57
+#: ../fortis7/template_inc/admin/admin_metabox.php:56
+#: ../fortis7/template_inc/admin/admin_metabox.php:57
+msgid "Media - Add any number images and videos for the slider"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:58
+#: ../fortis7/template_inc/admin/admin_metabox.php:58
+msgid "Project Info"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:59
+#: ../fortis7/template_inc/admin/admin_metabox.php:59
+msgid "Testimonial Options"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:60
+#: ../fortis7/template_inc/admin/admin_metabox.php:60
+msgid "Social Links"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:61
+#: ../fortis7/template_inc/admin/admin_metabox.php:61
+msgid "Post Options"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:62
+#: ../fortis7/template_inc/admin/admin_metabox.php:62
+msgid "Meta Fields"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:63
+#: ../fortis7/template_inc/admin/admin_metabox.php:63
+msgid "Position"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:64
+#: ../fortis7/template_inc/admin/admin_metabox.php:64
+msgid "Services Options"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:65
+#: ../fortis7/template_inc/admin/admin_metabox.php:65
+msgid "Faq Options"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:78
+#: ../fortis7/template_inc/admin/admin_metabox.php:78
+msgid "Select Page layout"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:100
+#: template_inc/admin/admin_metabox.php:331
+#: ../fortis7/template_inc/admin/admin_metabox.php:100
+#: ../fortis7/template_inc/admin/admin_metabox.php:331
+msgid "Which Slider do you want to use?"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:108
+#: ../fortis7/template_inc/admin/admin_metabox.php:108
+msgid "Slideshow Layout"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:123
+#: ../fortis7/template_inc/admin/admin_metabox.php:123
+msgid "Section Around The Slider ?"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:135
+#: ../fortis7/template_inc/admin/admin_metabox.php:135
+msgid "Color or Background ?"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:148
+#: ../fortis7/template_inc/admin/admin_metabox.php:148
+msgid "Select The Color"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:160
+#: ../fortis7/template_inc/admin/admin_metabox.php:160
+msgid "Do you want Padding from the top ?"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:173
+#: template_inc/admin/admin_metabox.php:722
+#: ../fortis7/template_inc/admin/admin_metabox.php:173
+#: ../fortis7/template_inc/admin/admin_metabox.php:722
+msgid "Upload The Background"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:186
+#: template_inc/admin/admin_metabox.php:197
+#: ../fortis7/template_inc/admin/admin_metabox.php:186
+#: ../fortis7/template_inc/admin/admin_metabox.php:197
+msgid "Select one of the sliders you have created"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:209
+#: template_inc/admin/admin_metabox.php:220
+#: ../fortis7/template_inc/admin/admin_metabox.php:209
+#: ../fortis7/template_inc/admin/admin_metabox.php:220
+msgid "Select From Where Get the Sliders ?"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:231
+#: ../fortis7/template_inc/admin/admin_metabox.php:231
+msgid "Number of Slides ?"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:242
+#: ../fortis7/template_inc/admin/admin_metabox.php:242
+msgid "Do you want to add Nested Sliders?"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:251
+#: ../fortis7/template_inc/admin/admin_metabox.php:251
+msgid "Nested Sliders"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:266
+#: ../fortis7/template_inc/admin/admin_metabox.php:266
+msgid ""
+"Select the Page from where you want to get the images for this nested slider"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:267
+#: ../fortis7/template_inc/admin/admin_metabox.php:267
+msgid "Select the Page"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:277
+#: ../fortis7/template_inc/admin/admin_metabox.php:277
+msgid "Change the Order"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:300
+#: ../fortis7/template_inc/admin/admin_metabox.php:300
+msgid "How much images (columns) to show in one row?"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:310
+#: ../fortis7/template_inc/admin/admin_metabox.php:310
+msgid "How much rows?"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:321
+#: ../fortis7/template_inc/admin/admin_metabox.php:321
+msgid "Number of Slides?"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:494
+#: ../fortis7/template_inc/admin/admin_metabox.php:494
+msgid "Facebook Link"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:500
+#: ../fortis7/template_inc/admin/admin_metabox.php:500
+msgid "Twitter Link"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:505
+#: ../fortis7/template_inc/admin/admin_metabox.php:505
+msgid "Google Plus Link"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:510
+#: ../fortis7/template_inc/admin/admin_metabox.php:510
+msgid "Linkedin Link"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:515
+#: ../fortis7/template_inc/admin/admin_metabox.php:515
+msgid "Piterest Link"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:520
+#: ../fortis7/template_inc/admin/admin_metabox.php:520
+msgid "Mail Address"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:527
+#: ../fortis7/template_inc/admin/admin_metabox.php:527
+msgid "The position of the employer"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:534
+#: ../fortis7/template_inc/admin/admin_metabox.php:534
+msgid "The position of the image you have selected as feature image"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:546
+#: ../fortis7/template_inc/admin/admin_metabox.php:546
+msgid "Header text on the top?"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:553
+#: ../fortis7/template_inc/admin/admin_metabox.php:553
+msgid ""
+"Select the style that you want to display the content before the slideshow"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:561
+#: ../fortis7/template_inc/admin/admin_metabox.php:561
+msgid "Biggest Title"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:569
+#: ../fortis7/template_inc/admin/admin_metabox.php:569
+msgid "Second Title"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:577
+#: ../fortis7/template_inc/admin/admin_metabox.php:577
+msgid "Right Description"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:585
+#: ../fortis7/template_inc/admin/admin_metabox.php:585
+msgid "Link Title"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:593
+#: ../fortis7/template_inc/admin/admin_metabox.php:593
+#: ../twentytwelve/content-link.php:12
+msgid "Link"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:601
+#: ../fortis7/template_inc/admin/admin_metabox.php:601
+msgid "Title 1"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:609
+#: ../fortis7/template_inc/admin/admin_metabox.php:609
+msgid "Icon 1"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:620
+#: ../fortis7/template_inc/admin/admin_metabox.php:620
+msgid "Title 2"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:628
+#: ../fortis7/template_inc/admin/admin_metabox.php:628
+msgid "Icon 2"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:638
+#: ../fortis7/template_inc/admin/admin_metabox.php:638
+msgid "Title 3"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:646
+#: ../fortis7/template_inc/admin/admin_metabox.php:646
+msgid "Icon 3"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:655
+#: ../fortis7/template_inc/admin/admin_metabox.php:655
+msgid "Title 4"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:663
+#: ../fortis7/template_inc/admin/admin_metabox.php:663
+msgid "Icon 4"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:672
+#: ../fortis7/template_inc/admin/admin_metabox.php:672
+msgid "Do you want Big Title on Top ?"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:679
+#: ../fortis7/template_inc/admin/admin_metabox.php:679
+msgid "Text"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:687
+#: ../fortis7/template_inc/admin/admin_metabox.php:687
+msgid "Do you want page Header?"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:694
+#: ../fortis7/template_inc/admin/admin_metabox.php:694
+msgid "Animated?"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:703
+#: ../fortis7/template_inc/admin/admin_metabox.php:703
+msgid "Background Color or Background Image ?"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:712
+#: ../fortis7/template_inc/admin/admin_metabox.php:712
+msgid "Select the color"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:731
+#: ../fortis7/template_inc/admin/admin_metabox.php:731
+msgid "Centered or full?"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:741
+#: ../fortis7/template_inc/admin/admin_metabox.php:741
+msgid "Project Author"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:770
+#: ../fortis7/template_inc/admin/admin_metabox.php:770
+msgid "Portfolio Meta Information"
+msgstr ""
+
+#: template_inc/admin/admin_portfolio_type.php:31
+#: ../fortis7/template_inc/admin/admin_portfolio_type.php:31
+msgid "Add New Portfolio Entry"
+msgstr ""
+
+#: template_inc/admin/admin_portfolio_type.php:33
+#: ../fortis7/template_inc/admin/admin_portfolio_type.php:33
+msgid "Edit Portfolio Entry"
+msgstr ""
+
+#: template_inc/admin/admin_portfolio_type.php:35
+#: ../fortis7/template_inc/admin/admin_portfolio_type.php:35
+msgid "New Portfolio Entry"
+msgstr ""
+
+#: template_inc/admin/admin_portfolio_type.php:37
+#: ../fortis7/template_inc/admin/admin_portfolio_type.php:37
+msgid "View Portfolio Entry"
+msgstr ""
+
+#: template_inc/admin/admin_portfolio_type.php:39
+#: ../fortis7/template_inc/admin/admin_portfolio_type.php:39
+msgid "Search Portfolio Entries"
+msgstr ""
+
+#: template_inc/admin/admin_portfolio_type.php:41
+#: ../fortis7/template_inc/admin/admin_portfolio_type.php:41
+msgid "No Portfolio Entries found"
+msgstr ""
+
+#: template_inc/admin/admin_portfolio_type.php:43
+#: ../fortis7/template_inc/admin/admin_portfolio_type.php:43
+msgid "No Portfolio Entries found in Trash"
+msgstr ""
+
+#: template_inc/admin/admin_projectslider_type.php:31
+#: ../fortis7/template_inc/admin/admin_projectslider_type.php:31
+msgid "Add New Slide"
+msgstr ""
+
+#: template_inc/admin/admin_projectslider_type.php:33
+#: ../fortis7/template_inc/admin/admin_projectslider_type.php:33
+msgid "Edit Slide"
+msgstr ""
+
+#: template_inc/admin/admin_projectslider_type.php:35
+#: ../fortis7/template_inc/admin/admin_projectslider_type.php:35
+msgid "New Slide"
+msgstr ""
+
+#: template_inc/admin/admin_projectslider_type.php:37
+#: ../fortis7/template_inc/admin/admin_projectslider_type.php:37
+msgid "View Slides"
+msgstr ""
+
+#: template_inc/admin/admin_projectslider_type.php:39
+#: ../fortis7/template_inc/admin/admin_projectslider_type.php:39
+msgid "Search Slides"
+msgstr ""
+
+#: template_inc/admin/admin_projectslider_type.php:41
+#: ../fortis7/template_inc/admin/admin_projectslider_type.php:41
+msgid "No Slides Entries found"
+msgstr ""
+
+#: template_inc/admin/admin_projectslider_type.php:43
+#: ../fortis7/template_inc/admin/admin_projectslider_type.php:43
+msgid "No Slides found in Trash"
+msgstr ""
+
+#: template_inc/admin/admin_services_type.php:31
+#: ../fortis7/template_inc/admin/admin_services_type.php:31
+msgid "Add New Service Entry"
+msgstr ""
+
+#: template_inc/admin/admin_services_type.php:33
+#: ../fortis7/template_inc/admin/admin_services_type.php:33
+msgid "Edit Service Entry"
+msgstr ""
+
+#: template_inc/admin/admin_services_type.php:35
+#: ../fortis7/template_inc/admin/admin_services_type.php:35
+msgid "New Service Entry"
+msgstr ""
+
+#: template_inc/admin/admin_services_type.php:37
+#: ../fortis7/template_inc/admin/admin_services_type.php:37
+msgid "View Service Entry"
+msgstr ""
+
+#: template_inc/admin/admin_services_type.php:39
+#: ../fortis7/template_inc/admin/admin_services_type.php:39
+msgid "Search Service Entries"
+msgstr ""
+
+#: template_inc/admin/admin_services_type.php:41
+#: ../fortis7/template_inc/admin/admin_services_type.php:41
+msgid "No Service Entries found"
+msgstr ""
+
+#: template_inc/admin/admin_services_type.php:43
+#: ../fortis7/template_inc/admin/admin_services_type.php:43
+msgid "No Service Entries found in Trash"
+msgstr ""
+
+#: template_inc/admin/admin_staff_type.php:16
+#: ../fortis7/template_inc/admin/admin_staff_type.php:16
+msgid "Add New Staff Entry"
+msgstr ""
+
+#: template_inc/admin/admin_staff_type.php:17
+#: ../fortis7/template_inc/admin/admin_staff_type.php:17
+msgid "Edit Staff Entry"
+msgstr ""
+
+#: template_inc/admin/admin_staff_type.php:18
+#: ../fortis7/template_inc/admin/admin_staff_type.php:18
+msgid "New Staff Entry"
+msgstr ""
+
+#: template_inc/admin/admin_staff_type.php:19
+#: ../fortis7/template_inc/admin/admin_staff_type.php:19
+msgid "View Staff Entry"
+msgstr ""
+
+#: template_inc/admin/admin_staff_type.php:20
+#: ../fortis7/template_inc/admin/admin_staff_type.php:20
+msgid "Search Staff Entries"
+msgstr ""
+
+#: template_inc/admin/admin_staff_type.php:21
+#: ../fortis7/template_inc/admin/admin_staff_type.php:21
+msgid "No Staff Entries found"
+msgstr ""
+
+#: template_inc/admin/admin_staff_type.php:22
+#: ../fortis7/template_inc/admin/admin_staff_type.php:22
+msgid "No Staff Entries found in Trash"
+msgstr ""
+
+#: template_inc/admin/admin_testimonial_type.php:31
+#: ../fortis7/template_inc/admin/admin_testimonial_type.php:31
+msgid "Add New Testimonial Entry"
+msgstr ""
+
+#: template_inc/admin/admin_testimonial_type.php:33
+#: ../fortis7/template_inc/admin/admin_testimonial_type.php:33
+msgid "Edit Testimonial Entry"
+msgstr ""
+
+#: template_inc/admin/admin_testimonial_type.php:35
+#: ../fortis7/template_inc/admin/admin_testimonial_type.php:35
+msgid "New Testimonial Entry"
+msgstr ""
+
+#: template_inc/admin/admin_testimonial_type.php:37
+#: ../fortis7/template_inc/admin/admin_testimonial_type.php:37
+msgid "View Testimonial Entry"
+msgstr ""
+
+#: template_inc/admin/admin_testimonial_type.php:39
+#: ../fortis7/template_inc/admin/admin_testimonial_type.php:39
+msgid "Search Testimonial Entries"
+msgstr ""
+
+#: template_inc/admin/admin_testimonial_type.php:41
+#: ../fortis7/template_inc/admin/admin_testimonial_type.php:41
+msgid "No Testimonial Entries found"
+msgstr ""
+
+#: template_inc/admin/admin_testimonial_type.php:43
+#: ../fortis7/template_inc/admin/admin_testimonial_type.php:43
+msgid "No Testimonial Entries found in Trash"
+msgstr ""
+
+#: template_inc/admin/register-sidebars.php:38
+#: ../fortis7/template_inc/admin/register-sidebars.php:38
+msgid "Top Header Left"
+msgstr ""
+
+#: template_inc/admin/register-sidebars.php:49
+#: ../fortis7/template_inc/admin/register-sidebars.php:49
+msgid "Top Header Right"
+msgstr ""
+
+#: template_inc/admin/register-sidebars.php:57
+#: ../fortis7/template_inc/admin/register-sidebars.php:57
+msgid "Header Right Widgetized"
+msgstr ""
+
+#: template_inc/admin/register-sidebars.php:66
+#: ../fortis7/template_inc/admin/register-sidebars.php:66
+msgid "Bbpress Sidebar"
+msgstr ""
+
+#: template_inc/admin/register-sidebars.php:92
+#: ../fortis7/template_inc/admin/register-sidebars.php:92
+msgid "Copyright Footer Sidebar"
+msgstr ""
+
+#: themeple_framework/system/parsers.php:42
+#: themeple_framework/system/parsers.php:63
+#: ../fortis7/themeple_framework/system/parsers.php:42
+#: ../fortis7/themeple_framework/system/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: themeple_framework/system/parsers.php:43
+#: ../fortis7/themeple_framework/system/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: themeple_framework/system/parsers.php:67
+#: themeple_framework/system/parsers.php:72
+#: themeple_framework/system/parsers.php:262
+#: themeple_framework/system/parsers.php:451
+#: ../fortis7/themeple_framework/system/parsers.php:67
+#: ../fortis7/themeple_framework/system/parsers.php:72
+#: ../fortis7/themeple_framework/system/parsers.php:262
+#: ../fortis7/themeple_framework/system/parsers.php:451
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: themeple_framework/system/themeple_custom_menu.php:707
+#: ../fortis7/themeple_framework/system/themeple_custom_menu.php:707
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: themeple_framework/system/themeple_custom_menu.php:751
+#: ../fortis7/themeple_framework/system/themeple_custom_menu.php:751
+msgid "Mega Menu Column"
+msgstr ""
+
+#: themeple_framework/system/themeple_custom_menu.php:753
+#: ../fortis7/themeple_framework/system/themeple_custom_menu.php:753
+msgid "Mega Menu"
+msgstr ""
+
+#: themeple_framework/system/themeple_custom_menu.php:757
+#: themeple_framework/system/themeple_custom_menu.php:761
+#: ../fortis7/themeple_framework/system/themeple_custom_menu.php:757
+#: ../fortis7/themeple_framework/system/themeple_custom_menu.php:761
+msgid "Edit Menu Item"
+msgstr ""
+
+#: themeple_framework/system/themeple_custom_menu.php:779
+#: ../fortis7/themeple_framework/system/themeple_custom_menu.php:779
+msgid "URL"
+msgstr ""
+
+#: themeple_framework/system/themeple_custom_menu.php:793
+#: ../fortis7/themeple_framework/system/themeple_custom_menu.php:793
+msgid "Navigation Label"
+msgstr ""
+
+#: themeple_framework/system/themeple_custom_menu.php:795
+#: ../fortis7/themeple_framework/system/themeple_custom_menu.php:795
+msgid "Title for the Mega Menu Column"
+msgstr ""
+
+#: themeple_framework/system/themeple_custom_menu.php:811
+#: ../fortis7/themeple_framework/system/themeple_custom_menu.php:811
+msgid "Title Attribute"
+msgstr ""
+
+#: themeple_framework/system/themeple_custom_menu.php:823
+#: ../fortis7/themeple_framework/system/themeple_custom_menu.php:823
+msgid "link Target"
+msgstr ""
+
+#: themeple_framework/system/themeple_custom_menu.php:827
+#: ../fortis7/themeple_framework/system/themeple_custom_menu.php:827
+msgid "Same window or tab"
+msgstr ""
+
+#: themeple_framework/system/themeple_custom_menu.php:829
+#: ../fortis7/themeple_framework/system/themeple_custom_menu.php:829
+msgid "New window or tab"
+msgstr ""
+
+#: themeple_framework/system/themeple_custom_menu.php:841
+#: ../fortis7/themeple_framework/system/themeple_custom_menu.php:841
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: themeple_framework/system/themeple_custom_menu.php:853
+#: ../fortis7/themeple_framework/system/themeple_custom_menu.php:853
+msgid "link Relationship (XFN)"
+msgstr ""
+
+#: themeple_framework/system/themeple_custom_menu.php:865
+#: ../fortis7/themeple_framework/system/themeple_custom_menu.php:865
+msgid "Description"
+msgstr ""
+
+#: themeple_framework/system/themeple_custom_menu.php:923
+#: ../fortis7/themeple_framework/system/themeple_custom_menu.php:923
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: themeple_framework/system/themeple_custom_menu.php:949
+#: ../fortis7/themeple_framework/system/themeple_custom_menu.php:949
+msgid "Remove"
+msgstr ""
+
+#: themeple_framework/system/themeple_custom_menu.php:951
+#: woocommerce/myaccount/my-orders.php:77
+#: ../fortis7/themeple_framework/system/themeple_custom_menu.php:951
+#: ../fortis7/woocommerce/myaccount/my-orders.php:77
+msgid "Cancel"
+msgstr ""
+
+#: themeple_framework/system/view-gen.inc.php:161
+#: ../fortis7/themeple_framework/system/view-gen.inc.php:161
+msgid "(remove)"
+msgstr ""
+
+#: themeple_framework/system/view-gen.inc.php:162
+#: ../fortis7/themeple_framework/system/view-gen.inc.php:162
+msgid "Hide"
+msgstr ""
+
+#: themeple_framework/system/widgets.inc.php:2548
+#: ../fortis7/themeple_framework/system/widgets.inc.php:2548
+msgid "Mailing List"
+msgstr ""
+
+#: themeple_framework/system/widgets.inc.php:2573
+#: woocommerce/myaccount/form-login.php:26
+#: woocommerce/myaccount/form-login.php:40 woocommerce/shop/form-login.php:31
+#: ../fortis7/themeple_framework/system/widgets.inc.php:2573
+#: ../fortis7/woocommerce/myaccount/form-login.php:26
+#: ../fortis7/woocommerce/myaccount/form-login.php:40
+#: ../fortis7/woocommerce/shop/form-login.php:31
+msgid "Login"
+msgstr ""
+
+#: themeple_framework/system/widgets.inc.php:2611
+#: ../fortis7/themeple_framework/system/widgets.inc.php:2611
+msgid "Select Language"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:134
+#: themeple_framework/system/wordpress-importer.php:143
+#: themeple_framework/system/wordpress-importer.php:194
+#: themeple_framework/system/wordpress-importer.php:198
+#: themeple_framework/system/wordpress-importer.php:207
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:134
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:143
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:194
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:198
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:135
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:178
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:178
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:179
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:199
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:215
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:240
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:266
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:267
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:269
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:279
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:282
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:299
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:310
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:313
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:321
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:323
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:324
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:374
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:423
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:423
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:461
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:461
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:505
+#: themeple_framework/system/wordpress-importer.php:631
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:505
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:631
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:527
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:527
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:548
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:548
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:603
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:603
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:749
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:749
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:756
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:756
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:819
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:819
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:832
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:832
+msgid "Invalid file type"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:876
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:876
+msgid "Remote server did not respond"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:882
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:882
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:889
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:889
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:894
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:894
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:900
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:900
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:999
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:999
+msgid "Import WordPress"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:1006
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:1006
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:1021
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:1021
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:1022
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:1022
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:1096
+#: ../fortis7/themeple_framework/system/wordpress-importer.php:1096
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: woocommerce/content-product.php:88
+#: ../fortis7/woocommerce/content-product.php:88
+msgid "Show details"
+msgstr ""
+
+#: woocommerce/loop-shop.php:40 woocommerce/loop/no-products-found.php:14
+#: ../fortis7/woocommerce/loop-shop.php:40
+#: ../fortis7/woocommerce/loop/no-products-found.php:14
+msgid "No products found which match your selection."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:28
+#: ../fortis7/woocommerce/single-product-reviews.php:28
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:28
+#: woocommerce/single-product/review.php:27
+#: ../fortis7/woocommerce/single-product-reviews.php:28
+#: ../fortis7/woocommerce/single-product/review.php:27
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:36
+#: woocommerce/single-product-reviews.php:42
+#: ../fortis7/woocommerce/single-product-reviews.php:36
+#: ../fortis7/woocommerce/single-product-reviews.php:42
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:58
+#: ../fortis7/woocommerce/single-product-reviews.php:58
+#: ../twentythirteen/image.php:51
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:59
+#: ../fortis7/woocommerce/single-product-reviews.php:59
+#: ../twentythirteen/image.php:52
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:63
+#: ../fortis7/woocommerce/single-product-reviews.php:63
+msgid "Add Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:63
+#: ../fortis7/woocommerce/single-product-reviews.php:63
+msgid "Add Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:65
+#: ../fortis7/woocommerce/single-product-reviews.php:65
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:69
+#: ../fortis7/woocommerce/single-product-reviews.php:69
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:71
+#: ../fortis7/woocommerce/single-product-reviews.php:71
+msgid ""
+"There are no reviews yet, would you like to <a href=\"#review_form\" class="
+"\"inline show_review_form\">submit yours</a>?"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+#: ../fortis7/woocommerce/single-product-reviews.php:89
+msgid "Submit Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:97
+#: ../fortis7/woocommerce/single-product-reviews.php:97
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+#: ../fortis7/woocommerce/single-product-reviews.php:98
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:99
+#: ../fortis7/woocommerce/single-product-reviews.php:99
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:100
+#: ../fortis7/woocommerce/single-product-reviews.php:100
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:101
+#: ../fortis7/woocommerce/single-product-reviews.php:101
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:102
+#: ../fortis7/woocommerce/single-product-reviews.php:102
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:107
+#: ../fortis7/woocommerce/single-product-reviews.php:107
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:14
+#: ../fortis7/woocommerce/cart/cart-empty.php:14
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:18
+#: ../fortis7/woocommerce/cart/cart-empty.php:18
+msgid "&larr; Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28 woocommerce/checkout/form-pay.php:19
+#: woocommerce/checkout/review-order.php:21
+#: woocommerce/emails/admin-new-order.php:22
+#: woocommerce/emails/customer-completed-order.php:23
+#: woocommerce/emails/customer-invoice.php:27
+#: woocommerce/emails/customer-note.php:27
+#: woocommerce/emails/customer-processing-order.php:23
+#: woocommerce/order/order-details.php:20
+#: ../fortis7/woocommerce/cart/cart.php:28
+#: ../fortis7/woocommerce/checkout/form-pay.php:19
+#: ../fortis7/woocommerce/checkout/review-order.php:21
+#: ../fortis7/woocommerce/emails/admin-new-order.php:22
+#: ../fortis7/woocommerce/emails/customer-completed-order.php:23
+#: ../fortis7/woocommerce/emails/customer-invoice.php:27
+#: ../fortis7/woocommerce/emails/customer-note.php:27
+#: ../fortis7/woocommerce/emails/customer-processing-order.php:23
+#: ../fortis7/woocommerce/order/order-details.php:20
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/emails/admin-new-order.php:23
+#: woocommerce/emails/customer-completed-order.php:24
+#: woocommerce/emails/customer-invoice.php:28
+#: woocommerce/emails/customer-note.php:28
+#: woocommerce/emails/customer-processing-order.php:24
+#: ../fortis7/woocommerce/cart/cart.php:30
+#: ../fortis7/woocommerce/emails/admin-new-order.php:23
+#: ../fortis7/woocommerce/emails/customer-completed-order.php:24
+#: ../fortis7/woocommerce/emails/customer-invoice.php:28
+#: ../fortis7/woocommerce/emails/customer-note.php:28
+#: ../fortis7/woocommerce/emails/customer-processing-order.php:24
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31 woocommerce/checkout/review-order.php:22
+#: woocommerce/myaccount/my-orders.php:35
+#: woocommerce/order/order-details.php:21
+#: ../fortis7/woocommerce/cart/cart.php:31
+#: ../fortis7/woocommerce/checkout/review-order.php:22
+#: ../fortis7/woocommerce/myaccount/my-orders.php:35
+#: ../fortis7/woocommerce/order/order-details.php:21
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:47 ../fortis7/woocommerce/cart/cart.php:47
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:76 ../fortis7/woocommerce/cart/cart.php:76
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:127 ../fortis7/woocommerce/cart/cart.php:127
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:127 woocommerce/checkout/form-coupon.php:29
+#: ../fortis7/woocommerce/cart/cart.php:127
+#: ../fortis7/woocommerce/checkout/form-coupon.php:29
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:134 ../fortis7/woocommerce/cart/cart.php:134
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:134 ../fortis7/woocommerce/cart/cart.php:134
+msgid "Proceed to Checkout &rarr;"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:38
+#: ../fortis7/woocommerce/cart/cross-sells.php:38
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:55
+#: ../fortis7/woocommerce/cart/mini-cart.php:55
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:63
+#: ../fortis7/woocommerce/cart/mini-cart.php:63
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:68
+#: ../fortis7/woocommerce/cart/mini-cart.php:68
+msgid "View Cart &rarr;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:69
+#: ../fortis7/woocommerce/cart/mini-cart.php:69
+msgid "Checkout &rarr;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:22
+#: ../fortis7/woocommerce/cart/shipping-calculator.php:22
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:28
+#: ../fortis7/woocommerce/cart/shipping-calculator.php:28
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:45
+#: woocommerce/cart/shipping-calculator.php:51
+#: woocommerce/cart/shipping-calculator.php:63
+#: ../fortis7/woocommerce/cart/shipping-calculator.php:45
+#: ../fortis7/woocommerce/cart/shipping-calculator.php:51
+#: ../fortis7/woocommerce/cart/shipping-calculator.php:63
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:52
+#: ../fortis7/woocommerce/cart/shipping-calculator.php:52
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:72
+#: ../fortis7/woocommerce/cart/shipping-calculator.php:72
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:80
+#: ../fortis7/woocommerce/cart/shipping-calculator.php:80
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:85
+#: ../fortis7/woocommerce/cart/shipping-calculator.php:85
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/cart/shipping-methods.php:32
+#: ../fortis7/woocommerce/cart/shipping-methods.php:32
+msgid "Free"
+msgstr ""
+
+#: woocommerce/cart/shipping-methods.php:68
+#: ../fortis7/woocommerce/cart/shipping-methods.php:68
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/shipping-methods.php:76 woocommerce/cart/totals.php:147
+#: ../fortis7/woocommerce/cart/shipping-methods.php:76
+#: ../fortis7/woocommerce/cart/totals.php:147
+#, php-format
+msgid ""
+"Sorry, it seems that there are no available shipping methods for your "
+"location (%s)."
+msgstr ""
+
+#: woocommerce/cart/shipping-methods.php:76 woocommerce/cart/totals.php:147
+#: ../fortis7/woocommerce/cart/shipping-methods.php:76
+#: ../fortis7/woocommerce/cart/totals.php:147
+msgid ""
+"If you require assistance or wish to make alternate arrangements please "
+"contact us."
+msgstr ""
+
+#: woocommerce/cart/totals.php:22 ../fortis7/woocommerce/cart/totals.php:22
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/totals.php:28 woocommerce/checkout/review-order.php:27
+#: ../fortis7/woocommerce/cart/totals.php:28
+#: ../fortis7/woocommerce/checkout/review-order.php:27
+msgid "Cart Subtotal"
+msgstr ""
+
+#: woocommerce/cart/totals.php:35 woocommerce/checkout/review-order.php:34
+#: ../fortis7/woocommerce/cart/totals.php:35
+#: ../fortis7/woocommerce/checkout/review-order.php:34
+msgid "Cart Discount"
+msgstr ""
+
+#: woocommerce/cart/totals.php:35 woocommerce/cart/totals.php:83
+#: ../fortis7/woocommerce/cart/totals.php:35
+#: ../fortis7/woocommerce/cart/totals.php:83
+msgid "[Remove]"
+msgstr ""
+
+#: woocommerce/cart/totals.php:46 woocommerce/checkout/review-order.php:45
+#: ../fortis7/woocommerce/cart/totals.php:46
+#: ../fortis7/woocommerce/checkout/review-order.php:45
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/totals.php:83 woocommerce/checkout/review-order.php:82
+#: ../fortis7/woocommerce/cart/totals.php:83
+#: ../fortis7/woocommerce/checkout/review-order.php:82
+msgid "Order Discount"
+msgstr ""
+
+#: woocommerce/cart/totals.php:92 woocommerce/checkout/review-order.php:91
+#: ../fortis7/woocommerce/cart/totals.php:92
+#: ../fortis7/woocommerce/checkout/review-order.php:91
+msgid "Order Total"
+msgstr ""
+
+#: woocommerce/cart/totals.php:105 woocommerce/checkout/review-order.php:104
+#: ../fortis7/woocommerce/cart/totals.php:105
+#: ../fortis7/woocommerce/checkout/review-order.php:104
+#, php-format
+msgid "(Includes %s)"
+msgstr ""
+
+#: woocommerce/cart/totals.php:121 ../fortis7/woocommerce/cart/totals.php:121
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/totals.php:123 ../fortis7/woocommerce/cart/totals.php:123
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/totals.php:135 ../fortis7/woocommerce/cart/totals.php:135
+msgid ""
+"No shipping methods were found; please recalculate your shipping and enter "
+"your state/county and zip/postcode to ensure there are no other available "
+"methods for your location."
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:16
+#: ../fortis7/woocommerce/checkout/cart-errors.php:16
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:20
+#: ../fortis7/woocommerce/checkout/cart-errors.php:20
+msgid "&larr; Return To Cart"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:17
+#: ../fortis7/woocommerce/checkout/form-billing.php:17
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:21
+#: woocommerce/checkout/form-checkout.php:34
+#: woocommerce/myaccount/form-edit-address.php:27
+#: woocommerce/myaccount/my-address.php:19
+#: woocommerce/myaccount/my-address.php:25
+#: woocommerce/order/order-details.php:115
+#: ../fortis7/woocommerce/checkout/form-billing.php:21
+#: ../fortis7/woocommerce/checkout/form-checkout.php:34
+#: ../fortis7/woocommerce/myaccount/form-edit-address.php:27
+#: ../fortis7/woocommerce/myaccount/my-address.php:19
+#: ../fortis7/woocommerce/myaccount/my-address.php:25
+#: ../fortis7/woocommerce/order/order-details.php:115
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:42
+#: ../fortis7/woocommerce/checkout/form-billing.php:42
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:51
+#: ../fortis7/woocommerce/checkout/form-billing.php:51
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:20
+#: ../fortis7/woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:35
+#: woocommerce/checkout/form-shipping.php:35
+#: woocommerce/myaccount/form-edit-address.php:27
+#: woocommerce/myaccount/my-address.php:20
+#: woocommerce/order/order-details.php:130
+#: ../fortis7/woocommerce/checkout/form-checkout.php:35
+#: ../fortis7/woocommerce/checkout/form-shipping.php:35
+#: ../fortis7/woocommerce/myaccount/form-edit-address.php:27
+#: ../fortis7/woocommerce/myaccount/my-address.php:20
+#: ../fortis7/woocommerce/order/order-details.php:130
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:36
+#: woocommerce/myaccount/my-account.php:31
+#: ../fortis7/woocommerce/checkout/form-checkout.php:36
+#: ../fortis7/woocommerce/myaccount/my-account.php:31
+msgid "View Order"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:53
+#: ../fortis7/woocommerce/checkout/form-checkout.php:53
+msgid "Your order"
+msgstr "il tuo ordine"
+
+#: woocommerce/checkout/form-coupon.php:17
+#: ../fortis7/woocommerce/checkout/form-coupon.php:17
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:20
+#: ../fortis7/woocommerce/checkout/form-coupon.php:20
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:25
+#: ../fortis7/woocommerce/checkout/form-coupon.php:25
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:14
+#: ../fortis7/woocommerce/checkout/form-login.php:14
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:17
+#: ../fortis7/woocommerce/checkout/form-login.php:17
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:22
+#: ../fortis7/woocommerce/checkout/form-login.php:22
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:20
+#: ../fortis7/woocommerce/checkout/form-pay.php:20
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:21
+#: ../fortis7/woocommerce/checkout/form-pay.php:21
+msgid "Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:78
+#: ../fortis7/woocommerce/checkout/form-pay.php:78
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:87
+#: ../fortis7/woocommerce/checkout/form-pay.php:87
+msgid "Pay for order"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:32
+#: ../fortis7/woocommerce/checkout/form-shipping.php:32
+msgid "Ship to billing address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:59
+#: woocommerce/single-product/tabs/additional-information.php:14
+#: ../fortis7/woocommerce/checkout/form-shipping.php:59
+#: ../fortis7/woocommerce/single-product/tabs/additional-information.php:14
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:174
+#: ../fortis7/woocommerce/checkout/review-order.php:174
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:176
+#: ../fortis7/woocommerce/checkout/review-order.php:176
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:185
+#: ../fortis7/woocommerce/checkout/review-order.php:185
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:185
+#: ../fortis7/woocommerce/checkout/review-order.php:185
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:192
+#: ../fortis7/woocommerce/checkout/review-order.php:192
+msgid "Place order"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:199
+#: ../fortis7/woocommerce/checkout/review-order.php:199
+msgid "I have read and accept the"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:199
+#: ../fortis7/woocommerce/checkout/review-order.php:199
+msgid "terms &amp; conditions"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:18
+#: ../fortis7/woocommerce/checkout/thankyou.php:18
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:22
+#: ../fortis7/woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:24
+#: ../fortis7/woocommerce/checkout/thankyou.php:24
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:28 woocommerce/myaccount/my-orders.php:71
+#: ../fortis7/woocommerce/checkout/thankyou.php:28
+#: ../fortis7/woocommerce/myaccount/my-orders.php:71
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:30
+#: ../fortis7/woocommerce/checkout/thankyou.php:30
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36 woocommerce/checkout/thankyou.php:67
+#: ../fortis7/woocommerce/checkout/thankyou.php:36
+#: ../fortis7/woocommerce/checkout/thankyou.php:67
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:40
+#: woocommerce/emails/customer-completed-order.php:18
+#: woocommerce/emails/customer-invoice.php:22
+#: woocommerce/emails/customer-note.php:22
+#: woocommerce/emails/customer-processing-order.php:18
+#: ../fortis7/woocommerce/checkout/thankyou.php:40
+#: ../fortis7/woocommerce/emails/customer-completed-order.php:18
+#: ../fortis7/woocommerce/emails/customer-invoice.php:22
+#: ../fortis7/woocommerce/emails/customer-note.php:22
+#: ../fortis7/woocommerce/emails/customer-processing-order.php:18
+msgid "Order:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:44
+#: ../fortis7/woocommerce/checkout/thankyou.php:44
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:48
+#: ../fortis7/woocommerce/checkout/thankyou.php:48
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:53
+#: ../fortis7/woocommerce/checkout/thankyou.php:53
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:13
+#: woocommerce/emails/plain/admin-new-order.php:13
+#: ../fortis7/woocommerce/emails/admin-new-order.php:13
+#: ../fortis7/woocommerce/emails/plain/admin-new-order.php:13
+#, php-format
+msgid "You have received an order from %s. Their order is as follows:"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:17
+#: ../fortis7/woocommerce/emails/admin-new-order.php:17
+#, php-format
+msgid "Order: %s"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:50
+#: woocommerce/emails/customer-completed-order.php:51
+#: woocommerce/emails/customer-note.php:55
+#: woocommerce/emails/customer-processing-order.php:51
+#: woocommerce/emails/plain/admin-new-order.php:38
+#: woocommerce/order/order-details.php:97
+#: ../fortis7/woocommerce/emails/admin-new-order.php:50
+#: ../fortis7/woocommerce/emails/customer-completed-order.php:51
+#: ../fortis7/woocommerce/emails/customer-note.php:55
+#: ../fortis7/woocommerce/emails/customer-processing-order.php:51
+#: ../fortis7/woocommerce/emails/plain/admin-new-order.php:38
+#: ../fortis7/woocommerce/order/order-details.php:97
+msgid "Customer details"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:53
+#: woocommerce/emails/customer-completed-order.php:54
+#: woocommerce/emails/customer-note.php:58
+#: woocommerce/emails/customer-processing-order.php:54
+#: woocommerce/emails/plain/admin-new-order.php:41
+#: woocommerce/emails/plain/customer-completed-order.php:41
+#: woocommerce/emails/plain/customer-note.php:49
+#: woocommerce/emails/plain/customer-processing-order.php:41
+#: woocommerce/order/order-details.php:101
+#: ../fortis7/woocommerce/emails/admin-new-order.php:53
+#: ../fortis7/woocommerce/emails/customer-completed-order.php:54
+#: ../fortis7/woocommerce/emails/customer-note.php:58
+#: ../fortis7/woocommerce/emails/customer-processing-order.php:54
+#: ../fortis7/woocommerce/emails/plain/admin-new-order.php:41
+#: ../fortis7/woocommerce/emails/plain/customer-completed-order.php:41
+#: ../fortis7/woocommerce/emails/plain/customer-note.php:49
+#: ../fortis7/woocommerce/emails/plain/customer-processing-order.php:41
+#: ../fortis7/woocommerce/order/order-details.php:101
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/emails/admin-new-order.php:56
+#: woocommerce/emails/customer-completed-order.php:57
+#: woocommerce/emails/customer-note.php:61
+#: woocommerce/emails/customer-processing-order.php:57
+#: woocommerce/emails/plain/admin-new-order.php:44
+#: woocommerce/emails/plain/customer-completed-order.php:44
+#: woocommerce/emails/plain/customer-note.php:52
+#: woocommerce/emails/plain/customer-processing-order.php:44
+#: ../fortis7/woocommerce/emails/admin-new-order.php:56
+#: ../fortis7/woocommerce/emails/customer-completed-order.php:57
+#: ../fortis7/woocommerce/emails/customer-note.php:61
+#: ../fortis7/woocommerce/emails/customer-processing-order.php:57
+#: ../fortis7/woocommerce/emails/plain/admin-new-order.php:44
+#: ../fortis7/woocommerce/emails/plain/customer-completed-order.php:44
+#: ../fortis7/woocommerce/emails/plain/customer-note.php:52
+#: ../fortis7/woocommerce/emails/plain/customer-processing-order.php:44
+msgid "Tel:"
+msgstr ""
+
+#: woocommerce/emails/customer-completed-order.php:14
+#: woocommerce/emails/plain/customer-completed-order.php:13
+#: ../fortis7/woocommerce/emails/customer-completed-order.php:14
+#: ../fortis7/woocommerce/emails/plain/customer-completed-order.php:13
+#, php-format
+msgid ""
+"Hi there. Your recent order on %s has been completed. Your order details are "
+"shown below for your reference:"
+msgstr ""
+
+#: woocommerce/emails/customer-invoice.php:16
+#: woocommerce/emails/plain/customer-invoice.php:14
+#: ../fortis7/woocommerce/emails/customer-invoice.php:16
+#: ../fortis7/woocommerce/emails/plain/customer-invoice.php:14
+#, php-format
+msgid ""
+"An order has been created for you on %s. To pay for this order please use "
+"the following link: %s"
+msgstr ""
+
+#: woocommerce/emails/customer-invoice.php:16
+#: ../fortis7/woocommerce/emails/customer-invoice.php:16
+msgid "pay"
+msgstr ""
+
+#: woocommerce/emails/customer-new-account.php:14
+#: woocommerce/emails/plain/customer-new-account.php:13
+#: ../fortis7/woocommerce/emails/customer-new-account.php:14
+#: ../fortis7/woocommerce/emails/plain/customer-new-account.php:13
+#, php-format
+msgid ""
+"Thanks for creating an account on %s. Your username is <strong>%s</strong>."
+msgstr ""
+
+#: woocommerce/emails/customer-new-account.php:16
+#: woocommerce/emails/plain/customer-new-account.php:15
+#: ../fortis7/woocommerce/emails/customer-new-account.php:16
+#: ../fortis7/woocommerce/emails/plain/customer-new-account.php:15
+#, php-format
+msgid "You can access your account area here: %s."
+msgstr ""
+
+#: woocommerce/emails/customer-note.php:14
+#: woocommerce/emails/plain/customer-note.php:13
+#: ../fortis7/woocommerce/emails/customer-note.php:14
+#: ../fortis7/woocommerce/emails/plain/customer-note.php:13
+msgid "Hello, a note has just been added to your order:"
+msgstr ""
+
+#: woocommerce/emails/customer-note.php:18
+#: woocommerce/emails/plain/customer-note.php:21
+#: ../fortis7/woocommerce/emails/customer-note.php:18
+#: ../fortis7/woocommerce/emails/plain/customer-note.php:21
+msgid "For your reference, your order details are shown below."
+msgstr ""
+
+#: woocommerce/emails/customer-processing-order.php:14
+#: woocommerce/emails/plain/customer-processing-order.php:13
+#: ../fortis7/woocommerce/emails/customer-processing-order.php:14
+#: ../fortis7/woocommerce/emails/plain/customer-processing-order.php:13
+msgid ""
+"Your order has been received and is now being processed. Your order details "
+"are shown below for your reference:"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:14
+#: woocommerce/emails/plain/customer-reset-password.php:13
+#: ../fortis7/woocommerce/emails/customer-reset-password.php:14
+#: ../fortis7/woocommerce/emails/plain/customer-reset-password.php:13
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:15
+#: woocommerce/emails/plain/customer-reset-password.php:15
+#: ../fortis7/woocommerce/emails/customer-reset-password.php:15
+#: ../fortis7/woocommerce/emails/plain/customer-reset-password.php:15
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:16
+#: woocommerce/emails/plain/customer-reset-password.php:16
+#: ../fortis7/woocommerce/emails/customer-reset-password.php:16
+#: ../fortis7/woocommerce/emails/plain/customer-reset-password.php:16
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:17
+#: woocommerce/emails/plain/customer-reset-password.php:17
+#: ../fortis7/woocommerce/emails/customer-reset-password.php:17
+#: ../fortis7/woocommerce/emails/plain/customer-reset-password.php:17
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: woocommerce/emails/customer-reset-password.php:20
+#: ../fortis7/woocommerce/emails/customer-reset-password.php:20
+msgid "Click here to reset your password"
+msgstr ""
+
+#: woocommerce/emails/email-addresses.php:18
+#: woocommerce/emails/plain/email-addresses.php:12
+#: ../fortis7/woocommerce/emails/email-addresses.php:18
+#: ../fortis7/woocommerce/emails/plain/email-addresses.php:12
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/emails/email-addresses.php:28
+#: woocommerce/emails/plain/email-addresses.php:17
+#: ../fortis7/woocommerce/emails/email-addresses.php:28
+#: ../fortis7/woocommerce/emails/plain/email-addresses.php:17
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/emails/email-order-items.php:34
+#: ../fortis7/woocommerce/emails/email-order-items.php:34
+msgid "This product is no longer available"
+msgstr ""
+
+#: woocommerce/emails/email-order-items.php:76
+#: ../fortis7/woocommerce/emails/email-order-items.php:76
+#, php-format
+msgid "Download %d:"
+msgstr ""
+
+#: woocommerce/emails/email-order-items.php:78
+#: ../fortis7/woocommerce/emails/email-order-items.php:78
+msgid "Download:"
+msgstr ""
+
+#: woocommerce/emails/plain/admin-new-order.php:19
+#: woocommerce/emails/plain/customer-completed-order.php:19
+#: woocommerce/emails/plain/customer-invoice.php:20
+#: woocommerce/emails/plain/customer-note.php:27
+#: woocommerce/emails/plain/customer-processing-order.php:19
+#: ../fortis7/woocommerce/emails/plain/admin-new-order.php:19
+#: ../fortis7/woocommerce/emails/plain/customer-completed-order.php:19
+#: ../fortis7/woocommerce/emails/plain/customer-invoice.php:20
+#: ../fortis7/woocommerce/emails/plain/customer-note.php:27
+#: ../fortis7/woocommerce/emails/plain/customer-processing-order.php:19
+#, php-format
+msgid "Order number: %s"
+msgstr ""
+
+#: woocommerce/emails/plain/admin-new-order.php:20
+#: woocommerce/emails/plain/customer-completed-order.php:20
+#: woocommerce/emails/plain/customer-invoice.php:21
+#: woocommerce/emails/plain/customer-note.php:28
+#: woocommerce/emails/plain/customer-processing-order.php:20
+#: ../fortis7/woocommerce/emails/plain/admin-new-order.php:20
+#: ../fortis7/woocommerce/emails/plain/customer-completed-order.php:20
+#: ../fortis7/woocommerce/emails/plain/customer-invoice.php:21
+#: ../fortis7/woocommerce/emails/plain/customer-note.php:28
+#: ../fortis7/woocommerce/emails/plain/customer-processing-order.php:20
+#, php-format
+msgid "Order date: %s"
+msgstr ""
+
+#: woocommerce/emails/plain/admin-new-order.php:20
+#: ../fortis7/woocommerce/emails/plain/admin-new-order.php:20
+msgid "jS F Y"
+msgstr ""
+
+#: woocommerce/emails/plain/customer-completed-order.php:38
+#: woocommerce/emails/plain/customer-note.php:46
+#: woocommerce/emails/plain/customer-processing-order.php:38
+#: ../fortis7/woocommerce/emails/plain/customer-completed-order.php:38
+#: ../fortis7/woocommerce/emails/plain/customer-note.php:46
+#: ../fortis7/woocommerce/emails/plain/customer-processing-order.php:38
+msgid "Your details"
+msgstr ""
+
+#: woocommerce/emails/plain/email-order-items.php:28
+#: ../fortis7/woocommerce/emails/plain/email-order-items.php:28
+#, php-format
+msgid "Quantity: %s"
+msgstr ""
+
+#: woocommerce/emails/plain/email-order-items.php:31
+#: ../fortis7/woocommerce/emails/plain/email-order-items.php:31
+#, php-format
+msgid "Cost: %s"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:33
+#: ../fortis7/woocommerce/loop/add-to-cart.php:33
+msgid "Select options"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:37
+#: ../fortis7/woocommerce/loop/add-to-cart.php:37
+msgid "View options"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:46
+#: woocommerce/single-product/add-to-cart/grouped.php:45
+#: woocommerce/single-product/add-to-cart/grouped.php:77
+#: woocommerce/single-product/add-to-cart/simple.php:44
+#: woocommerce/single-product/add-to-cart/variable.php:83
+#: ../fortis7/woocommerce/loop/add-to-cart.php:46
+#: ../fortis7/woocommerce/single-product/add-to-cart/grouped.php:45
+#: ../fortis7/woocommerce/single-product/add-to-cart/grouped.php:77
+#: ../fortis7/woocommerce/single-product/add-to-cart/simple.php:44
+#: ../fortis7/woocommerce/single-product/add-to-cart/variable.php:83
+msgid "Add to cart"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:21 ../fortis7/woocommerce/loop/orderby.php:21
+msgid "Default sorting"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:22 ../fortis7/woocommerce/loop/orderby.php:22
+msgid "Sort by popularity"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:23 ../fortis7/woocommerce/loop/orderby.php:23
+msgid "Sort by average rating"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:24 ../fortis7/woocommerce/loop/orderby.php:24
+msgid "Sort by newness"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:25 ../fortis7/woocommerce/loop/orderby.php:25
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:26 ../fortis7/woocommerce/loop/orderby.php:26
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:28
+#: ../fortis7/woocommerce/loop/result-count.php:28
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:30
+#: ../fortis7/woocommerce/loop/result-count.php:30
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:16
+#: woocommerce/single-product/sale-flash.php:16
+#: ../fortis7/woocommerce/loop/sale-flash.php:16
+#: ../fortis7/woocommerce/single-product/sale-flash.php:16
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:20
+#: woocommerce/myaccount/form-lost-password.php:31
+#: ../fortis7/woocommerce/myaccount/form-change-password.php:20
+#: ../fortis7/woocommerce/myaccount/form-lost-password.php:31
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:24
+#: woocommerce/myaccount/form-lost-password.php:35
+#: ../fortis7/woocommerce/myaccount/form-change-password.php:24
+#: ../fortis7/woocommerce/myaccount/form-lost-password.php:35
+msgid "Re-enter new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:29
+#: woocommerce/myaccount/form-lost-password.php:45
+#: ../fortis7/woocommerce/myaccount/form-change-password.php:29
+#: ../fortis7/woocommerce/myaccount/form-lost-password.php:45
+msgid "Save"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:43
+#: ../fortis7/woocommerce/myaccount/form-edit-address.php:43
+msgid "Save Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:29
+#: woocommerce/myaccount/form-lost-password.php:24
+#: woocommerce/shop/form-login.php:20
+#: ../fortis7/woocommerce/myaccount/form-login.php:29
+#: ../fortis7/woocommerce/myaccount/form-lost-password.php:24
+#: ../fortis7/woocommerce/shop/form-login.php:20
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:50 woocommerce/shop/form-login.php:33
+#: ../fortis7/woocommerce/myaccount/form-login.php:50
+#: ../fortis7/woocommerce/shop/form-login.php:33
+msgid "Lost Password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:89
+#: ../fortis7/woocommerce/myaccount/form-login.php:89
+msgid "Re-enter password"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:22
+#: ../fortis7/woocommerce/myaccount/form-lost-password.php:22
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:28
+#: ../fortis7/woocommerce/myaccount/form-lost-password.php:28
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:45
+#: ../fortis7/woocommerce/myaccount/form-lost-password.php:45
+msgid "Reset Password"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:19
+#: ../fortis7/woocommerce/myaccount/my-account.php:19
+#, php-format
+msgid ""
+"Hello, <strong>%s</strong>. From your account dashboard you can view your "
+"recent orders, manage your shipping and billing addresses and <a href=\"%s"
+"\">change your password</a>."
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:29
+#: ../fortis7/woocommerce/myaccount/my-account.php:29
+msgid "Change Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:33
+#: ../fortis7/woocommerce/myaccount/my-account.php:33
+msgid "Change Password"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:17
+#: ../fortis7/woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:23
+#: ../fortis7/woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:35
+#: ../fortis7/woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:64
+#: ../fortis7/woocommerce/myaccount/my-address.php:64
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-downloads.php:18
+#: ../fortis7/woocommerce/myaccount/my-downloads.php:18
+msgid "Available downloads"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:26
+#: ../fortis7/woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:32
+#: ../fortis7/woocommerce/myaccount/my-orders.php:32
+msgid "Order"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:82
+#: ../fortis7/woocommerce/myaccount/my-orders.php:82
+msgid "View"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:17
+#: ../fortis7/woocommerce/order/form-tracking.php:17
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"return. This was given to you on your receipt and in the confirmation email "
+"you should have received."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:19
+#: ../fortis7/woocommerce/order/form-tracking.php:19
+msgid "Order ID"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:19
+#: ../fortis7/woocommerce/order/form-tracking.php:19
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:20
+#: ../fortis7/woocommerce/order/form-tracking.php:20
+msgid "Billing Email"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:20
+#: ../fortis7/woocommerce/order/form-tracking.php:20
+msgid "Email you used during checkout."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:23
+#: ../fortis7/woocommerce/order/form-tracking.php:23
+msgid "Track"
+msgstr ""
+
+#: woocommerce/order/order-details.php:16
+#: ../fortis7/woocommerce/order/order-details.php:16
+msgid "Order Details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:64
+#: ../fortis7/woocommerce/order/order-details.php:64
+#, php-format
+msgid "Download file%s"
+msgstr ""
+
+#: woocommerce/order/order-details.php:90
+#: ../fortis7/woocommerce/order/order-details.php:90
+msgid "Order Again"
+msgstr ""
+
+#: woocommerce/order/order-details.php:102
+#: ../fortis7/woocommerce/order/order-details.php:102
+msgid "Telephone:"
+msgstr ""
+
+#: woocommerce/order/order-details.php:119
+#: woocommerce/order/order-details.php:134
+#: ../fortis7/woocommerce/order/order-details.php:119
+#: ../fortis7/woocommerce/order/order-details.php:134
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/tracking.php:18
+#: ../fortis7/woocommerce/order/tracking.php:18
+#, php-format
+msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/order/tracking.php:18
+#: ../fortis7/woocommerce/order/tracking.php:18
+msgid "ago"
+msgstr ""
+
+#: woocommerce/order/tracking.php:20
+#: ../fortis7/woocommerce/order/tracking.php:20
+msgid "and was completed"
+msgstr ""
+
+#: woocommerce/order/tracking.php:20
+#: ../fortis7/woocommerce/order/tracking.php:20
+msgid " ago"
+msgstr ""
+
+#: woocommerce/order/tracking.php:31
+#: ../fortis7/woocommerce/order/tracking.php:31
+msgid "Order Updates"
+msgstr ""
+
+#: woocommerce/order/tracking.php:37
+#: ../fortis7/woocommerce/order/tracking.php:37
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: woocommerce/shop/breadcrumb.php:63
+#: ../fortis7/woocommerce/shop/breadcrumb.php:63
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/shop/breadcrumb.php:91 woocommerce/shop/breadcrumb.php:189
+#: ../fortis7/woocommerce/shop/breadcrumb.php:91
+#: ../fortis7/woocommerce/shop/breadcrumb.php:189
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: woocommerce/shop/breadcrumb.php:147
+#: ../fortis7/woocommerce/shop/breadcrumb.php:147
+msgid "Error 404"
+msgstr ""
+
+#: woocommerce/shop/breadcrumb.php:193
+#: ../fortis7/woocommerce/shop/breadcrumb.php:193
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/shop/breadcrumb.php:198
+#: ../fortis7/woocommerce/shop/breadcrumb.php:198
+msgid "Author:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:19
+#: ../fortis7/woocommerce/single-product/meta.php:19
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:28
+#: ../fortis7/woocommerce/single-product/product-attributes.php:28
+msgid "Weight"
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:37
+#: ../fortis7/woocommerce/single-product/product-attributes.php:37
+msgid "Dimensions"
+msgstr ""
+
+#: woocommerce/single-product/related.php:39
+#: ../fortis7/woocommerce/single-product/related.php:39
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/review.php:26
+#: ../fortis7/woocommerce/single-product/review.php:26
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:33
+#: ../fortis7/woocommerce/single-product/review.php:33
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:40
+#: ../fortis7/woocommerce/single-product/review.php:40
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:39
+#: ../fortis7/woocommerce/single-product/up-sells.php:39
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:24
+#: ../fortis7/woocommerce/single-product/add-to-cart/variable.php:24
+msgid "Choose an option"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:69
+#: ../fortis7/woocommerce/single-product/add-to-cart/variable.php:69
+msgid "Clear selection"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:14
+#: ../fortis7/woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""
+
+#: ../twentythirteen/404.php:16
+msgid "Not found"
+msgstr ""
+
+#: ../twentythirteen/404.php:21 ../twentytwelve/404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: ../twentythirteen/404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../twentythirteen/archive.php:29 ../twentytwelve/archive.php:29
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../twentythirteen/archive.php:31 ../twentytwelve/archive.php:31
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../twentythirteen/archive.php:33 ../twentytwelve/archive.php:33
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../twentythirteen/archive.php:35 ../twentytwelve/archive.php:35
+msgid "Archives"
+msgstr ""
+
+#: ../twentythirteen/author-bio.php:16 ../twentytwelve/author.php:53
+#: ../twentytwelve/content.php:53
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../twentythirteen/author-bio.php:20 ../twentytwelve/content.php:57
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/author.php:30
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: ../twentythirteen/category.php:19 ../twentytwelve/category.php:21
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../twentythirteen/comments.php:45 ../twentytwelve/comments.php:42
+msgid "Comment navigation"
+msgstr ""
+
+#: ../twentythirteen/comments.php:46 ../twentytwelve/comments.php:43
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../twentythirteen/comments.php:47 ../twentytwelve/comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../twentythirteen/comments.php:52 ../twentytwelve/comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: ../twentythirteen/content-aside.php:13
+#: ../twentythirteen/content-audio.php:24
+#: ../twentythirteen/content-gallery.php:24
+#: ../twentythirteen/content-image.php:23
+#: ../twentythirteen/content-link.php:24
+#: ../twentythirteen/content-quote.php:13
+#: ../twentythirteen/content-status.php:13
+#: ../twentythirteen/content-video.php:23 ../twentythirteen/content.php:39
+#: ../twentytwelve/content-aside.php:15 ../twentytwelve/content-image.php:13
+#: ../twentytwelve/content-link.php:14 ../twentytwelve/content-quote.php:13
+#: ../twentytwelve/content-status.php:21 ../twentytwelve/content.php:39
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/content-aside.php:14
+#: ../twentythirteen/content-audio.php:25
+#: ../twentythirteen/content-chat.php:24
+#: ../twentythirteen/content-gallery.php:25
+#: ../twentythirteen/content-image.php:24
+#: ../twentythirteen/content-link.php:25
+#: ../twentythirteen/content-quote.php:14
+#: ../twentythirteen/content-status.php:14
+#: ../twentythirteen/content-video.php:24 ../twentythirteen/content.php:40
+#: ../twentythirteen/image.php:70 ../twentythirteen/page.php:35
+#: ../twentytwelve/content-page.php:21 ../twentytwelve/content.php:40
+#: ../twentytwelve/image.php:92
+msgid "Pages:"
+msgstr ""
+
+#: ../twentythirteen/content-gallery.php:36
+#: ../twentythirteen/content-image.php:32
+#: ../twentythirteen/content-quote.php:22
+#: ../twentythirteen/content-video.php:32 ../twentythirteen/content.php:47
+msgid "One comment so far"
+msgstr ""
+
+#: ../twentythirteen/content-gallery.php:36
+#: ../twentythirteen/content-image.php:32
+#: ../twentythirteen/content-quote.php:22
+#: ../twentythirteen/content-video.php:32 ../twentythirteen/content.php:47
+#, php-format
+msgid "View all % comments"
+msgstr ""
+
+#: ../twentythirteen/content-none.php:12 ../twentytwelve/content-none.php:13
+#: ../twentytwelve/index.php:49 ../twentytwelve/search.php:34
+msgid "Nothing Found"
+msgstr ""
+
+#: ../twentythirteen/content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../twentythirteen/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: ../twentythirteen/content-none.php:27 ../twentytwelve/404.php:21
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../twentythirteen/footer.php:20 ../twentytwelve/footer.php:17
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../twentythirteen/footer.php:20 ../twentytwelve/footer.php:17
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: ../twentythirteen/functions.php:93
+msgid "Navigation Menu"
+msgstr ""
+
+#: ../twentythirteen/functions.php:212 ../twentytwelve/functions.php:213
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../twentythirteen/functions.php:227
+msgid "Main Widget Area"
+msgstr ""
+
+#: ../twentythirteen/functions.php:229
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: ../twentythirteen/functions.php:237
+msgid "Secondary Widget Area"
+msgstr ""
+
+#: ../twentythirteen/functions.php:239
+msgid "Appears on posts and pages in the sidebar."
+msgstr ""
+
+#: ../twentythirteen/functions.php:264
+msgid "Posts navigation"
+msgstr ""
+
+#: ../twentythirteen/functions.php:268 ../twentytwelve/functions.php:283
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../twentythirteen/functions.php:272 ../twentytwelve/functions.php:284
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/functions.php:300 ../twentytwelve/functions.php:282
+#: ../twentytwelve/single.php:20
+msgid "Post navigation"
+msgstr ""
+
+#: ../twentythirteen/functions.php:324
+msgid "Sticky"
+msgstr ""
+
+#: ../twentythirteen/functions.php:330 ../twentythirteen/functions.php:336
+#: ../twentytwelve/functions.php:364 ../twentytwelve/functions.php:367
+msgid ", "
+msgstr ""
+
+#: ../twentythirteen/functions.php:345 ../twentytwelve/functions.php:378
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../twentythirteen/functions.php:371 ../twentytwelve/content-aside.php:20
+#: ../twentytwelve/content-link.php:18 ../twentytwelve/content-quote.php:17
+#: ../twentytwelve/content-status.php:15
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../twentythirteen/header.php:43 ../twentytwelve/header.php:43
+msgid "Menu"
+msgstr ""
+
+#: ../twentythirteen/header.php:44 ../twentytwelve/header.php:44
+msgid "Skip to content"
+msgstr ""
+
+#: ../twentythirteen/image.php:22
+#, php-format
+msgid ""
+"<span class=\"attachment-meta\">Published on <time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Return to %4$s\" "
+"rel=\"gallery\">%5$s</a></span>"
+msgstr ""
+
+#: ../twentythirteen/image.php:39
+msgid "Full resolution"
+msgstr ""
+
+#: ../twentythirteen/search.php:18 ../twentytwelve/search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../twentythirteen/tag.php:21 ../twentytwelve/tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../twentythirteen/taxonomy-post_format.php:23
+#, php-format
+msgid "%s Archives"
+msgstr ""
+
+#: ../twentythirteen/inc/back-compat.php:38
+#: ../twentythirteen/inc/back-compat.php:50
+#: ../twentythirteen/inc/back-compat.php:65
+#, php-format
+msgid ""
+"Twenty Thirteen requires at least WordPress version 3.6. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentytwelve/author.php:32
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../twentytwelve/content-aside.php:23 ../twentytwelve/content-image.php:23
+#: ../twentytwelve/content-link.php:21 ../twentytwelve/content-quote.php:20
+#: ../twentytwelve/content-status.php:27 ../twentytwelve/content.php:28
+msgid "Leave a reply"
+msgstr ""
+
+#: ../twentytwelve/content-aside.php:23 ../twentytwelve/content-image.php:23
+#: ../twentytwelve/content-link.php:21 ../twentytwelve/content-quote.php:20
+#: ../twentytwelve/content-status.php:27 ../twentytwelve/content.php:28
+msgid "1 Reply"
+msgstr ""
+
+#: ../twentytwelve/content-aside.php:23 ../twentytwelve/content-image.php:23
+#: ../twentytwelve/content-link.php:21 ../twentytwelve/content-quote.php:20
+#: ../twentytwelve/content-status.php:27 ../twentytwelve/content.php:28
+msgid "% Replies"
+msgstr ""
+
+#: ../twentytwelve/content-none.php:17 ../twentytwelve/index.php:53
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: ../twentytwelve/content.php:14
+msgid "Featured post"
+msgstr ""
+
+#: ../twentytwelve/functions.php:64
+msgid "Primary Menu"
+msgstr ""
+
+#: ../twentytwelve/functions.php:238
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../twentytwelve/functions.php:240
+msgid ""
+"Appears on posts and pages except the optional Front Page template, which "
+"has its own widgets"
+msgstr ""
+
+#: ../twentytwelve/functions.php:248
+msgid "First Front Page Widget Area"
+msgstr ""
+
+#: ../twentytwelve/functions.php:250 ../twentytwelve/functions.php:260
+msgid ""
+"Appears when using the optional Front Page template with a page set as "
+"Static Front Page"
+msgstr ""
+
+#: ../twentytwelve/functions.php:258
+msgid "Second Front Page Widget Area"
+msgstr ""
+
+#: ../twentytwelve/functions.php:309
+msgid "Pingback:"
+msgstr ""
+
+#: ../twentytwelve/functions.php:309
+msgid "(Edit)"
+msgstr ""
+
+#: ../twentytwelve/functions.php:324
+msgid "Post author"
+msgstr ""
+
+#: ../twentytwelve/functions.php:330
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../twentytwelve/functions.php:336
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../twentytwelve/functions.php:345
+msgid "Reply"
+msgstr ""
+
+#: ../twentytwelve/functions.php:384
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author"
+"\"> by %4$s</span>."
+msgstr ""
+
+#: ../twentytwelve/functions.php:386
+#, php-format
+msgid ""
+"This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</"
+"span>."
+msgstr ""
+
+#: ../twentytwelve/functions.php:388
+#, php-format
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+
+#: ../twentytwelve/image.php:26
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+
+#: ../twentytwelve/image.php:41
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../twentytwelve/image.php:42
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../twentytwelve/index.php:38
+msgid "No posts to display"
+msgstr ""
+
+#: ../twentytwelve/index.php:42
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: ../twentytwelve/search.php:38
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""

@@ -1,0 +1,5472 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Specular English\n"
+"POT-Creation-Date: 2014-10-08 09:16-0800\n"
+"PO-Revision-Date: 2014-10-08 09:17-0800\n"
+"Last-Translator: \n"
+"Language-Team: Codeless\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../specular/admin/extensions/customizer/extension_customizer.php:473
+#: ../specular/admin/framework.php:1951
+#: admin/extensions/customizer/extension_customizer.php:473
+#: admin/framework.php:1951
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: ../specular/admin/extensions/customizer/extension_customizer.php:474
+#: ../specular/admin/framework.php:1959
+#: admin/extensions/customizer/extension_customizer.php:474
+#: admin/framework.php:1959
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: ../specular/admin/extensions/customizer/extension_customizer.php:475
+#: ../specular/admin/framework.php:1975
+#: admin/extensions/customizer/extension_customizer.php:475
+#: admin/framework.php:1975
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../specular/admin/extensions/customizer/extension_customizer.php:508
+#: admin/extensions/customizer/extension_customizer.php:508
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: ../specular/admin/extensions/customizer/extension_customizer.php:509
+#: admin/extensions/customizer/extension_customizer.php:509
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: ../specular/admin/extensions/customizer/extension_customizer.php:510
+#: admin/extensions/customizer/extension_customizer.php:510
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../specular/admin/framework.php:213 admin/framework.php:213
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: ../specular/admin/framework.php:213 admin/framework.php:213
+msgid "Redux Framework"
+msgstr ""
+
+#: ../specular/admin/framework.php:217 ../specular/admin/framework.php:221
+#: ../specular/admin/loader/extensions/metaboxes/extension_metaboxes.php:841
+#: admin/framework.php:217 admin/framework.php:221
+#: admin/loader/extensions/metaboxes/extension_metaboxes.php:841
+msgid "Options"
+msgstr ""
+
+#: ../specular/admin/framework.php:1367 ../specular/admin/framework.php:1368
+#: ../specular/admin/framework.php:3582 ../specular/admin/framework.php:3661
+#: admin/framework.php:1367 admin/framework.php:1368 admin/framework.php:3582
+#: admin/framework.php:3661
+msgid "System Info"
+msgstr ""
+
+#: ../specular/admin/framework.php:1967 admin/framework.php:1967
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: ../specular/admin/framework.php:1982 admin/framework.php:1982
+msgid "Please Wait"
+msgstr ""
+
+#: ../specular/admin/framework.php:2107 admin/framework.php:2107
+msgid "Enable"
+msgstr ""
+
+#: ../specular/admin/framework.php:2112 admin/framework.php:2112
+msgid "Disable"
+msgstr ""
+
+#: ../specular/admin/framework.php:2118 admin/framework.php:2118
+msgid "moving the mouse over"
+msgstr ""
+
+#: ../specular/admin/framework.php:2120 admin/framework.php:2120
+msgid "clicking"
+msgstr ""
+
+#: ../specular/admin/framework.php:2124 admin/framework.php:2124
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: ../specular/admin/framework.php:2129 admin/framework.php:2129
+msgid "Hints"
+msgstr ""
+
+#: ../specular/admin/framework.php:2254 admin/framework.php:2254
+msgid "Default"
+msgstr ""
+
+#: ../specular/admin/framework.php:3329 admin/framework.php:3329
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: ../specular/admin/framework.php:3380 admin/framework.php:3380
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: ../specular/admin/framework.php:3408
+#: ../specular/admin/loader/extensions/metaboxes/extension_metaboxes.php:999
+#: admin/framework.php:3408
+#: admin/loader/extensions/metaboxes/extension_metaboxes.php:999
+msgid "Expand"
+msgstr ""
+
+#: ../specular/admin/framework.php:3410 ../specular/admin/framework.php:3718
+#: ../specular/includes/soundcloud_plugin.php:336 admin/framework.php:3410
+#: admin/framework.php:3718 includes/soundcloud_plugin.php:336
+msgid "Save Changes"
+msgstr ""
+
+#: ../specular/admin/framework.php:3414 ../specular/admin/framework.php:3722
+#: admin/framework.php:3414 admin/framework.php:3722
+msgid "Reset Section"
+msgstr ""
+
+#: ../specular/admin/framework.php:3416 ../specular/admin/framework.php:3724
+#: admin/framework.php:3416 admin/framework.php:3724
+msgid "Reset All"
+msgstr ""
+
+#: ../specular/admin/framework.php:3421 ../specular/admin/framework.php:3729
+#: admin/framework.php:3421 admin/framework.php:3729
+msgid "Working..."
+msgstr ""
+
+#: ../specular/admin/framework.php:3441
+#: ../specular/admin/loader/extensions/metaboxes/extension_metaboxes.php:985
+#: admin/framework.php:3441
+#: admin/loader/extensions/metaboxes/extension_metaboxes.php:985
+msgid "Settings Imported!"
+msgstr ""
+
+#: ../specular/admin/framework.php:3456 admin/framework.php:3456
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: ../specular/admin/framework.php:3470 admin/framework.php:3470
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: ../specular/admin/framework.php:3484 admin/framework.php:3484
+msgid "Settings Saved!"
+msgstr ""
+
+#: ../specular/admin/framework.php:3502
+#: ../specular/admin/loader/extensions/metaboxes/extension_metaboxes.php:988
+#: admin/framework.php:3502
+#: admin/loader/extensions/metaboxes/extension_metaboxes.php:988
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: ../specular/admin/framework.php:3510
+#: ../specular/admin/loader/extensions/metaboxes/extension_metaboxes.php:992
+#: ../specular/admin/loader/extensions/metaboxes/extension_metaboxes.php:1273
+#: admin/framework.php:3510
+#: admin/loader/extensions/metaboxes/extension_metaboxes.php:992
+#: admin/loader/extensions/metaboxes/extension_metaboxes.php:1273
+msgid "error(s) were found!"
+msgstr ""
+
+#: ../specular/admin/framework.php:3518
+#: ../specular/admin/loader/extensions/metaboxes/extension_metaboxes.php:995
+#: admin/framework.php:3518
+#: admin/loader/extensions/metaboxes/extension_metaboxes.php:995
+msgid "warning(s) were found!"
+msgstr ""
+
+#: ../specular/admin/inc/class.redux_filesystem.php:22
+#: admin/inc/class.redux_filesystem.php:22
+msgid "Unable to create a required directory. Please ensure that"
+msgstr ""
+
+#: ../specular/admin/inc/class.redux_filesystem.php:24
+#: admin/inc/class.redux_filesystem.php:24
+msgid ""
+"has the proper read/write permissions or enter your FTP information below."
+msgstr ""
+
+#: ../specular/admin/inc/class.redux_functions.php:253
+#: admin/inc/class.redux_functions.php:253
+msgid "Dismiss"
+msgstr ""
+
+#: ../specular/admin/inc/class.redux_themecheck.php:61
+#: admin/inc/class.redux_themecheck.php:61
+#, php-format
+msgid ""
+"The theme you are testing has %s embedded. We invite you to read the %sTheme-"
+"Check Documentation%s to understand some warnings you will see because of "
+"Redux."
+msgstr ""
+
+#: ../specular/admin/inc/class.redux_themecheck.php:109
+#: admin/inc/class.redux_themecheck.php:109
+msgid ""
+"The following directories & files are still located in your <strong>Redux</"
+"strong>  directory. They may cause errors in Theme-Check."
+msgstr ""
+
+#: ../specular/admin/inc/debug.php:41 ../specular/admin/inc/debug.php:69
+#: ../specular/admin/inc/debug.php:76 ../specular/admin/inc/debug.php:77
+#: admin/inc/debug.php:41 admin/inc/debug.php:69 admin/inc/debug.php:76
+#: admin/inc/debug.php:77
+msgid "Options Object"
+msgstr ""
+
+#: ../specular/admin/inc/debug.php:54 admin/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: ../specular/admin/inc/fields/background/field_background.php:124
+#: ../specular/admin/inc/fields/color/field_color.php:72
+#: ../specular/admin/inc/fields/color_gradient/field_color_gradient.php:79
+#: ../specular/admin/inc/fields/color_gradient/field_color_gradient.php:91
+#: ../specular/admin/inc/fields/color_rgba/field_color_rgba.php:77
+#: admin/inc/fields/background/field_background.php:124
+#: admin/inc/fields/color/field_color.php:72
+#: admin/inc/fields/color_gradient/field_color_gradient.php:79
+#: admin/inc/fields/color_gradient/field_color_gradient.php:91
+#: admin/inc/fields/color_rgba/field_color_rgba.php:77
+msgid "Transparent"
+msgstr ""
+
+#: ../specular/admin/inc/fields/background/field_background.php:141
+#: admin/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: ../specular/admin/inc/fields/background/field_background.php:157
+#: admin/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: ../specular/admin/inc/fields/background/field_background.php:173
+#: admin/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: ../specular/admin/inc/fields/background/field_background.php:188
+#: admin/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: ../specular/admin/inc/fields/background/field_background.php:203
+#: admin/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: ../specular/admin/inc/fields/background/field_background.php:223
+#: admin/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: ../specular/admin/inc/fields/background/field_background.php:277
+#: ../specular/admin/inc/fields/media/field_media.php:149
+#: admin/inc/fields/background/field_background.php:277
+#: admin/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: ../specular/admin/inc/fields/background/field_background.php:314
+#: ../specular/admin/inc/fields/media/field_media.php:193
+#: ../specular/admin/inc/fields/slides/field_slides.php:126
+#: ../specular/admin/inc/fields/slides/field_slides.php:188
+#: admin/inc/fields/background/field_background.php:314
+#: admin/inc/fields/media/field_media.php:193
+#: admin/inc/fields/slides/field_slides.php:126
+#: admin/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: ../specular/admin/inc/fields/background/field_background.php:321
+#: ../specular/admin/inc/fields/media/field_media.php:200
+#: ../specular/admin/inc/fields/multi_text/field_multi_text.php:69
+#: ../specular/admin/inc/fields/multi_text/field_multi_text.php:73
+#: ../specular/admin/inc/fields/multi_text/field_multi_text.php:76
+#: ../specular/admin/inc/fields/slides/field_slides.php:133
+#: ../specular/admin/inc/fields/slides/field_slides.php:190
+#: ../specular/includes/core/codeless_megamenu.php:932
+#: admin/inc/fields/background/field_background.php:321
+#: admin/inc/fields/media/field_media.php:200
+#: admin/inc/fields/multi_text/field_multi_text.php:69
+#: admin/inc/fields/multi_text/field_multi_text.php:73
+#: admin/inc/fields/multi_text/field_multi_text.php:76
+#: admin/inc/fields/slides/field_slides.php:133
+#: admin/inc/fields/slides/field_slides.php:190
+#: includes/core/codeless_megamenu.php:932
+msgid "Remove"
+msgstr ""
+
+#: ../specular/admin/inc/fields/border/field_border.php:114
+#: ../specular/admin/inc/fields/spacing/field_spacing.php:191
+#: admin/inc/fields/border/field_border.php:114
+#: admin/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+#: ../specular/admin/inc/fields/border/field_border.php:127
+#: ../specular/admin/inc/fields/spacing/field_spacing.php:215
+#: admin/inc/fields/border/field_border.php:127
+#: admin/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: ../specular/admin/inc/fields/border/field_border.php:134
+#: ../specular/admin/inc/fields/spacing/field_spacing.php:222
+#: admin/inc/fields/border/field_border.php:134
+#: admin/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: ../specular/admin/inc/fields/border/field_border.php:141
+#: ../specular/admin/inc/fields/spacing/field_spacing.php:229
+#: admin/inc/fields/border/field_border.php:141
+#: admin/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: ../specular/admin/inc/fields/border/field_border.php:148
+#: ../specular/admin/inc/fields/spacing/field_spacing.php:236
+#: admin/inc/fields/border/field_border.php:148
+#: admin/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: ../specular/admin/inc/fields/border/field_border.php:162
+#: admin/inc/fields/border/field_border.php:162
+msgid "Border style"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:134
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:143
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:194
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:198
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:207
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:134
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:143
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:194
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:198
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:135
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:178
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:178
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:179
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:199
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:215
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:240
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:266
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:267
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:269
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:279
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:282
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:299
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:310
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:313
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:321
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:323
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:324
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:374
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:425
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:465
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:511
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:652
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:511
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:537
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:559
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:618
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:783
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:790
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:856
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:856
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:869
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:869
+msgid "Invalid file type"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:913
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:913
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:919
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:919
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:926
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:926
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:931
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:931
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:937
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:937
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:1039
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:1039
+msgid "Import WordPress"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:1046
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:1046
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:1061
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:1061
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/class.wordpress-importer.php:1062
+#: admin/inc/fields/codeless_import/class.wordpress-importer.php:1062
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/codeless_import.php:49
+#: ../specular/admin/inc/fields/import_export/import_export.php:80
+#: ../specular/admin/inc/import_export.php:81
+#: admin/inc/fields/codeless_import/codeless_import.php:49
+#: admin/inc/fields/import_export/import_export.php:80
+#: admin/inc/import_export.php:81
+msgid "Import Options"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/codeless_import.php:51
+#: admin/inc/fields/codeless_import/codeless_import.php:51
+msgid ""
+"You can import all demo data or only a piece of that. Select one from demo "
+"data or select a backup to import"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/codeless_import.php:59
+#: admin/inc/fields/codeless_import/codeless_import.php:59
+msgid "Check to import attachments"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/codeless_import.php:94
+#: ../specular/admin/inc/fields/import_export/import_export.php:99
+#: ../specular/admin/inc/import_export.php:94
+#: admin/inc/fields/codeless_import/codeless_import.php:94
+#: admin/inc/fields/import_export/import_export.php:99
+#: admin/inc/import_export.php:94
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/codeless_import.php:101
+#: ../specular/admin/inc/fields/import_export/import_export.php:102
+#: ../specular/admin/inc/import_export.php:97
+#: admin/inc/fields/codeless_import/codeless_import.php:101
+#: admin/inc/fields/import_export/import_export.php:102
+#: admin/inc/import_export.php:97
+msgid "Export Options"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/codeless_import.php:103
+#: admin/inc/fields/codeless_import/codeless_import.php:103
+msgid ""
+"Here you can download your current site data. Keep this safe as you can use "
+"it as a backup should anything go wrong, or you can use it to restore your "
+"settings on this site (or any other site). You can send your dummy data to "
+"Codeless Team too if you want to share with the community"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/codeless_import.php:114
+#: admin/inc/fields/codeless_import/codeless_import.php:114
+msgid "Save as backup"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/codeless_import.php:114
+#: admin/inc/fields/codeless_import/codeless_import.php:114
+msgid "Send to community"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/import_export.php:20
+#: admin/inc/fields/codeless_import/import_export.php:20
+msgid "Can't write file"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/import_export.php:35
+#: admin/inc/fields/codeless_import/import_export.php:35
+msgid "File doesn't exist"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/import_export.php:107
+#: admin/inc/fields/codeless_import/import_export.php:107
+msgid "Error during Import. Try Again"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/import_export.php:111
+#: admin/inc/fields/codeless_import/import_export.php:111
+msgid "Content has been imported successfully "
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/import_export.php:116
+#: admin/inc/fields/codeless_import/import_export.php:116
+msgid "Error loading importer. Try again or contact support"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/import_export.php:134
+#: admin/inc/fields/codeless_import/import_export.php:134
+msgid "Content exported successfully"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/import_export.php:153
+#: admin/inc/fields/codeless_import/import_export.php:153
+msgid "Options imported successfully"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/import_export.php:156
+#: admin/inc/fields/codeless_import/import_export.php:156
+msgid "Your backup doesn't contain options.txt file."
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/import_export.php:172
+#: admin/inc/fields/codeless_import/import_export.php:172
+msgid "Options exported successfully"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/import_export.php:191
+#: admin/inc/fields/codeless_import/import_export.php:191
+msgid "Widgets Imported !"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/import_export.php:194
+#: ../specular/admin/inc/fields/codeless_import/import_export.php:281
+#: admin/inc/fields/codeless_import/import_export.php:194
+#: admin/inc/fields/codeless_import/import_export.php:281
+msgid "Your backup or demo doesn't contain sidebar_widgets.txt file."
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/import_export.php:237
+#: admin/inc/fields/codeless_import/import_export.php:237
+msgid "Widgets exported successfully"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/import_export.php:278
+#: admin/inc/fields/codeless_import/import_export.php:278
+msgid "Menu Imported successfully"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/import_export.php:301
+#: admin/inc/fields/codeless_import/import_export.php:301
+msgid "Menu exported successfully"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/parsers.php:42
+#: ../specular/admin/inc/fields/codeless_import/parsers.php:72
+#: ../specular/admin/inc/fields/codeless_import/parsers.php:80
+#: admin/inc/fields/codeless_import/parsers.php:42
+#: admin/inc/fields/codeless_import/parsers.php:72
+#: admin/inc/fields/codeless_import/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/parsers.php:43
+#: admin/inc/fields/codeless_import/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../specular/admin/inc/fields/codeless_import/parsers.php:84
+#: ../specular/admin/inc/fields/codeless_import/parsers.php:89
+#: ../specular/admin/inc/fields/codeless_import/parsers.php:279
+#: ../specular/admin/inc/fields/codeless_import/parsers.php:468
+#: admin/inc/fields/codeless_import/parsers.php:84
+#: admin/inc/fields/codeless_import/parsers.php:89
+#: admin/inc/fields/codeless_import/parsers.php:279
+#: admin/inc/fields/codeless_import/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../specular/admin/inc/fields/color_gradient/field_color_gradient.php:68
+#: admin/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: ../specular/admin/inc/fields/color_gradient/field_color_gradient.php:82
+#: admin/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: ../specular/admin/inc/fields/dimensions/field_dimensions.php:161
+#: admin/inc/fields/dimensions/field_dimensions.php:161
+msgid "Width"
+msgstr ""
+
+#: ../specular/admin/inc/fields/dimensions/field_dimensions.php:177
+#: ../specular/admin/inc/fields/typography/field_typography.php:445
+#: admin/inc/fields/dimensions/field_dimensions.php:177
+#: admin/inc/fields/typography/field_typography.php:445
+msgid "Height"
+msgstr ""
+
+#: ../specular/admin/inc/fields/dimensions/field_dimensions.php:188
+#: ../specular/admin/inc/fields/dimensions/field_dimensions.php:189
+#: ../specular/admin/inc/fields/spacing/field_spacing.php:245
+#: ../specular/admin/inc/fields/spacing/field_spacing.php:246
+#: admin/inc/fields/dimensions/field_dimensions.php:188
+#: admin/inc/fields/dimensions/field_dimensions.php:189
+#: admin/inc/fields/spacing/field_spacing.php:245
+#: admin/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: ../specular/admin/inc/fields/gallery/field_gallery.php:73
+#: admin/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: ../specular/admin/inc/fields/gallery/field_gallery.php:74
+#: admin/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: ../specular/admin/inc/fields/group/field_group.php:82
+#: admin/inc/fields/group/field_group.php:82
+msgid "New "
+msgstr ""
+
+#: ../specular/admin/inc/fields/group/field_group.php:125
+#: ../specular/admin/inc/fields/slides/field_slides.php:167
+#: ../specular/admin/inc/fields/slides/field_slides.php:220
+#: admin/inc/fields/group/field_group.php:125
+#: admin/inc/fields/slides/field_slides.php:167
+#: admin/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: ../specular/admin/inc/fields/group/field_group.php:129
+#: admin/inc/fields/group/field_group.php:129
+msgid "Add"
+msgstr ""
+
+#: ../specular/admin/inc/fields/import_export/import_export.php:77
+#: ../specular/admin/inc/import_export.php:78
+#: admin/inc/fields/import_export/import_export.php:77
+#: admin/inc/import_export.php:78
+msgid "Import / Export Options"
+msgstr ""
+
+#: ../specular/admin/inc/fields/import_export/import_export.php:81
+#: ../specular/admin/inc/import_export.php:82
+#: admin/inc/fields/import_export/import_export.php:81
+#: admin/inc/import_export.php:82
+msgid "Import from file"
+msgstr ""
+
+#: ../specular/admin/inc/fields/import_export/import_export.php:81
+#: ../specular/admin/inc/import_export.php:82
+#: admin/inc/fields/import_export/import_export.php:81
+#: admin/inc/import_export.php:82
+msgid "Import from URL"
+msgstr ""
+
+#: ../specular/admin/inc/fields/import_export/import_export.php:85
+#: ../specular/admin/inc/import_export.php:85
+#: admin/inc/fields/import_export/import_export.php:85
+#: admin/inc/import_export.php:85
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: ../specular/admin/inc/fields/import_export/import_export.php:93
+#: ../specular/admin/inc/import_export.php:90
+#: admin/inc/fields/import_export/import_export.php:93
+#: admin/inc/import_export.php:90
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: ../specular/admin/inc/fields/import_export/import_export.php:99
+#: ../specular/admin/inc/import_export.php:94
+#: admin/inc/fields/import_export/import_export.php:99
+#: admin/inc/import_export.php:94
+msgid "Import"
+msgstr ""
+
+#: ../specular/admin/inc/fields/import_export/import_export.php:105
+#: ../specular/admin/inc/import_export.php:100
+#: admin/inc/fields/import_export/import_export.php:105
+#: admin/inc/import_export.php:100
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: ../specular/admin/inc/fields/import_export/import_export.php:109
+#: ../specular/admin/inc/import_export.php:104
+#: admin/inc/fields/import_export/import_export.php:109
+#: admin/inc/import_export.php:104
+msgid "Copy"
+msgstr ""
+
+#: ../specular/admin/inc/fields/import_export/import_export.php:109
+#: ../specular/admin/inc/import_export.php:104
+#: admin/inc/fields/import_export/import_export.php:109
+#: admin/inc/import_export.php:104
+msgid "Download"
+msgstr ""
+
+#: ../specular/admin/inc/fields/import_export/import_export.php:109
+#: ../specular/admin/inc/import_export.php:104
+#: admin/inc/fields/import_export/import_export.php:109
+#: admin/inc/import_export.php:104
+msgid "Copy Link"
+msgstr ""
+
+#: ../specular/admin/inc/fields/import_export/import_export.php:149
+#: ../specular/admin/inc/fields/import_export/import_export.php:158
+#: ../specular/admin/inc/fields/import_export/import_export.php:159
+#: ../specular/admin/inc/import_export.php:140
+#: ../specular/admin/inc/import_export.php:149
+#: ../specular/admin/inc/import_export.php:150
+#: ../specular/includes/core/codeless_options.php:3105
+#: admin/inc/fields/import_export/import_export.php:149
+#: admin/inc/fields/import_export/import_export.php:158
+#: admin/inc/fields/import_export/import_export.php:159
+#: admin/inc/import_export.php:140 admin/inc/import_export.php:149
+#: admin/inc/import_export.php:150 includes/core/codeless_options.php:3105
+msgid "Import / Export"
+msgstr ""
+
+#: ../specular/admin/inc/fields/link_color/field_link_color.php:87
+#: admin/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr ""
+
+#: ../specular/admin/inc/fields/link_color/field_link_color.php:91
+#: admin/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: ../specular/admin/inc/fields/link_color/field_link_color.php:95
+#: admin/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr ""
+
+#: ../specular/admin/inc/fields/link_color/field_link_color.php:99
+#: admin/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr ""
+
+#: ../specular/admin/inc/fields/multi_text/field_multi_text.php:61
+#: admin/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: ../specular/admin/inc/fields/password/field_password.php:62
+#: ../specular/includes/widgets/codeless_topnavwidget.php:73
+#: admin/inc/fields/password/field_password.php:62
+#: includes/widgets/codeless_topnavwidget.php:73
+msgid "Password"
+msgstr ""
+
+#: ../specular/admin/inc/fields/password/field_password.php:63
+#: ../specular/includes/widgets/codeless_topnavwidget.php:72
+#: admin/inc/fields/password/field_password.php:63
+#: includes/widgets/codeless_topnavwidget.php:72
+msgid "Username"
+msgstr ""
+
+#: ../specular/admin/inc/fields/select/field_select.php:82
+#: ../specular/admin/inc/fields/select_image/field_select_image.php:62
+#: admin/inc/fields/select/field_select.php:82
+#: admin/inc/fields/select_image/field_select_image.php:62
+msgid "Select an item"
+msgstr ""
+
+#: ../specular/admin/inc/fields/select/field_select.php:126
+#: ../specular/admin/inc/fields/select_image/field_select_image.php:143
+#: admin/inc/fields/select/field_select.php:126
+#: admin/inc/fields/select_image/field_select_image.php:143
+msgid "No items of this type were found."
+msgstr ""
+
+#: ../specular/admin/inc/fields/slides/field_slides.php:68
+#: admin/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: ../specular/admin/inc/fields/slides/field_slides.php:73
+#: admin/inc/fields/slides/field_slides.php:73
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: ../specular/admin/inc/fields/slides/field_slides.php:145
+#: ../specular/admin/inc/fields/slides/field_slides.php:200
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:83
+#: admin/inc/fields/slides/field_slides.php:145
+#: admin/inc/fields/slides/field_slides.php:200
+#: includes/codeless-slider/codeless_slider_options.php:83
+msgid "Title"
+msgstr ""
+
+#: ../specular/admin/inc/fields/slides/field_slides.php:149
+#: ../specular/admin/inc/fields/slides/field_slides.php:204
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:144
+#: ../specular/includes/core/codeless_megamenu.php:836
+#: admin/inc/fields/slides/field_slides.php:149
+#: admin/inc/fields/slides/field_slides.php:204
+#: includes/codeless-slider/codeless_slider_options.php:144
+#: includes/core/codeless_megamenu.php:836
+msgid "Description"
+msgstr ""
+
+#: ../specular/admin/inc/fields/slides/field_slides.php:153
+#: ../specular/admin/inc/fields/slides/field_slides.php:207
+#: ../specular/includes/core/codeless_megamenu.php:750
+#: admin/inc/fields/slides/field_slides.php:153
+#: admin/inc/fields/slides/field_slides.php:207
+#: includes/core/codeless_megamenu.php:750
+msgid "URL"
+msgstr ""
+
+#: ../specular/admin/inc/fields/slides/field_slides.php:223
+#: admin/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: ../specular/admin/inc/fields/switch/field_switch.php:41
+#: ../specular/includes/view/blog/loop-grid.php:147
+#: ../specular/includes/view/blog/loop-grid.php:164
+#: ../specular/includes/view/blog/loop-index.php:143
+#: ../specular/includes/view/blog/loop-index.php:165
+#: ../specular/includes/view/blog/loop-second-style.php:141
+#: ../specular/includes/view/blog/loop-second-style.php:162
+#: ../specular/includes/view/blog/single-fullscreen.php:28
+#: ../specular/vc_templates/latest_blog.php:55
+#: ../specular/vc_templates/recent_news.php:31
+#: admin/inc/fields/switch/field_switch.php:41
+#: includes/view/blog/loop-grid.php:147 includes/view/blog/loop-grid.php:164
+#: includes/view/blog/loop-index.php:143 includes/view/blog/loop-index.php:165
+#: includes/view/blog/loop-second-style.php:141
+#: includes/view/blog/loop-second-style.php:162
+#: includes/view/blog/single-fullscreen.php:28 vc_templates/latest_blog.php:55
+#: vc_templates/recent_news.php:31
+msgid "On"
+msgstr ""
+
+#: ../specular/admin/inc/fields/switch/field_switch.php:44
+#: admin/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: ../specular/admin/inc/fields/typography/field_typography.php:231
+#: admin/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr ""
+
+#: ../specular/admin/inc/fields/typography/field_typography.php:232
+#: admin/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr ""
+
+#: ../specular/admin/inc/fields/typography/field_typography.php:258
+#: ../specular/admin/inc/fields/typography/field_typography.php:259
+#: admin/inc/fields/typography/field_typography.php:258
+#: admin/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr ""
+
+#: ../specular/admin/inc/fields/typography/field_typography.php:273
+#: ../specular/admin/inc/fields/typography/field_typography.php:280
+#: admin/inc/fields/typography/field_typography.php:273
+#: admin/inc/fields/typography/field_typography.php:280
+msgid "Font style"
+msgstr ""
+
+#: ../specular/admin/inc/fields/typography/field_typography.php:274
+#: admin/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: ../specular/admin/inc/fields/typography/field_typography.php:280
+#: admin/inc/fields/typography/field_typography.php:280
+msgid "Style"
+msgstr ""
+
+#: ../specular/admin/inc/fields/typography/field_typography.php:325
+#: admin/inc/fields/typography/field_typography.php:325
+msgid "Font subsets"
+msgstr ""
+
+#: ../specular/admin/inc/fields/typography/field_typography.php:327
+#: admin/inc/fields/typography/field_typography.php:327
+msgid "Font Subsets"
+msgstr ""
+
+#: ../specular/admin/inc/fields/typography/field_typography.php:328
+#: admin/inc/fields/typography/field_typography.php:328
+msgid "Subsets"
+msgstr ""
+
+#: ../specular/admin/inc/fields/typography/field_typography.php:328
+#: admin/inc/fields/typography/field_typography.php:328
+msgid "Font script"
+msgstr ""
+
+#: ../specular/admin/inc/fields/typography/field_typography.php:345
+#: ../specular/admin/inc/fields/typography/field_typography.php:346
+#: ../specular/admin/inc/fields/typography/field_typography.php:347
+#: admin/inc/fields/typography/field_typography.php:345
+#: admin/inc/fields/typography/field_typography.php:346
+#: admin/inc/fields/typography/field_typography.php:347
+msgid "Text Align"
+msgstr ""
+
+#: ../specular/admin/inc/fields/typography/field_typography.php:368
+#: ../specular/admin/inc/fields/typography/field_typography.php:369
+#: ../specular/admin/inc/fields/typography/field_typography.php:370
+#: admin/inc/fields/typography/field_typography.php:368
+#: admin/inc/fields/typography/field_typography.php:369
+#: admin/inc/fields/typography/field_typography.php:370
+msgid "Text Transform"
+msgstr ""
+
+#: ../specular/admin/inc/fields/typography/field_typography.php:391
+#: ../specular/admin/inc/fields/typography/field_typography.php:392
+#: ../specular/admin/inc/fields/typography/field_typography.php:393
+#: admin/inc/fields/typography/field_typography.php:391
+#: admin/inc/fields/typography/field_typography.php:392
+#: admin/inc/fields/typography/field_typography.php:393
+msgid "Font Variant"
+msgstr ""
+
+#: ../specular/admin/inc/fields/typography/field_typography.php:411
+#: ../specular/admin/inc/fields/typography/field_typography.php:412
+#: ../specular/admin/inc/fields/typography/field_typography.php:413
+#: admin/inc/fields/typography/field_typography.php:411
+#: admin/inc/fields/typography/field_typography.php:412
+#: admin/inc/fields/typography/field_typography.php:413
+msgid "Text Decoration"
+msgstr ""
+
+#: ../specular/admin/inc/fields/typography/field_typography.php:435
+#: ../specular/admin/inc/fields/typography/field_typography.php:436
+#: admin/inc/fields/typography/field_typography.php:435
+#: admin/inc/fields/typography/field_typography.php:436
+msgid "Font Size"
+msgstr ""
+
+#: ../specular/admin/inc/fields/typography/field_typography.php:436
+#: admin/inc/fields/typography/field_typography.php:436
+msgid "Size"
+msgstr ""
+
+#: ../specular/admin/inc/fields/typography/field_typography.php:444
+#: ../specular/admin/inc/fields/typography/field_typography.php:445
+#: admin/inc/fields/typography/field_typography.php:444
+#: admin/inc/fields/typography/field_typography.php:445
+msgid "Line Height"
+msgstr ""
+
+#: ../specular/admin/inc/fields/typography/field_typography.php:453
+#: ../specular/admin/inc/fields/typography/field_typography.php:454
+#: admin/inc/fields/typography/field_typography.php:453
+#: admin/inc/fields/typography/field_typography.php:454
+msgid "Word Spacing"
+msgstr ""
+
+#: ../specular/admin/inc/fields/typography/field_typography.php:462
+#: ../specular/admin/inc/fields/typography/field_typography.php:463
+#: admin/inc/fields/typography/field_typography.php:462
+#: admin/inc/fields/typography/field_typography.php:463
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../specular/admin/inc/fields/typography/field_typography.php:481
+#: admin/inc/fields/typography/field_typography.php:481
+msgid "Font Color"
+msgstr ""
+
+#: ../specular/admin/inc/fields/typography/field_typography.php:483
+#: admin/inc/fields/typography/field_typography.php:483
+msgid "Font color"
+msgstr ""
+
+#: ../specular/admin/inc/fields/typography/field_typography.php:851
+#: admin/inc/fields/typography/field_typography.php:851
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../specular/admin/inc/fields/typography/field_typography.php:952
+#: admin/inc/fields/typography/field_typography.php:952
+msgid "Google Webfonts"
+msgstr ""
+
+#: ../specular/admin/inc/tracking.php:129 admin/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: ../specular/admin/inc/tracking.php:130 admin/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: ../specular/admin/inc/tracking.php:135 admin/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr ""
+
+#: ../specular/admin/inc/tracking.php:140 admin/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr ""
+
+#: ../specular/admin/inc/tracking.php:151 admin/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: ../specular/admin/inc/tracking.php:152
+#: ../specular/admin/inc/welcome.php:139 admin/inc/tracking.php:152
+#: admin/inc/welcome.php:139
+msgid "Getting Started"
+msgstr ""
+
+#: ../specular/admin/inc/tracking.php:152 admin/inc/tracking.php:152
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: ../specular/admin/inc/tracking.php:152 admin/inc/tracking.php:152
+msgid "our documentation"
+msgstr ""
+
+#: ../specular/admin/inc/tracking.php:153 admin/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr ""
+
+#: ../specular/admin/inc/tracking.php:153 admin/inc/tracking.php:153
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: ../specular/admin/inc/tracking.php:154 admin/inc/tracking.php:154
+msgid "Redux Extensions"
+msgstr ""
+
+#: ../specular/admin/inc/tracking.php:154 admin/inc/tracking.php:154
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: ../specular/admin/inc/tracking.php:154 admin/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: ../specular/admin/inc/tracking.php:155 admin/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: ../specular/admin/inc/tracking.php:155 admin/inc/tracking.php:155
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: ../specular/admin/inc/tracking.php:155 admin/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: ../specular/admin/inc/tracking.php:155 admin/inc/tracking.php:155
+msgid "donation"
+msgstr ""
+
+#: ../specular/admin/inc/tracking.php:156 admin/inc/tracking.php:156
+msgid "Newsletter"
+msgstr ""
+
+#: ../specular/admin/inc/tracking.php:156 admin/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: ../specular/admin/inc/tracking.php:157 admin/inc/tracking.php:157
+msgid "Email address"
+msgstr ""
+
+#: ../specular/admin/inc/tracking.php:157 admin/inc/tracking.php:157
+msgid "Subscribe"
+msgstr ""
+
+#: ../specular/admin/inc/tracking.php:166 admin/inc/tracking.php:166
+msgid "Close"
+msgstr ""
+
+#: ../specular/admin/inc/validation/color/validation_color.php:15
+#: ../specular/admin/inc/validation/color_rgba/validation_color_rgba.php:14
+#: ../specular/admin/inc/validation/colorrgba/validation_colorrgba.php:16
+#: admin/inc/validation/color/validation_color.php:15
+#: admin/inc/validation/color_rgba/validation_color_rgba.php:14
+#: admin/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ../specular/admin/inc/validation/comma_numeric/validation_comma_numeric.php:16
+#: admin/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: ../specular/admin/inc/validation/date/validation_date.php:16
+#: admin/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../specular/admin/inc/validation/email/validation_email.php:16
+#: ../specular/admin/inc/validation/email_not_empty/validation_email_not_empty.php:16
+#: admin/inc/validation/email/validation_email.php:16
+#: admin/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../specular/admin/inc/validation/no_html/validation_no_html.php:15
+#: admin/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ../specular/admin/inc/validation/no_special_chars/validation_no_special_chars.php:16
+#: admin/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: ../specular/admin/inc/validation/not_empty/validation_not_empty.php:16
+#: admin/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: ../specular/admin/inc/validation/numeric/validation_numeric.php:16
+#: ../specular/admin/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+#: admin/inc/validation/numeric/validation_numeric.php:16
+#: admin/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../specular/admin/inc/validation/url/validation_url.php:16
+#: admin/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:40 admin/inc/welcome.php:40
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:48 ../specular/admin/inc/welcome.php:295
+#: admin/inc/welcome.php:48 admin/inc/welcome.php:295
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:56 admin/inc/welcome.php:56
+msgid "Getting started with Redux Framework"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:64 admin/inc/welcome.php:64
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:135 admin/inc/welcome.php:135
+msgid "What's New"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:143 admin/inc/welcome.php:143
+msgid "Changelog"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:147 admin/inc/welcome.php:147
+msgid "Credits"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:164 ../specular/admin/inc/welcome.php:333
+#: ../specular/admin/inc/welcome.php:471 admin/inc/welcome.php:164
+#: admin/inc/welcome.php:333 admin/inc/welcome.php:471
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:167 admin/inc/welcome.php:167
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is ready to "
+"<add description>"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:169 ../specular/admin/inc/welcome.php:300
+#: ../specular/admin/inc/welcome.php:338 ../specular/admin/inc/welcome.php:476
+#: ../specular/includes/core/codeless_options.php:253
+#: admin/inc/welcome.php:169 admin/inc/welcome.php:300
+#: admin/inc/welcome.php:338 admin/inc/welcome.php:476
+#: includes/core/codeless_options.php:253
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:174 admin/inc/welcome.php:174
+msgid "Some Feature"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:178 ../specular/admin/inc/welcome.php:182
+#: ../specular/admin/inc/welcome.php:195 ../specular/admin/inc/welcome.php:199
+#: ../specular/admin/inc/welcome.php:203 ../specular/admin/inc/welcome.php:208
+#: ../specular/admin/inc/welcome.php:221 ../specular/admin/inc/welcome.php:225
+#: ../specular/admin/inc/welcome.php:230 admin/inc/welcome.php:178
+#: admin/inc/welcome.php:182 admin/inc/welcome.php:195
+#: admin/inc/welcome.php:199 admin/inc/welcome.php:203
+#: admin/inc/welcome.php:208 admin/inc/welcome.php:221
+#: admin/inc/welcome.php:225 admin/inc/welcome.php:230
+msgid "Feature"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:190 admin/inc/welcome.php:190
+msgid "Some feature"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:217 admin/inc/welcome.php:217
+msgid "More Features"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:223 ../specular/admin/inc/welcome.php:227
+#: ../specular/admin/inc/welcome.php:232 admin/inc/welcome.php:223
+#: admin/inc/welcome.php:227 admin/inc/welcome.php:232
+msgid "description"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:238 admin/inc/welcome.php:238
+msgid "Additional Updates"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:242 ../specular/admin/inc/welcome.php:246
+#: ../specular/admin/inc/welcome.php:252 ../specular/admin/inc/welcome.php:256
+#: ../specular/admin/inc/welcome.php:262 ../specular/admin/inc/welcome.php:266
+#: admin/inc/welcome.php:242 admin/inc/welcome.php:246
+#: admin/inc/welcome.php:252 admin/inc/welcome.php:256
+#: admin/inc/welcome.php:262 admin/inc/welcome.php:266
+msgid "Cool thing"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:244 ../specular/admin/inc/welcome.php:248
+#: ../specular/admin/inc/welcome.php:254 ../specular/admin/inc/welcome.php:258
+#: ../specular/admin/inc/welcome.php:264 ../specular/admin/inc/welcome.php:268
+#: admin/inc/welcome.php:244 admin/inc/welcome.php:248
+#: admin/inc/welcome.php:254 admin/inc/welcome.php:258
+#: admin/inc/welcome.php:264 admin/inc/welcome.php:268
+msgid "cool thing description."
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:277 ../specular/admin/inc/welcome.php:316
+#: admin/inc/welcome.php:277 admin/inc/welcome.php:316
+msgid "Go to Redux Framework"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:278 admin/inc/welcome.php:278
+msgid "View the Full Changelog"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:298 ../specular/admin/inc/welcome.php:336
+#: ../specular/admin/inc/welcome.php:474 admin/inc/welcome.php:298
+#: admin/inc/welcome.php:336 admin/inc/welcome.php:474
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is ready to "
+"make your <description>"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:305 admin/inc/welcome.php:305
+msgid "Full Changelog"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:342 admin/inc/welcome.php:342
+msgid ""
+"Use the tips below to get started using Redux Framework. You'll be up and "
+"running in no time!"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:345 admin/inc/welcome.php:345
+msgid "Creating Your First Panel"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:350 admin/inc/welcome.php:350
+#, php-format
+msgid "<a href=\"%s\">%s &rarr; Add New</a>"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:352 admin/inc/welcome.php:352
+#, php-format
+msgid ""
+"The %s menu is your access point for all aspects of your Easy Digital "
+"Downloads product creation and setup. To create your first product, simply "
+"click Add New and then fill out the product details."
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:354 admin/inc/welcome.php:354
+msgid "Product Price"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:356 admin/inc/welcome.php:356
+msgid ""
+"Products can have simple prices or variable prices if you wish to have more "
+"than one price point for a product. For a single price, simply enter the "
+"price. For multiple price points, click <em>Enable variable pricing</em> and "
+"enter the options."
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:358 admin/inc/welcome.php:358
+msgid "Download Files"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:360 admin/inc/welcome.php:360
+msgid ""
+"Uploading the downloadable files is simple. Click <em>Upload File</em> in "
+"the Download Files section and choose your download file. To add more than "
+"one file, simply click the <em>Add New</em> button."
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:366 admin/inc/welcome.php:366
+msgid "Display a Product Grid"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:373 admin/inc/welcome.php:373
+msgid "Flexible Product Grids"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:375 admin/inc/welcome.php:375
+msgid ""
+"The [downloads] shortcode will display a product grid that works with any "
+"theme, no matter the size. It is even responsive!"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:377 admin/inc/welcome.php:377
+msgid "Change the Number of Columns"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:379 admin/inc/welcome.php:379
+msgid ""
+"You can easily change the number of columns by adding the columns=\"x\" "
+"parameter:"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:385 admin/inc/welcome.php:385
+msgid "Additional Display Options"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:387 admin/inc/welcome.php:387
+#, php-format
+msgid ""
+"The product grids can be customized in any way you wish and there is <a href="
+"\"%s\">extensive documentation</a> to assist you."
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:392 admin/inc/welcome.php:392
+msgid "Purchase Buttons Anywhere"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:397 admin/inc/welcome.php:397
+msgid "The <em>[purchase_link]</em> Shortcode"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:399 admin/inc/welcome.php:399
+msgid ""
+"With easily accessible shortcodes to display purchase buttons, you can add a "
+"Buy Now or Add to Cart button for any product anywhere on your site in "
+"seconds."
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:401 admin/inc/welcome.php:401
+msgid "Buy Now Buttons"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:403 admin/inc/welcome.php:403
+msgid ""
+"Purchase buttons can behave as either Add to Cart or Buy Now buttons. With "
+"Buy Now buttons customers are taken straight to PayPal, giving them the most "
+"frictionless purchasing experience possible."
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:409 admin/inc/welcome.php:409
+msgid "Need Help?"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:413 admin/inc/welcome.php:413
+msgid "Phenomenal Support"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:415 admin/inc/welcome.php:415
+msgid ""
+"We do our best to provide the best support we can. If you encounter a "
+"problem or have a question, post a question in the <a href=\"https://"
+"easydigitaldownloads.com/support\">support forums</a>."
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:417 admin/inc/welcome.php:417
+msgid "Need Even Faster Support?"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:419 admin/inc/welcome.php:419
+msgid ""
+"Our <a href=\"https://easydigitaldownloads.com/support/pricing/\">Priority "
+"Support forums</a> are there for customers that need faster and/or more in-"
+"depth assistance."
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:425 admin/inc/welcome.php:425
+msgid "Stay Up to Date"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:429 admin/inc/welcome.php:429
+msgid "Get Notified of Extension Releases"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:431 admin/inc/welcome.php:431
+msgid ""
+"New extensions that make Easy Digital Downloads even more powerful are "
+"released nearly every single week. Subscribe to the newsletter to stay up to "
+"date with our latest releases. <a href=\"http://eepurl.com/kaerz\" target="
+"\"_blank\">Signup now</a> to ensure you do not miss a release!"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:433 admin/inc/welcome.php:433
+msgid "Get Alerted About New Tutorials"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:435 admin/inc/welcome.php:435
+msgid ""
+"<a href=\"http://eepurl.com/kaerz\" target=\"_blank\">Signup now</a> to hear "
+"about the latest tutorial releases that explain how to take Easy Digital "
+"Downloads further."
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:441 admin/inc/welcome.php:441
+msgid "Extensions for Everything"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:445 admin/inc/welcome.php:445
+msgid "Over 250 Extensions"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:447 admin/inc/welcome.php:447
+msgid ""
+"Add-on plugins are available that greatly extend the default functionality "
+"of Easy Digital Downloads. There are extensions for payment processors, such "
+"as Stripe and PayPal, extensions for newsletter integrations, and many, many "
+"more."
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:449 admin/inc/welcome.php:449
+msgid "Visit the Extension Store"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:451 admin/inc/welcome.php:451
+msgid ""
+"<a href=\"https://asydigitaldownloads.com/extensions\" target=\"_blank\">The "
+"Extensions store</a> has a list of all available extensions, including "
+"convenient category filters so you can find exactly what you are looking for."
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:480 admin/inc/welcome.php:480
+msgid ""
+"Redux Framework is created by a worldwide team of developers who <something "
+"witty here>"
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:500 admin/inc/welcome.php:500
+msgid "No valid changlog was found."
+msgstr ""
+
+#: ../specular/admin/inc/welcome.php:539 admin/inc/welcome.php:539
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: ../specular/admin/loader/extensions/metaboxes/extension_metaboxes.php:1278
+#: admin/loader/extensions/metaboxes/extension_metaboxes.php:1278
+msgid "warnings(s) were found!"
+msgstr ""
+
+#: ../specular/functions-specular.php:8 functions-specular.php:8
+msgid "About"
+msgstr ""
+
+#: ../specular/functions-woocommerce.php:168
+#: ../specular/includes/view/woocommerce-cart.php:10
+#: functions-woocommerce.php:168 includes/view/woocommerce-cart.php:10
+msgid "Cart is empty"
+msgstr ""
+
+#: ../specular/functions-woocommerce.php:171
+#: ../specular/functions-woocommerce.php:223
+#: ../specular/includes/view/woocommerce-cart.php:13
+#: ../specular/includes/view/woocommerce-cart.php:62
+#: functions-woocommerce.php:171 functions-woocommerce.php:223
+#: includes/view/woocommerce-cart.php:13 includes/view/woocommerce-cart.php:62
+msgid "View Cart"
+msgstr ""
+
+#: ../specular/functions-woocommerce.php:174
+#: ../specular/functions-woocommerce.php:226
+#: ../specular/includes/view/woocommerce-cart.php:16
+#: ../specular/includes/view/woocommerce-cart.php:65
+#: functions-woocommerce.php:174 functions-woocommerce.php:226
+#: includes/view/woocommerce-cart.php:16 includes/view/woocommerce-cart.php:65
+msgid "Subtotal:"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider.php:41
+#: ../specular/includes/core/codeless_slideshow.php:187
+#: includes/codeless-slider/codeless_slider.php:41
+#: includes/core/codeless_slideshow.php:187
+msgid "PREV"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider.php:45
+#: ../specular/includes/core/codeless_slideshow.php:191
+#: includes/codeless-slider/codeless_slider.php:45
+#: includes/core/codeless_slideshow.php:191
+msgid "NEXT"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:13
+#: ../specular/includes/core/codeless_options.php:722
+#: ../specular/includes/core/codeless_options.php:1269
+#: includes/codeless-slider/codeless_slider_options.php:13
+#: includes/core/codeless_options.php:722
+#: includes/core/codeless_options.php:1269
+msgid "Background"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:19
+#: includes/codeless-slider/codeless_slider_options.php:19
+msgid "Background Type"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:29
+#: includes/codeless-slider/codeless_slider_options.php:29
+msgid "Background Image / Color"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:30
+#: includes/codeless-slider/codeless_slider_options.php:30
+msgid "Page Header background with image"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:38
+#: includes/codeless-slider/codeless_slider_options.php:38
+msgid "MP4 video Url"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:46
+#: includes/codeless-slider/codeless_slider_options.php:46
+msgid "Webm video Url"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:54
+#: includes/codeless-slider/codeless_slider_options.php:54
+msgid "OGG video Url"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:62
+#: includes/codeless-slider/codeless_slider_options.php:62
+msgid "Background Color Overlay"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:63
+#: includes/codeless-slider/codeless_slider_options.php:63
+msgid "Use a bg overlay"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:75
+#: includes/codeless-slider/codeless_slider_options.php:75
+msgid "Content"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:89
+#: includes/codeless-slider/codeless_slider_options.php:89
+msgid "Title Style"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:112
+#: includes/codeless-slider/codeless_slider_options.php:112
+msgid "Title Background"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:126
+#: includes/codeless-slider/codeless_slider_options.php:126
+msgid "Title Padding"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:127
+#: includes/codeless-slider/codeless_slider_options.php:127
+msgid " "
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:128
+#: ../specular/includes/core/codeless_options.php:652
+#: ../specular/includes/core/codeless_options.php:669
+#: ../specular/includes/core/codeless_options.php:858
+#: ../specular/includes/core/codeless_options.php:878
+#: ../specular/includes/core/codeless_options.php:1743
+#: ../specular/includes/core/codeless_options.php:1761
+#: includes/codeless-slider/codeless_slider_options.php:128
+#: includes/core/codeless_options.php:652
+#: includes/core/codeless_options.php:669
+#: includes/core/codeless_options.php:858
+#: includes/core/codeless_options.php:878
+#: includes/core/codeless_options.php:1743
+#: includes/core/codeless_options.php:1761
+msgid "Unit: px"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:134
+#: includes/codeless-slider/codeless_slider_options.php:134
+msgid "Title animation"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:150
+#: includes/codeless-slider/codeless_slider_options.php:150
+msgid "Description Style"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:170
+#: includes/codeless-slider/codeless_slider_options.php:170
+msgid "Description animation"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:180
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:202
+#: includes/codeless-slider/codeless_slider_options.php:180
+#: includes/codeless-slider/codeless_slider_options.php:202
+msgid "Button Label"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:181
+#: includes/codeless-slider/codeless_slider_options.php:181
+msgid "First Button Label & Link"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:187
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:209
+#: includes/codeless-slider/codeless_slider_options.php:187
+#: includes/codeless-slider/codeless_slider_options.php:209
+msgid "Button Link"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:192
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:214
+#: includes/codeless-slider/codeless_slider_options.php:192
+#: includes/codeless-slider/codeless_slider_options.php:214
+msgid "Button Style"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:203
+#: includes/codeless-slider/codeless_slider_options.php:203
+msgid ""
+"Second Button Label & Link (Leave Blank if you want to use only one button)"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:223
+#: includes/codeless-slider/codeless_slider_options.php:223
+msgid "Overall Buttons Colors"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:234
+#: ../specular/includes/core/codeless_metaboxes.php:246
+#: ../specular/includes/core/codeless_options.php:2808
+#: ../specular/includes/core/codeless_options.php:2867
+#: ../twentyfourteen/inc/customizer.php:50
+#: includes/codeless-slider/codeless_slider_options.php:234
+#: includes/core/codeless_metaboxes.php:246
+#: includes/core/codeless_options.php:2808
+#: includes/core/codeless_options.php:2867
+msgid "Layout"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:240
+#: ../specular/includes/core/codeless_metaboxes.php:34
+#: ../specular/includes/core/codeless_metaboxes.php:43
+#: includes/codeless-slider/codeless_slider_options.php:240
+#: includes/core/codeless_metaboxes.php:34
+#: includes/core/codeless_metaboxes.php:43
+msgid "Content Position"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:253
+#: includes/codeless-slider/codeless_slider_options.php:253
+msgid "Content custom absolute position"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:254
+#: includes/codeless-slider/codeless_slider_options.php:254
+msgid "Add absolute positioning"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:255
+#: includes/codeless-slider/codeless_slider_options.php:255
+msgid ""
+"In case you select vertical centered, top and bottom positions are fixed. "
+"The same for horizontal centered, left and right are fixed. Them are not "
+"considerated. If you want to use only absolute positions (Left, Right, Top, "
+"Bottom) select \"Use only absolute position\" "
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:267
+#: includes/codeless-slider/codeless_slider_options.php:267
+msgid "Content Width"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:268
+#: includes/codeless-slider/codeless_slider_options.php:268
+msgid "Examples: auto, 100px, 50%"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_options.php:282
+#: includes/codeless-slider/codeless_slider_options.php:282
+msgid "Codeless Slide Options"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_type.php:16
+#: includes/codeless-slider/codeless_slider_type.php:16
+msgid "Slides"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_type.php:20
+#: includes/codeless-slider/codeless_slider_type.php:20
+msgid "Codeless Slider"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_type.php:24
+#: includes/codeless-slider/codeless_slider_type.php:24
+msgid "Add New Slide"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_type.php:26
+#: includes/codeless-slider/codeless_slider_type.php:26
+msgid "Edit Slide"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_type.php:28
+#: includes/codeless-slider/codeless_slider_type.php:28
+msgid "New Slide"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_type.php:30
+#: includes/codeless-slider/codeless_slider_type.php:30
+msgid "View Slide"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_type.php:32
+#: includes/codeless-slider/codeless_slider_type.php:32
+msgid "Search Slides"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_type.php:34
+#: includes/codeless-slider/codeless_slider_type.php:34
+msgid "No Slides found"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_type.php:36
+#: includes/codeless-slider/codeless_slider_type.php:36
+msgid "No Slides found in Trash"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_type.php:78
+#: ../specular/includes/codeless-slider/codeless_slider_type.php:80
+#: includes/codeless-slider/codeless_slider_type.php:78
+#: includes/codeless-slider/codeless_slider_type.php:80
+msgid "Sliders"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_type.php:82
+#: ../twentyfourteen/inc/customizer.php:55
+#: includes/codeless-slider/codeless_slider_type.php:82
+msgid "Slider"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_type.php:84
+#: includes/codeless-slider/codeless_slider_type.php:84
+msgid "All Sliders"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_type.php:86
+#: includes/codeless-slider/codeless_slider_type.php:86
+msgid "Search Sliders"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_type.php:88
+#: includes/codeless-slider/codeless_slider_type.php:88
+msgid "Parent Slider"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_type.php:90
+#: includes/codeless-slider/codeless_slider_type.php:90
+msgid "Parent Slider:"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_type.php:92
+#: includes/codeless-slider/codeless_slider_type.php:92
+msgid "Update Slider"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_type.php:94
+#: includes/codeless-slider/codeless_slider_type.php:94
+msgid "Add New Slider"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_type.php:96
+#: includes/codeless-slider/codeless_slider_type.php:96
+msgid "Edit Slider"
+msgstr ""
+
+#: ../specular/includes/codeless-slider/codeless_slider_type.php:98
+#: includes/codeless-slider/codeless_slider_type.php:98
+msgid "New Slider Name"
+msgstr ""
+
+#: ../specular/includes/core/codeless_elements.php:532
+#: includes/core/codeless_elements.php:532
+msgid "Show off some recent portfolio"
+msgstr ""
+
+#: ../specular/includes/core/codeless_megamenu.php:678
+#: includes/core/codeless_megamenu.php:678
+msgid " (Pending)"
+msgstr ""
+
+#: ../specular/includes/core/codeless_megamenu.php:722
+#: includes/core/codeless_megamenu.php:722
+msgid "Mega Menu Column"
+msgstr ""
+
+#: ../specular/includes/core/codeless_megamenu.php:724
+#: includes/core/codeless_megamenu.php:724
+msgid "Mega Menu"
+msgstr ""
+
+#: ../specular/includes/core/codeless_megamenu.php:728
+#: ../specular/includes/core/codeless_megamenu.php:732
+#: includes/core/codeless_megamenu.php:728
+#: includes/core/codeless_megamenu.php:732
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../specular/includes/core/codeless_megamenu.php:764
+#: includes/core/codeless_megamenu.php:764
+msgid "Navigation Label"
+msgstr ""
+
+#: ../specular/includes/core/codeless_megamenu.php:766
+#: includes/core/codeless_megamenu.php:766
+msgid "Title for the Mega Menu Column"
+msgstr ""
+
+#: ../specular/includes/core/codeless_megamenu.php:782
+#: includes/core/codeless_megamenu.php:782
+msgid "Title Attribute"
+msgstr ""
+
+#: ../specular/includes/core/codeless_megamenu.php:794
+#: includes/core/codeless_megamenu.php:794
+msgid "link Target"
+msgstr ""
+
+#: ../specular/includes/core/codeless_megamenu.php:798
+#: includes/core/codeless_megamenu.php:798
+msgid "Same window or tab"
+msgstr ""
+
+#: ../specular/includes/core/codeless_megamenu.php:800
+#: includes/core/codeless_megamenu.php:800
+msgid "New window or tab"
+msgstr ""
+
+#: ../specular/includes/core/codeless_megamenu.php:812
+#: includes/core/codeless_megamenu.php:812
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../specular/includes/core/codeless_megamenu.php:824
+#: includes/core/codeless_megamenu.php:824
+msgid "link Relationship (XFN)"
+msgstr ""
+
+#: ../specular/includes/core/codeless_megamenu.php:906
+#: includes/core/codeless_megamenu.php:906
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../specular/includes/core/codeless_megamenu.php:934
+#: includes/core/codeless_megamenu.php:934
+msgid "Cancel"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:19
+#: includes/core/codeless_metaboxes.php:19
+msgid "Page Style"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:25
+#: includes/core/codeless_metaboxes.php:25
+msgid "Select the style of the single portfolio"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:52
+#: includes/core/codeless_metaboxes.php:52
+msgid "Media Type"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:61
+#: includes/core/codeless_metaboxes.php:61
+msgid "Video"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:70
+#: ../specular/includes/core/codeless_metaboxes.php:446
+#: includes/core/codeless_metaboxes.php:70
+#: includes/core/codeless_metaboxes.php:446
+msgid "Add/Edit Slides"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:71
+#: ../specular/includes/core/codeless_metaboxes.php:447
+#: includes/core/codeless_metaboxes.php:71
+#: includes/core/codeless_metaboxes.php:447
+msgid "Add new or edit existing slider images"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:80
+#: includes/core/codeless_metaboxes.php:80
+msgid "Custom Fields"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:87
+#: includes/core/codeless_metaboxes.php:87
+msgid "Custom fields Values"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:88
+#: includes/core/codeless_metaboxes.php:88
+msgid ""
+"Create unlimited custom fields in Theme Options. Leave empty if you dont "
+"want to display this custom field"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:101
+#: includes/core/codeless_metaboxes.php:101
+msgid "Single Portfolio Options"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:134
+#: includes/core/codeless_metaboxes.php:134
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:143
+#: includes/core/codeless_metaboxes.php:143
+msgid "Portfolio Mode"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:151
+#: includes/core/codeless_metaboxes.php:151
+msgid "Portfolio Columns"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:180
+#: includes/core/codeless_metaboxes.php:180
+msgid "Portfolio Style"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:188
+#: includes/core/codeless_metaboxes.php:188
+msgid "Portfolio Layout"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:196
+#: includes/core/codeless_metaboxes.php:196
+msgid "Portfolio Space"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:204
+#: includes/core/codeless_metaboxes.php:204
+msgid "Portfolio Content Position"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:216
+#: ../specular/includes/core/codeless_metaboxes.php:696
+#: includes/core/codeless_metaboxes.php:216
+#: includes/core/codeless_metaboxes.php:696
+msgid "Portfolio Options"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:247
+#: ../specular/includes/core/codeless_options.php:2809
+#: includes/core/codeless_metaboxes.php:247
+#: includes/core/codeless_options.php:2809
+msgid "Select main content and sidebar arrangement."
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:292
+#: includes/core/codeless_metaboxes.php:292
+msgid "Page Header Options"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:293
+#: includes/core/codeless_metaboxes.php:293
+msgid ""
+"In this section you can create custom page header only for this page. If you "
+"want to change or to view the default page header options"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:300
+#: includes/core/codeless_metaboxes.php:300
+msgid "Overwrite the default page options"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:301
+#: includes/core/codeless_metaboxes.php:301
+msgid "Do you want to overwrite the default page options in Theme Options ?"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:308
+#: ../specular/includes/core/codeless_options.php:1101
+#: includes/core/codeless_metaboxes.php:308
+#: includes/core/codeless_options.php:1101
+msgid "Active Page Header"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:309
+#: ../specular/includes/core/codeless_options.php:1102
+#: includes/core/codeless_metaboxes.php:309
+#: includes/core/codeless_options.php:1102
+msgid ""
+"Switch On to enable page header for pages, posts (For each post or page you "
+"can add custom options)"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:321
+#: ../specular/includes/core/codeless_options.php:1113
+#: includes/core/codeless_metaboxes.php:321
+#: includes/core/codeless_options.php:1113
+msgid "Page Header Height"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:322
+#: ../specular/includes/core/codeless_options.php:329
+#: ../specular/includes/core/codeless_options.php:612
+#: ../specular/includes/core/codeless_options.php:637
+#: ../specular/includes/core/codeless_options.php:709
+#: ../specular/includes/core/codeless_options.php:898
+#: ../specular/includes/core/codeless_options.php:1086
+#: ../specular/includes/core/codeless_options.php:1114
+#: ../specular/includes/core/codeless_options.php:1187
+#: ../specular/includes/core/codeless_options.php:2886
+#: ../specular/includes/core/codeless_options.php:2899
+#: ../specular/includes/core/codeless_options.php:2912
+#: ../specular/includes/core/codeless_options.php:2927
+#: includes/core/codeless_metaboxes.php:322
+#: includes/core/codeless_options.php:329
+#: includes/core/codeless_options.php:612
+#: includes/core/codeless_options.php:637
+#: includes/core/codeless_options.php:709
+#: includes/core/codeless_options.php:898
+#: includes/core/codeless_options.php:1086
+#: includes/core/codeless_options.php:1114
+#: includes/core/codeless_options.php:1187
+#: includes/core/codeless_options.php:2886
+#: includes/core/codeless_options.php:2899
+#: includes/core/codeless_options.php:2912
+#: includes/core/codeless_options.php:2927
+msgid "units: px"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:331
+#: ../specular/includes/core/codeless_options.php:1122
+#: includes/core/codeless_metaboxes.php:331
+#: includes/core/codeless_options.php:1122
+msgid "Page header style"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:332
+#: ../specular/includes/core/codeless_options.php:1123
+#: includes/core/codeless_metaboxes.php:332
+#: includes/core/codeless_options.php:1123
+msgid "Select the style for the default page header"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:341
+#: includes/core/codeless_metaboxes.php:341
+msgid "SUbtitle for this page ?"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:349
+#: includes/core/codeless_metaboxes.php:349
+msgid "SUbtitle for this page"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:350
+#: includes/core/codeless_metaboxes.php:350
+msgid "Add a subtitle here"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:351
+#: includes/core/codeless_metaboxes.php:351
+msgid "Show after the main title  "
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:360
+#: ../specular/includes/core/codeless_options.php:1132
+#: includes/core/codeless_metaboxes.php:360
+#: includes/core/codeless_options.php:1132
+msgid "Page header font color"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:361
+#: ../specular/includes/core/codeless_options.php:1133
+#: includes/core/codeless_metaboxes.php:361
+#: includes/core/codeless_options.php:1133
+msgid "Select the color for the title or breadcrumbs in page header"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:371
+#: ../specular/includes/core/codeless_options.php:1142
+#: includes/core/codeless_metaboxes.php:371
+#: includes/core/codeless_options.php:1142
+msgid "Page header background"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:372
+#: ../specular/includes/core/codeless_options.php:1143
+#: includes/core/codeless_metaboxes.php:372
+#: includes/core/codeless_options.php:1143
+msgid "Page Header background with image, color, etc."
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:431
+#: includes/core/codeless_metaboxes.php:431
+msgid "Sliders Options"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:437
+#: includes/core/codeless_metaboxes.php:437
+msgid "Select Slider Type"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:438
+#: includes/core/codeless_metaboxes.php:438
+msgid "Select one of the listed sliders"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:454
+#: includes/core/codeless_metaboxes.php:454
+msgid "Select one of the created revolution sliders."
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:464
+#: includes/core/codeless_metaboxes.php:464
+msgid "Select one of the created layer sliders."
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:474
+#: includes/core/codeless_metaboxes.php:474
+msgid "Select one of the created codelessliders."
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:484
+#: includes/core/codeless_metaboxes.php:484
+msgid "Slider height"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:485
+#: includes/core/codeless_metaboxes.php:485
+#, php-format
+msgid "Write 100% for fullscreen or for example 600 (without px) for custom"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:492
+#: includes/core/codeless_metaboxes.php:492
+msgid "Select the first featured post"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:502
+#: includes/core/codeless_metaboxes.php:502
+msgid "Select the second featured post"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:512
+#: includes/core/codeless_metaboxes.php:512
+msgid "Select Slider layout"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:521
+#: includes/core/codeless_metaboxes.php:521
+msgid "Active Fixed Slider"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:530
+#: includes/core/codeless_metaboxes.php:530
+msgid "Active Parallax"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:531
+#: includes/core/codeless_metaboxes.php:531
+msgid "Look, it's on!"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:547
+#: includes/core/codeless_metaboxes.php:547
+msgid "Page Options & Style"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:554
+#: includes/core/codeless_metaboxes.php:554
+msgid "Page Content Background"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:555
+#: includes/core/codeless_metaboxes.php:555
+msgid "Background color of content in this page "
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:563
+#: includes/core/codeless_metaboxes.php:563
+msgid "Header Color Style for Header 1"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:564
+#: includes/core/codeless_metaboxes.php:564
+msgid "Select Light for light colors in header and white logo"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:572
+#: includes/core/codeless_metaboxes.php:572
+msgid "Use menu as one page menu"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:573
+#: includes/core/codeless_metaboxes.php:573
+msgid "Check this to activate one page menu"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:574
+#: includes/core/codeless_metaboxes.php:574
+msgid ""
+"After activate this, to the sections of visual composer add a class "
+"attribute for ex: \"services\" and set the link of the menu item: #services"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:581
+#: includes/core/codeless_metaboxes.php:581
+msgid "Fullscreen Sections Sliding"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:582
+#: includes/core/codeless_metaboxes.php:582
+msgid "Check to use visual sections as fullscreen sections"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:606
+#: ../specular/includes/core/codeless_metaboxes.php:614
+#: includes/core/codeless_metaboxes.php:606
+#: includes/core/codeless_metaboxes.php:614
+msgid "General Settings"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:644
+#: ../specular/includes/core/codeless_metaboxes.php:727
+#: includes/core/codeless_metaboxes.php:644
+#: includes/core/codeless_metaboxes.php:727
+msgid "Staff Position"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:650
+#: ../specular/includes/core/codeless_options.php:3048
+#: includes/core/codeless_metaboxes.php:650
+#: includes/core/codeless_options.php:3048
+msgid "Facebook Link"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:657
+#: ../specular/includes/core/codeless_options.php:3053
+#: includes/core/codeless_metaboxes.php:657
+#: includes/core/codeless_options.php:3053
+msgid "Twitter Link"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:664
+#: includes/core/codeless_metaboxes.php:664
+msgid "Google Link"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:671
+#: includes/core/codeless_metaboxes.php:671
+msgid "Pinterest Link"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:678
+#: includes/core/codeless_metaboxes.php:678
+msgid "Linkedin Link"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:685
+#: includes/core/codeless_metaboxes.php:685
+msgid "Mail Link"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:737
+#: includes/core/codeless_metaboxes.php:737
+msgid "Testimonial Options"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:765
+#: includes/core/codeless_metaboxes.php:765
+msgid "Active Fullscreen Innovative Single Post"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:772
+#: includes/core/codeless_metaboxes.php:772
+msgid "Fullscreen Post Effect"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:781
+#: includes/core/codeless_metaboxes.php:781
+msgid "Fullscreen Post Effect Delay"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:786
+#: includes/core/codeless_metaboxes.php:786
+msgid "Fullscreen Post Position"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:799
+#: includes/core/codeless_metaboxes.php:799
+msgid "Blog Options"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:815
+#: includes/core/codeless_metaboxes.php:815
+msgid "Video / Audio Link or Iframe"
+msgstr ""
+
+#: ../specular/includes/core/codeless_metaboxes.php:825
+#: includes/core/codeless_metaboxes.php:825
+msgid "Blog Post Format"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:234
+#: includes/core/codeless_options.php:234
+msgid "Customize"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:252
+#: includes/core/codeless_options.php:252
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:254
+#: includes/core/codeless_options.php:254
+msgid "Tags"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:259
+#: includes/core/codeless_options.php:259
+#, php-format
+msgid "This child theme requires its parent theme, %2$s."
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:289
+#: includes/core/codeless_options.php:289
+msgid "General Options"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:290
+#: includes/core/codeless_options.php:290
+msgid ""
+"In this section you can customize basic options like logo, responsive etc..."
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:298
+#: includes/core/codeless_options.php:298
+msgid "Responsive Layout"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:299
+#: includes/core/codeless_options.php:299
+msgid "Switch on to active responsive layout"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:306
+#: includes/core/codeless_options.php:306
+msgid "Upload Logo"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:307
+#: includes/core/codeless_options.php:307
+msgid "Upload here the logo that is placed in top of the page "
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:308
+#: includes/core/codeless_options.php:308
+msgid "Upload any media using the WordPress native uploader"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:315
+#: includes/core/codeless_options.php:315
+msgid "Upload Logo Light"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:316
+#: includes/core/codeless_options.php:316
+msgid "Upload here the logo that is placed in top of the page (Light Version) "
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:328
+#: includes/core/codeless_options.php:328
+msgid "Logo Height"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:339
+#: includes/core/codeless_options.php:339
+msgid "Favicon for your website"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:349
+#: includes/core/codeless_options.php:349
+msgid "Smooth Scroll"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:350
+#: includes/core/codeless_options.php:350
+msgid "Switch on to active smooth scrolling"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:357
+#: includes/core/codeless_options.php:357
+msgid "Select Special Pages"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:367
+#: includes/core/codeless_options.php:367
+msgid "Select Frontpage"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:368
+#: includes/core/codeless_options.php:368
+msgid "Frontpage is the page that you want to show in the home"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:369
+#: includes/core/codeless_options.php:369
+msgid "Select one of the created pages to use it as frontpage"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:378
+#: includes/core/codeless_options.php:378
+msgid "Select Blog Page"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:379
+#: includes/core/codeless_options.php:379
+msgid "Blogpage is the page that you want to show the blog posts"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:380
+#: includes/core/codeless_options.php:380
+msgid "Select one of the created pages to use as blog"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:388
+#: includes/core/codeless_options.php:388
+msgid "Select Coming Soon Page"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:389
+#: includes/core/codeless_options.php:389
+msgid "Select one page that you want to use as comingsoon or maintenance page"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:402
+#: includes/core/codeless_options.php:402
+msgid "404 error message"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:403
+#: includes/core/codeless_options.php:403
+msgid "Text to be placed in 404 page"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:410
+#: includes/core/codeless_options.php:410
+msgid "Tracking Code / Custom CSS / Custom JS"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:418
+#: includes/core/codeless_options.php:418
+msgid "Tracking Code"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:419
+#: ../specular/includes/core/codeless_options.php:440
+#: includes/core/codeless_options.php:419
+#: includes/core/codeless_options.php:440
+msgid "Paste your JS code here."
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:429
+#: includes/core/codeless_options.php:429
+msgid "Custom CSS Code"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:430
+#: includes/core/codeless_options.php:430
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:439
+#: includes/core/codeless_options.php:439
+msgid "Custom JS Code"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:466
+#: includes/core/codeless_options.php:466
+msgid "Header Options"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:472
+#: includes/core/codeless_options.php:472
+msgid "General"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:560
+#: includes/core/codeless_options.php:560
+msgid "Header Style"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:561
+#: includes/core/codeless_options.php:561
+msgid "Select the style for the header"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:569
+#: includes/core/codeless_options.php:569
+msgid "Make Transparency Header"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:579
+#: includes/core/codeless_options.php:579
+msgid "Menu Overlay Fullscreen BG Color"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:593
+#: includes/core/codeless_options.php:593
+msgid "Header 6 Navigation BG Color"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:610
+#: includes/core/codeless_options.php:610
+msgid "Header 6 Navigation Height"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:620
+#: includes/core/codeless_options.php:620
+msgid "Make transparent this header"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:621
+#: includes/core/codeless_options.php:621
+msgid "Switch On to enable transparency"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:635
+#: includes/core/codeless_options.php:635
+msgid "Header 7 Side Menu Width"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:649
+#: includes/core/codeless_options.php:649
+msgid "Header 7 Side Menu Inner Padding"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:650
+#: includes/core/codeless_options.php:650
+msgid "Adjust side menu padding "
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:666
+#: includes/core/codeless_options.php:666
+msgid "Header 7 Side Menu Inner Margin beetwen logo/menu/widgets"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:667
+#: includes/core/codeless_options.php:667
+msgid "Adjust margin beetween side menu elements logog/menu/widgets "
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:674
+#: includes/core/codeless_options.php:674
+msgid "Header 7 Side Menu Position"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:675
+#: includes/core/codeless_options.php:675
+msgid "Select the fixed position for the side navigation"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:691
+#: includes/core/codeless_options.php:691
+msgid "Add border to side header style"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:692
+#: includes/core/codeless_options.php:692
+msgid "Border for side left/right header style"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:708
+#: includes/core/codeless_options.php:708
+msgid "Header Height"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:723
+#: ../specular/includes/core/codeless_options.php:1200
+#: includes/core/codeless_options.php:723
+#: includes/core/codeless_options.php:1200
+msgid "Header background with image, color, etc."
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:733
+#: includes/core/codeless_options.php:733
+msgid "Show Search"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:734
+#: includes/core/codeless_options.php:734
+msgid "Show search in the right of header"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:735
+#: includes/core/codeless_options.php:735
+msgid "Check this if you want the search field in the right part of the header"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:742
+#: includes/core/codeless_options.php:742
+msgid "Remove container from header"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:743
+#: includes/core/codeless_options.php:743
+msgid "Cant use with left menu"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:744
+#: includes/core/codeless_options.php:744
+msgid ""
+"By checking this the header container should be removed and transformed in "
+"fullwidth header"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:751
+#: includes/core/codeless_options.php:751
+msgid "Add button to header"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:752
+#: includes/core/codeless_options.php:752
+msgid "Add a button in header after the menu"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:760
+#: includes/core/codeless_options.php:760
+msgid "Header Button"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:768
+#: includes/core/codeless_options.php:768
+msgid "Header Button Link"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:776
+#: includes/core/codeless_options.php:776
+msgid "Header Border Bottom"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:784
+#: includes/core/codeless_options.php:784
+msgid "Add Border bottom for header"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:795
+#: includes/core/codeless_options.php:795
+msgid "Header Shadow"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:796
+#: includes/core/codeless_options.php:796
+msgid "Select one shadow style or leave it without shadow"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:797
+#: includes/core/codeless_options.php:797
+msgid "Isnt compatible with all headers"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:807
+#: includes/core/codeless_options.php:807
+msgid "Menu Options"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:812
+#: includes/core/codeless_options.php:812
+msgid "Menu Item Typography"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:829
+#: includes/core/codeless_options.php:829
+msgid "Select the appropiate font style for the menu"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:856
+#: includes/core/codeless_options.php:856
+msgid "Menu Items padding"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:857
+#: includes/core/codeless_options.php:857
+msgid "Adjust padding beetwen menu items "
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:876
+#: includes/core/codeless_options.php:876
+msgid "Menu Items Margin"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:877
+#: includes/core/codeless_options.php:877
+msgid "Adjust margin beetwen menu items "
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:888
+#: includes/core/codeless_options.php:888
+msgid "Dropdown Options"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:897
+#: includes/core/codeless_options.php:897
+msgid "Dropdown Width"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:908
+#: includes/core/codeless_options.php:908
+msgid "Dropdown Background Color"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:909
+#: includes/core/codeless_options.php:909
+msgid "Background Color for the dropdown in the menu"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:917
+#: includes/core/codeless_options.php:917
+msgid "Dropdown Border color"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:918
+#: includes/core/codeless_options.php:918
+msgid "Dropdown border color for navigation"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:925
+#: includes/core/codeless_options.php:925
+msgid "Dropdown typography"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:939
+#: ../specular/includes/core/codeless_options.php:966
+#: includes/core/codeless_options.php:939
+#: includes/core/codeless_options.php:966
+msgid "Select the appropiate font style for the megamenu column title"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:952
+#: includes/core/codeless_options.php:952
+msgid "Megamenu title"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:980
+#: includes/core/codeless_options.php:980
+msgid "Cart Dropdown in header button style"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:991
+#: includes/core/codeless_options.php:991
+msgid "Top Widgetized Area"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:996
+#: includes/core/codeless_options.php:996
+msgid "Show Top Navigation"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:997
+#: includes/core/codeless_options.php:997
+msgid "Switch On to enable top navigation"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1006
+#: includes/core/codeless_options.php:1006
+msgid "Background Color"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1016
+#: includes/core/codeless_options.php:1016
+msgid "Top Navigation Border Top"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1024
+#: includes/core/codeless_options.php:1024
+msgid "Add Border top for the top navigation"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1035
+#: includes/core/codeless_options.php:1035
+msgid "Top Navigation Border Bottom"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1043
+#: includes/core/codeless_options.php:1043
+msgid "Add Border bottom for the top navigation"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1054
+#: includes/core/codeless_options.php:1054
+msgid "Typography"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1069
+#: includes/core/codeless_options.php:1069
+msgid "Select the appropiate font style for top nav"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1085
+#: includes/core/codeless_options.php:1085
+msgid "Top Nav Height"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1096
+#: ../specular/includes/core/codeless_options.php:1292
+#: includes/core/codeless_options.php:1096
+#: includes/core/codeless_options.php:1292
+msgid "Default Page Header"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1150
+#: includes/core/codeless_options.php:1150
+msgid "Page header Border Bottom"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1158
+#: includes/core/codeless_options.php:1158
+msgid "Add Border bottom for page header"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1170
+#: includes/core/codeless_options.php:1170
+msgid "Sticky Nav"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1175
+#: includes/core/codeless_options.php:1175
+msgid "Sticky Header"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1176
+#: includes/core/codeless_options.php:1176
+msgid "Switch on to active sticky header (fixed position on header)"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1186
+#: includes/core/codeless_options.php:1186
+msgid "Sticky Header Height"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1199
+#: includes/core/codeless_options.php:1199
+msgid "Sticky Background"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1213
+#: includes/core/codeless_options.php:1213
+msgid "Styling Options"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1219
+#: includes/core/codeless_options.php:1219
+msgid "Primary Color"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1220
+#: includes/core/codeless_options.php:1220
+msgid "Color for links, highlighted text and other"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1229
+#: includes/core/codeless_options.php:1229
+msgid "Body Font Color"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1230
+#: includes/core/codeless_options.php:1230
+msgid "Base font color for the main content, in light sections"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1239
+#: includes/core/codeless_options.php:1239
+msgid "Headings Font Color"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1240
+#: includes/core/codeless_options.php:1240
+msgid "Base font color for headings, in light sections"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1248
+#: includes/core/codeless_options.php:1248
+msgid "Base Border Color"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1249
+#: includes/core/codeless_options.php:1249
+msgid "Base border color around the theme"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1258
+#: includes/core/codeless_options.php:1258
+msgid "Highlighted Background"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1259
+#: includes/core/codeless_options.php:1259
+msgid "Highlighted Background in main content, white sections"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1270
+#: includes/core/codeless_options.php:1270
+msgid "Add a background to body"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1279
+#: includes/core/codeless_options.php:1279
+msgid "Content Background"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1280
+#: includes/core/codeless_options.php:1280
+msgid "Add a background to content"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1297
+#: includes/core/codeless_options.php:1297
+msgid "Normal Style No Subtitle Title Typography"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1322
+#: includes/core/codeless_options.php:1322
+msgid "Normal Style With Subtitle Title Typography"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1347
+#: includes/core/codeless_options.php:1347
+msgid "Normal Style With Subtitle Subtitle Typography"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1372
+#: includes/core/codeless_options.php:1372
+msgid "Centered Style No Subtitle Title Typography"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1397
+#: includes/core/codeless_options.php:1397
+msgid "Centered Style With Subtitle Title Typography"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1423
+#: includes/core/codeless_options.php:1423
+msgid "Centered Style With Subtitle Subtitle Typography"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1448
+#: includes/core/codeless_options.php:1448
+msgid "Page Header Design Style"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1449
+#: includes/core/codeless_options.php:1449
+msgid "Select the design style for the default page header"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1456
+#: includes/core/codeless_options.php:1456
+msgid "Page Header with padding style title bg color"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1468
+#: includes/core/codeless_options.php:1468
+msgid "Page Header with padding style subtitle bg color"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1480
+#: includes/core/codeless_options.php:1480
+msgid "Page Header with padding style subtitle font color"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1493
+#: includes/core/codeless_options.php:1493
+msgid "Footer Styling"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1498
+#: includes/core/codeless_options.php:1498
+msgid "Footer Headings Typography"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1525
+#: includes/core/codeless_options.php:1525
+msgid "Footer Body Font Color"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1526
+#: includes/core/codeless_options.php:1526
+msgid "Select the font color for text in footer"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1535
+#: includes/core/codeless_options.php:1535
+msgid "Footer links font Color"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1536
+#: includes/core/codeless_options.php:1536
+msgid "Select the font color for links"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1545
+#: includes/core/codeless_options.php:1545
+msgid "Footer Background Color"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1546
+#: includes/core/codeless_options.php:1546
+msgid "Color for the footer main part"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1555
+#: includes/core/codeless_options.php:1555
+msgid "Copyright Background Color"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1556
+#: includes/core/codeless_options.php:1556
+msgid "Color for the latest part of the footer"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1565
+#: includes/core/codeless_options.php:1565
+msgid "Footer Border Top"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1574
+#: includes/core/codeless_options.php:1574
+msgid "Add Border top for footer"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1589
+#: includes/core/codeless_options.php:1589
+msgid "Blog Styling"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1594
+#: includes/core/codeless_options.php:1594
+msgid "Blog Title Typography"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1621
+#: includes/core/codeless_options.php:1621
+msgid "Blog Info List Typography"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1646
+#: includes/core/codeless_options.php:1646
+msgid "Blog Info List Icon Size"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1669
+#: includes/core/codeless_options.php:1669
+msgid "Active Timeline (or for masonry) Box Shadow"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1676
+#: includes/core/codeless_options.php:1676
+msgid "Timeline (or masonry) post box bg color"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1684
+#: includes/core/codeless_options.php:1684
+msgid "Fullscreen Blog Content Box BG"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1699
+#: includes/core/codeless_options.php:1699
+msgid "Sidebar Styling"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1704
+#: includes/core/codeless_options.php:1704
+msgid "Widget Title"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1742
+#: includes/core/codeless_options.php:1742
+msgid "Widget Title Margin Bottom"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1760
+#: includes/core/codeless_options.php:1760
+msgid "Widget Margin Bottom"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1769
+#: includes/core/codeless_options.php:1769
+msgid "Sidebar Tagcloud Background"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1779
+#: includes/core/codeless_options.php:1779
+msgid "Sidebar Tagcloud Font color"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1791
+#: includes/core/codeless_options.php:1791
+msgid "Sliders Styling"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1797
+#: includes/core/codeless_options.php:1797
+msgid "Codeless Slider Wrapper Background Color"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1808
+#: includes/core/codeless_options.php:1808
+msgid "Filters Styling"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1813
+#: includes/core/codeless_options.php:1813
+msgid "Portfolio Filter & FAQ Filter Basic Typography"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1840
+#: includes/core/codeless_options.php:1840
+msgid "Portfolio Filter & FAQ Filter Basic Typography (Active)"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1850
+#: includes/core/codeless_options.php:1850
+msgid "Portfolio Filter Fullwidth Background Color"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1860
+#: includes/core/codeless_options.php:1860
+msgid "Portfolio Filter Fullwidth Item color"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1873
+#: includes/core/codeless_options.php:1873
+msgid "Portfolio Filter Fullwidth Item hover color "
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1888
+#: includes/core/codeless_options.php:1888
+msgid "Portfolio Styling"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1894
+#: includes/core/codeless_options.php:1894
+msgid "Portfolio Overlay BG Color "
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1905
+#: includes/core/codeless_options.php:1905
+msgid "Portfolio Overlay Title Typography"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1931
+#: includes/core/codeless_options.php:1931
+msgid "Portfolio Overlay Subtitle Typography"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1958
+#: includes/core/codeless_options.php:1958
+msgid "Portfolio Grayscale Background"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1967
+#: includes/core/codeless_options.php:1967
+msgid "Portfolio Grayscale Title Typography"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:1992
+#: includes/core/codeless_options.php:1992
+msgid "Portfolio Grayscale Subtitle Color"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2002
+#: includes/core/codeless_options.php:2002
+msgid "Portfolio Basic Overlay Background"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2015
+#: includes/core/codeless_options.php:2015
+msgid "Portfolio Basic Icon Color"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2024
+#: includes/core/codeless_options.php:2024
+msgid "Portfolio Basic Title Typography"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2051
+#: includes/core/codeless_options.php:2051
+msgid "Portfolio Basic Subtitle Typography"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2081
+#: includes/core/codeless_options.php:2081
+msgid "Elements Styling"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2086
+#: includes/core/codeless_options.php:2086
+msgid "Toggle title typography"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2113
+#: includes/core/codeless_options.php:2113
+msgid "Activated Toggle Font Color"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2122
+#: includes/core/codeless_options.php:2122
+msgid "Block Title Element (Column) Title"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2151
+#: includes/core/codeless_options.php:2151
+msgid "Block Title Element (Column) Subtitle"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2177
+#: includes/core/codeless_options.php:2177
+msgid "Block Title Element (Section) Title"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2204
+#: includes/core/codeless_options.php:2204
+msgid "Animated Counters Typography"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2231
+#: includes/core/codeless_options.php:2231
+msgid "Testimonial typography"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2258
+#: includes/core/codeless_options.php:2258
+msgid "Textbar title typography"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2285
+#: includes/core/codeless_options.php:2285
+msgid "Contact Form Elements Border"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2295
+#: includes/core/codeless_options.php:2295
+msgid "Buttons Styling"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2311
+#: includes/core/codeless_options.php:2311
+msgid "Overall Button Style"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2318
+#: includes/core/codeless_options.php:2318
+msgid "Overall button typography"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2345
+#: includes/core/codeless_options.php:2345
+msgid "Overall button background"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2356
+#: includes/core/codeless_options.php:2356
+msgid "Overall button border"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2367
+#: includes/core/codeless_options.php:2367
+msgid "Overall button hover Font Color"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2376
+#: includes/core/codeless_options.php:2376
+msgid "Overall button hover bg"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2388
+#: includes/core/codeless_options.php:2388
+msgid "Overall button hover border"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2400
+#: includes/core/codeless_options.php:2400
+msgid "Light button Font Color"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2409
+#: includes/core/codeless_options.php:2409
+msgid "Light button bg"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2421
+#: includes/core/codeless_options.php:2421
+msgid "Light button border"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2433
+#: includes/core/codeless_options.php:2433
+msgid "Light button hover Font Color"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2442
+#: includes/core/codeless_options.php:2442
+msgid "Light button hover bg"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2454
+#: includes/core/codeless_options.php:2454
+msgid "Light button hover border"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2467
+#: includes/core/codeless_options.php:2467
+msgid "Shop Styling"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2473
+#: includes/core/codeless_options.php:2473
+msgid "Shop Single Product Title"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2492
+#: includes/core/codeless_options.php:2492
+msgid "Select the appropiate font style for single product title"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2503
+#: includes/core/codeless_options.php:2503
+msgid "Shop item overlay"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2517
+#: includes/core/codeless_options.php:2517
+msgid "Typography Options"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2522
+#: includes/core/codeless_options.php:2522
+msgid "Body Font Style"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2533
+#: ../specular/includes/core/codeless_options.php:2563
+#: includes/core/codeless_options.php:2533
+#: includes/core/codeless_options.php:2563
+msgid "Select the appropiate font style for the body text"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2548
+#: includes/core/codeless_options.php:2548
+msgid "Headings font type"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2575
+#: includes/core/codeless_options.php:2575
+msgid "Heading 1 Font style"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2587
+#: includes/core/codeless_options.php:2587
+msgid "Select the appropiate font style for the h1 text"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2597
+#: includes/core/codeless_options.php:2597
+msgid "Heading 2 Font style"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2610
+#: ../specular/includes/core/codeless_options.php:2633
+#: ../specular/includes/core/codeless_options.php:2656
+#: ../specular/includes/core/codeless_options.php:2679
+#: ../specular/includes/core/codeless_options.php:2702
+#: includes/core/codeless_options.php:2610
+#: includes/core/codeless_options.php:2633
+#: includes/core/codeless_options.php:2656
+#: includes/core/codeless_options.php:2679
+#: includes/core/codeless_options.php:2702
+msgid "Select the appropiate font style for this heading"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2620
+#: includes/core/codeless_options.php:2620
+msgid "Heading 3 Font style"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2643
+#: includes/core/codeless_options.php:2643
+msgid "Heading 4 Font style"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2666
+#: includes/core/codeless_options.php:2666
+msgid "Heading 5 Font style"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2689
+#: includes/core/codeless_options.php:2689
+msgid "Heading 6 Font style"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2713
+#: includes/core/codeless_options.php:2713
+msgid "Footer Options"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2718
+#: includes/core/codeless_options.php:2718
+msgid "Footer Columns"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2719
+#: includes/core/codeless_options.php:2719
+msgid ""
+"Select how many columns do you want for the footer. Choose between 1, 2, 3 "
+"or 4 column layout."
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2744
+#: includes/core/codeless_options.php:2744
+msgid "Copyright Text in the end of footer"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2745
+#: includes/core/codeless_options.php:2745
+msgid "Text have to be placed in the copyright bar"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2752
+#: includes/core/codeless_options.php:2752
+msgid "Show Footer"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2760
+#: includes/core/codeless_options.php:2760
+msgid "Show Copyright"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2773
+#: includes/core/codeless_options.php:2773
+msgid "Blog Config"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2778
+#: includes/core/codeless_options.php:2778
+msgid "Blog Style"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2779
+#: includes/core/codeless_options.php:2779
+msgid "Select the blog style to be used"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2786
+#: includes/core/codeless_options.php:2786
+msgid "Blog Masonry Columns"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2822
+#: includes/core/codeless_options.php:2822
+msgid "Single Post Layout"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2823
+#: ../specular/includes/core/codeless_options.php:2968
+#: includes/core/codeless_options.php:2823
+#: includes/core/codeless_options.php:2968
+msgid "Select the default single post sidebar position"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2837
+#: includes/core/codeless_options.php:2837
+msgid "Active Post Like"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2847
+#: includes/core/codeless_options.php:2847
+msgid "Portfolio Config"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2852
+#: includes/core/codeless_options.php:2852
+msgid "Portfolio Slug"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2858
+#: includes/core/codeless_options.php:2858
+msgid "Custom fields Parameters"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2859
+#: includes/core/codeless_options.php:2859
+msgid ""
+"Create unlimited custom fields. Add values in respetive single portfolio"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2872
+#: includes/core/codeless_options.php:2872
+msgid "Overall site layout"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2873
+#: includes/core/codeless_options.php:2873
+msgid "Select overall ste pages layout"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2885
+#: includes/core/codeless_options.php:2885
+msgid "Page Container Width"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2898
+#: includes/core/codeless_options.php:2898
+msgid "Page Container Width with percentage"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2900
+#: includes/core/codeless_options.php:2900
+msgid ""
+"If you set the width in percentage, the page container width in pixel should "
+"be used as max-width"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2911
+#: includes/core/codeless_options.php:2911
+msgid "Boxed Container Width"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2926
+#: includes/core/codeless_options.php:2926
+msgid "Boxed Container Width with percentage"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2929
+#: includes/core/codeless_options.php:2929
+msgid ""
+"If you set the width in percentage, the boxed container width in pixel "
+"should be used as max-width"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2934
+#: includes/core/codeless_options.php:2934
+msgid "Boxed Container Margin"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2935
+#: includes/core/codeless_options.php:2935
+msgid "Boxed Container Top/Bottom Margin"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2952
+#: includes/core/codeless_options.php:2952
+msgid "Boxed Container Shadow"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2961
+#: ../specular/includes/register/register_sidebars.php:118
+#: includes/core/codeless_options.php:2961
+#: includes/register/register_sidebars.php:118
+msgid "Extra Side Navigation"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2967
+#: includes/core/codeless_options.php:2967
+msgid "Extra Navigation Position"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2980
+#: includes/core/codeless_options.php:2980
+msgid "Page Builder Row Margin Bottom"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2981
+#: includes/core/codeless_options.php:2981
+msgid "Margin bottom for the ROW in Page builder"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2998
+#: includes/core/codeless_options.php:2998
+msgid "Inner Page Content Padding"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:2999
+#: includes/core/codeless_options.php:2999
+msgid "Change padding of the inner page content"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:3021
+#: includes/core/codeless_options.php:3021
+msgid "Clients"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:3026
+#: includes/core/codeless_options.php:3026
+msgid "Add/Edit Clients Dark Version"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:3027
+#: ../specular/includes/core/codeless_options.php:3034
+#: includes/core/codeless_options.php:3027
+#: includes/core/codeless_options.php:3034
+msgid "Upload clients logo here"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:3033
+#: includes/core/codeless_options.php:3033
+msgid "Add/Edit Clients Light Version"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:3043
+#: includes/core/codeless_options.php:3043
+msgid "Social Media"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:3058
+#: includes/core/codeless_options.php:3058
+msgid "Flickr Link"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:3063
+#: includes/core/codeless_options.php:3063
+msgid "Foursquare Link"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:3068
+#: includes/core/codeless_options.php:3068
+msgid "Google Plus Link"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:3073
+#: includes/core/codeless_options.php:3073
+msgid "Dribbble Link"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:3080
+#: includes/core/codeless_options.php:3080
+msgid "Custom Sidebars"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:3087
+#: includes/core/codeless_options.php:3087
+msgid "Pages custom sidebars"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:3088
+#: includes/core/codeless_options.php:3088
+msgid "Select all pages that you want a custom sidebar (widgetized area)"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:3096
+#: includes/core/codeless_options.php:3096
+msgid "Categories custom sidebars"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:3097
+#: includes/core/codeless_options.php:3097
+msgid "Select all categories that you want a custom sidebar (widgetized area)"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:3115
+#: includes/core/codeless_options.php:3115
+msgid "Codeless Import"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:3125
+#: includes/core/codeless_options.php:3125
+msgid "Documentation"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:3147
+#: includes/core/codeless_options.php:3147
+msgid "This is the sidebar content, HTML is allowed."
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:3167
+#: ../specular/includes/core/codeless_options.php:3168
+#: includes/core/codeless_options.php:3167
+#: includes/core/codeless_options.php:3168
+msgid "Specular"
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:3264
+#: includes/core/codeless_options.php:3264
+msgid ""
+"Codeless has been quietly but consistently building a powerhouse portfolio "
+"of web site design and marketing success."
+msgstr ""
+
+#: ../specular/includes/core/codeless_options.php:3266
+#: includes/core/codeless_options.php:3266
+msgid ""
+"Codeless has been quietly but consistently building a powerhouse portfolio "
+"of web site design and marketing success. "
+msgstr ""
+
+#: ../specular/includes/core/codeless_required_plugins.php:100
+#: ../specular/plugins/class-tgm-plugin-activation.php:155
+#: ../specular/plugins/codeless_required_plugins.php:100
+#: includes/core/codeless_required_plugins.php:100
+#: plugins/class-tgm-plugin-activation.php:155
+#: plugins/codeless_required_plugins.php:100
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../specular/includes/core/codeless_required_plugins.php:101
+#: ../specular/plugins/class-tgm-plugin-activation.php:156
+#: ../specular/plugins/codeless_required_plugins.php:101
+#: includes/core/codeless_required_plugins.php:101
+#: plugins/class-tgm-plugin-activation.php:156
+#: plugins/codeless_required_plugins.php:101
+msgid "Install Plugins"
+msgstr ""
+
+#: ../specular/includes/core/codeless_required_plugins.php:102
+#: ../specular/plugins/class-tgm-plugin-activation.php:157
+#: ../specular/plugins/codeless_required_plugins.php:102
+#: includes/core/codeless_required_plugins.php:102
+#: plugins/class-tgm-plugin-activation.php:157
+#: plugins/codeless_required_plugins.php:102
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../specular/includes/core/codeless_required_plugins.php:103
+#: ../specular/plugins/codeless_required_plugins.php:103
+#: includes/core/codeless_required_plugins.php:103
+#: plugins/codeless_required_plugins.php:103
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../specular/includes/core/codeless_required_plugins.php:114
+#: ../specular/plugins/class-tgm-plugin-activation.php:169
+#: ../specular/plugins/codeless_required_plugins.php:114
+#: includes/core/codeless_required_plugins.php:114
+#: plugins/class-tgm-plugin-activation.php:169
+#: plugins/codeless_required_plugins.php:114
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../specular/includes/core/codeless_required_plugins.php:115
+#: ../specular/plugins/class-tgm-plugin-activation.php:171
+#: ../specular/plugins/class-tgm-plugin-activation.php:1840
+#: ../specular/plugins/codeless_required_plugins.php:115
+#: includes/core/codeless_required_plugins.php:115
+#: plugins/class-tgm-plugin-activation.php:171
+#: plugins/class-tgm-plugin-activation.php:1840
+#: plugins/codeless_required_plugins.php:115
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../specular/includes/core/codeless_required_plugins.php:116
+#: ../specular/plugins/codeless_required_plugins.php:116
+#: includes/core/codeless_required_plugins.php:116
+#: plugins/codeless_required_plugins.php:116
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../specular/includes/post-like.php:178 includes/post-like.php:178
+msgid " liked"
+msgstr ""
+
+#: ../specular/includes/post-like.php:196
+#: ../specular/includes/post-like.php:252 includes/post-like.php:196
+#: includes/post-like.php:252
+msgid "You Like:"
+msgstr ""
+
+#: ../specular/includes/post-like.php:220 includes/post-like.php:220
+msgid "You don't like anything yet."
+msgstr ""
+
+#: ../specular/includes/post-like.php:284 includes/post-like.php:284
+msgid "Today's Most Popular Posts"
+msgstr ""
+
+#: ../specular/includes/post-like.php:316 includes/post-like.php:316
+msgid "This Month's Most Popular Posts"
+msgstr ""
+
+#: ../specular/includes/post-like.php:348 includes/post-like.php:348
+msgid "This Week's Most Popular Posts"
+msgstr ""
+
+#: ../specular/includes/post-like.php:367 includes/post-like.php:367
+msgid "Most Popular Posts"
+msgstr ""
+
+#: ../specular/includes/register/register_sidebars.php:6
+#: ../specular/sidebar.php:19 includes/register/register_sidebars.php:6
+#: sidebar.php:19
+msgid "Sidebar Blog"
+msgstr ""
+
+#: ../specular/includes/register/register_sidebars.php:14
+#: ../specular/sidebar.php:24 includes/register/register_sidebars.php:14
+#: sidebar.php:24
+msgid "Sidebar Pages"
+msgstr ""
+
+#: ../specular/includes/register/register_sidebars.php:21
+#: ../specular/sidebar.php:22 includes/register/register_sidebars.php:21
+#: sidebar.php:22
+msgid "Sidebar Portfolio"
+msgstr ""
+
+#: ../specular/includes/register/register_sidebars.php:29
+#: includes/register/register_sidebars.php:29
+msgid "Top Header Left"
+msgstr ""
+
+#: ../specular/includes/register/register_sidebars.php:37
+#: includes/register/register_sidebars.php:37
+msgid "Top Header Right"
+msgstr ""
+
+#: ../specular/includes/register/register_sidebars.php:60
+#: includes/register/register_sidebars.php:60
+msgid "Copyright Footer Sidebar"
+msgstr ""
+
+#: ../specular/includes/register/register_sidebars.php:78
+#: ../specular/sidebar.php:30 includes/register/register_sidebars.php:78
+#: sidebar.php:30
+msgid "Page"
+msgstr ""
+
+#: ../specular/includes/register/register_sidebars.php:102
+#: ../specular/sidebar.php:34 includes/register/register_sidebars.php:102
+#: sidebar.php:34
+msgid "Category"
+msgstr ""
+
+#: ../specular/includes/register/register_sidebars.php:128
+#: ../specular/sidebar.php:26 includes/register/register_sidebars.php:128
+#: sidebar.php:26
+msgid "Sidebar Woocommerce"
+msgstr ""
+
+#: ../specular/includes/register/register_sidebars.php:138
+#: includes/register/register_sidebars.php:138
+msgid "Header Widgetized Area"
+msgstr ""
+
+#: ../specular/includes/soundcloud_plugin.php:235
+#: includes/soundcloud_plugin.php:235
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../specular/includes/types/codeless_faq_type.php:31
+#: includes/types/codeless_faq_type.php:31
+msgid "Add New Faq Entry"
+msgstr ""
+
+#: ../specular/includes/types/codeless_faq_type.php:33
+#: includes/types/codeless_faq_type.php:33
+msgid "Edit Faq Entry"
+msgstr ""
+
+#: ../specular/includes/types/codeless_faq_type.php:35
+#: includes/types/codeless_faq_type.php:35
+msgid "New Faq Entry"
+msgstr ""
+
+#: ../specular/includes/types/codeless_faq_type.php:37
+#: includes/types/codeless_faq_type.php:37
+msgid "View Faq Entry"
+msgstr ""
+
+#: ../specular/includes/types/codeless_faq_type.php:39
+#: includes/types/codeless_faq_type.php:39
+msgid "Search Faq Entries"
+msgstr ""
+
+#: ../specular/includes/types/codeless_faq_type.php:41
+#: includes/types/codeless_faq_type.php:41
+msgid "No Faq Entries found"
+msgstr ""
+
+#: ../specular/includes/types/codeless_faq_type.php:43
+#: includes/types/codeless_faq_type.php:43
+msgid "No Faq Entries found in Trash"
+msgstr ""
+
+#: ../specular/includes/types/codeless_portfolio_type.php:33
+#: includes/types/codeless_portfolio_type.php:33
+msgid "Add New Portfolio Entry"
+msgstr ""
+
+#: ../specular/includes/types/codeless_portfolio_type.php:35
+#: includes/types/codeless_portfolio_type.php:35
+msgid "Edit Portfolio Entry"
+msgstr ""
+
+#: ../specular/includes/types/codeless_portfolio_type.php:37
+#: includes/types/codeless_portfolio_type.php:37
+msgid "New Portfolio Entry"
+msgstr ""
+
+#: ../specular/includes/types/codeless_portfolio_type.php:39
+#: includes/types/codeless_portfolio_type.php:39
+msgid "View Portfolio Entry"
+msgstr ""
+
+#: ../specular/includes/types/codeless_portfolio_type.php:41
+#: includes/types/codeless_portfolio_type.php:41
+msgid "Search Portfolio Entries"
+msgstr ""
+
+#: ../specular/includes/types/codeless_portfolio_type.php:43
+#: includes/types/codeless_portfolio_type.php:43
+msgid "No Portfolio Entries found"
+msgstr ""
+
+#: ../specular/includes/types/codeless_portfolio_type.php:45
+#: includes/types/codeless_portfolio_type.php:45
+msgid "No Portfolio Entries found in Trash"
+msgstr ""
+
+#: ../specular/includes/types/codeless_staff_type.php:16
+#: includes/types/codeless_staff_type.php:16
+msgid "Add New Staff Entry"
+msgstr ""
+
+#: ../specular/includes/types/codeless_staff_type.php:17
+#: includes/types/codeless_staff_type.php:17
+msgid "Edit Staff Entry"
+msgstr ""
+
+#: ../specular/includes/types/codeless_staff_type.php:18
+#: includes/types/codeless_staff_type.php:18
+msgid "New Staff Entry"
+msgstr ""
+
+#: ../specular/includes/types/codeless_staff_type.php:19
+#: includes/types/codeless_staff_type.php:19
+msgid "View Staff Entry"
+msgstr ""
+
+#: ../specular/includes/types/codeless_staff_type.php:20
+#: includes/types/codeless_staff_type.php:20
+msgid "Search Staff Entries"
+msgstr ""
+
+#: ../specular/includes/types/codeless_staff_type.php:21
+#: includes/types/codeless_staff_type.php:21
+msgid "No Staff Entries found"
+msgstr ""
+
+#: ../specular/includes/types/codeless_staff_type.php:22
+#: includes/types/codeless_staff_type.php:22
+msgid "No Staff Entries found in Trash"
+msgstr ""
+
+#: ../specular/includes/types/codeless_testimonial_type.php:31
+#: includes/types/codeless_testimonial_type.php:31
+msgid "Add New Testimonial Entry"
+msgstr ""
+
+#: ../specular/includes/types/codeless_testimonial_type.php:33
+#: includes/types/codeless_testimonial_type.php:33
+msgid "Edit Testimonial Entry"
+msgstr ""
+
+#: ../specular/includes/types/codeless_testimonial_type.php:35
+#: includes/types/codeless_testimonial_type.php:35
+msgid "New Testimonial Entry"
+msgstr ""
+
+#: ../specular/includes/types/codeless_testimonial_type.php:37
+#: includes/types/codeless_testimonial_type.php:37
+msgid "View Testimonial Entry"
+msgstr ""
+
+#: ../specular/includes/types/codeless_testimonial_type.php:39
+#: includes/types/codeless_testimonial_type.php:39
+msgid "Search Testimonial Entries"
+msgstr ""
+
+#: ../specular/includes/types/codeless_testimonial_type.php:41
+#: includes/types/codeless_testimonial_type.php:41
+msgid "No Testimonial Entries found"
+msgstr ""
+
+#: ../specular/includes/types/codeless_testimonial_type.php:43
+#: includes/types/codeless_testimonial_type.php:43
+msgid "No Testimonial Entries found in Trash"
+msgstr ""
+
+#: ../specular/includes/view/blog/comments.php:29
+#: includes/view/blog/comments.php:29
+msgid "Leave Reply"
+msgstr ""
+
+#: ../specular/includes/view/blog/loop-fullscreen.php:63
+#: ../specular/includes/view/blog/loop-grid.php:174
+#: ../specular/includes/view/blog/loop-index.php:187
+#: ../specular/includes/view/blog/loop-second-style.php:177
+#: ../specular/includes/view/blog/loop-timeline.php:180
+#: includes/view/blog/loop-fullscreen.php:63
+#: includes/view/blog/loop-grid.php:174 includes/view/blog/loop-index.php:187
+#: includes/view/blog/loop-second-style.php:177
+#: includes/view/blog/loop-timeline.php:180
+msgid "Read More"
+msgstr ""
+
+#: ../specular/includes/view/blog/loop-grid.php:146
+#: ../specular/includes/view/blog/loop-grid.php:163
+#: ../specular/includes/view/blog/loop-index.php:142
+#: ../specular/includes/view/blog/loop-index.php:164
+#: ../specular/includes/view/blog/loop-second-style.php:140
+#: ../specular/includes/view/blog/loop-second-style.php:161
+#: ../specular/includes/view/blog/single-fullscreen.php:27
+#: ../specular/vc_templates/latest_blog.php:54
+#: ../specular/vc_templates/recent_news.php:30
+#: includes/view/blog/loop-grid.php:146 includes/view/blog/loop-grid.php:163
+#: includes/view/blog/loop-index.php:142 includes/view/blog/loop-index.php:164
+#: includes/view/blog/loop-second-style.php:140
+#: includes/view/blog/loop-second-style.php:161
+#: includes/view/blog/single-fullscreen.php:27 vc_templates/latest_blog.php:54
+#: vc_templates/recent_news.php:30
+msgid "Posted by"
+msgstr ""
+
+#: ../specular/includes/view/blog/loop-index.php:144
+#: ../specular/includes/view/blog/loop-index.php:166
+#: ../specular/includes/view/blog/loop-second-style.php:142
+#: ../specular/includes/view/blog/loop-second-style.php:163
+#: ../specular/includes/view/blog/loop-timeline.php:148
+#: ../specular/includes/view/blog/loop-timeline.php:166
+#: ../specular/includes/view/blog/single-fullscreen.php:29
+#: includes/view/blog/loop-index.php:144 includes/view/blog/loop-index.php:166
+#: includes/view/blog/loop-second-style.php:142
+#: includes/view/blog/loop-second-style.php:163
+#: includes/view/blog/loop-timeline.php:148
+#: includes/view/blog/loop-timeline.php:166
+#: includes/view/blog/single-fullscreen.php:29
+msgid "Comments"
+msgstr ""
+
+#: ../specular/includes/view/page_header.php:13
+#: includes/view/page_header.php:13
+msgid "Search Results"
+msgstr ""
+
+#: ../specular/includes/view/page_header.php:15
+#: includes/view/page_header.php:15
+msgid "404 Not Found"
+msgstr ""
+
+#: ../specular/includes/view/portfolio/single-container.php:17
+#: ../specular/includes/view/portfolio/single-container.php:85
+#: ../specular/includes/view/portfolio/single-container.php:152
+#: ../specular/includes/view/portfolio/single-floating.php:14
+#: ../specular/includes/view/portfolio/single-floating.php:46
+#: ../specular/includes/view/portfolio/single-fullwidth.php:35
+#: ../specular/includes/view/portfolio/single-gallery.php:22
+#: includes/view/portfolio/single-container.php:17
+#: includes/view/portfolio/single-container.php:85
+#: includes/view/portfolio/single-container.php:152
+#: includes/view/portfolio/single-floating.php:14
+#: includes/view/portfolio/single-floating.php:46
+#: includes/view/portfolio/single-fullwidth.php:35
+#: includes/view/portfolio/single-gallery.php:22
+msgid "Project Description"
+msgstr ""
+
+#: ../specular/includes/view/portfolio/single-container.php:21
+#: ../specular/includes/view/portfolio/single-container.php:89
+#: ../specular/includes/view/portfolio/single-container.php:156
+#: ../specular/includes/view/portfolio/single-floating.php:18
+#: ../specular/includes/view/portfolio/single-floating.php:50
+#: ../specular/includes/view/portfolio/single-fullwidth.php:39
+#: ../specular/includes/view/portfolio/single-gallery.php:26
+#: includes/view/portfolio/single-container.php:21
+#: includes/view/portfolio/single-container.php:89
+#: includes/view/portfolio/single-container.php:156
+#: includes/view/portfolio/single-floating.php:18
+#: includes/view/portfolio/single-floating.php:50
+#: includes/view/portfolio/single-fullwidth.php:39
+#: includes/view/portfolio/single-gallery.php:26
+msgid "Project Details"
+msgstr ""
+
+#: ../specular/includes/widgets/class-wp-twitter-api.php:135
+#: includes/widgets/class-wp-twitter-api.php:135
+msgid "Can't get the bearer token, check your credentials"
+msgstr ""
+
+#: ../specular/includes/widgets/class-wp-twitter-api.php:247
+#: includes/widgets/class-wp-twitter-api.php:247
+msgid "Bearer Token is good, check your query"
+msgstr ""
+
+#: ../specular/includes/widgets/codeless_topnavwidget.php:40
+#: includes/widgets/codeless_topnavwidget.php:40
+msgid "Mailing List"
+msgstr ""
+
+#: ../specular/includes/widgets/codeless_topnavwidget.php:52
+#: ../specular/searchform.php:4 ../twentyfourteen/header.php:48
+#: includes/widgets/codeless_topnavwidget.php:52 searchform.php:4
+msgid "Search"
+msgstr ""
+
+#: ../specular/includes/widgets/codeless_topnavwidget.php:65
+#: includes/widgets/codeless_topnavwidget.php:65
+msgid "Login"
+msgstr ""
+
+#: ../specular/includes/widgets/codeless_topnavwidget.php:103
+#: includes/widgets/codeless_topnavwidget.php:103
+msgid "Select Language"
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:158
+#: plugins/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:170
+#: plugins/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:172
+#: plugins/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:173
+#: plugins/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:174
+#: plugins/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1085
+#: plugins/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1090
+#: plugins/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1093
+#: plugins/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1097
+#: plugins/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1100
+#: plugins/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1100
+#: plugins/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1103
+#: plugins/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1105
+#: plugins/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1275
+#: plugins/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1291
+#: plugins/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1292
+#: plugins/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1293
+#: plugins/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1294
+#: plugins/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1312
+#: plugins/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1313
+#: plugins/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1823
+#: plugins/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1824
+#: plugins/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1825
+#: plugins/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1826
+#: plugins/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1827
+#: plugins/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1828
+#: plugins/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1839
+#: plugins/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1949
+#: plugins/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1950
+#: plugins/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1950
+#: ../specular/plugins/class-tgm-plugin-activation.php:1959
+#: plugins/class-tgm-plugin-activation.php:1950
+#: plugins/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1950
+#: ../specular/plugins/class-tgm-plugin-activation.php:1959
+#: plugins/class-tgm-plugin-activation.php:1950
+#: plugins/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1951
+#: plugins/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1952
+#: plugins/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1956
+#: plugins/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1957
+#: plugins/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1958
+#: plugins/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1959
+#: plugins/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1960
+#: plugins/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:1961
+#: plugins/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../specular/plugins/class-tgm-plugin-activation.php:2052
+#: plugins/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../specular/portfolio.php:40 ../specular/vc_templates/faq.php:19
+#: portfolio.php:40 vc_templates/faq.php:19
+msgid "View All"
+msgstr ""
+
+#: ../specular/search.php:43 search.php:43
+msgid "Your search did not match any entries"
+msgstr ""
+
+#: ../specular/search.php:45 search.php:45
+msgid "Suggestions"
+msgstr ""
+
+#: ../specular/search.php:47 search.php:47
+msgid "Make sure all words are spelled correctly"
+msgstr ""
+
+#: ../specular/search.php:48 search.php:48
+msgid "Try different keywords"
+msgstr ""
+
+#: ../specular/search.php:49 search.php:49
+msgid "Try more general keywords"
+msgstr ""
+
+#: ../specular/vc_templates/vc_accordion_tab.php:5
+#: vc_templates/vc_accordion_tab.php:5
+msgid "Section"
+msgstr ""
+
+#: ../specular/vc_templates/vc_accordion_tab.php:31
+#: ../specular/vc_templates/vc_tab.php:7 vc_templates/vc_accordion_tab.php:31
+#: vc_templates/vc_tab.php:7
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: ../specular/woocommerce/loop/add-to-cart.php:14
+#: woocommerce/loop/add-to-cart.php:14
+msgid "Out of stock"
+msgstr ""
+
+#: ../specular/woocommerce/single-product-reviews.php:38
+#: woocommerce/single-product-reviews.php:38
+msgid "There are no reviews yet."
+msgstr ""
+
+#: ../specular/woocommerce/single-product-reviews.php:51
+#: woocommerce/single-product-reviews.php:51
+msgid "Add a review"
+msgstr ""
+
+#: ../specular/woocommerce/single-product-reviews.php:51
+#: woocommerce/single-product-reviews.php:51
+msgid "Be the first to review"
+msgstr ""
+
+#: ../specular/woocommerce/single-product-reviews.php:52
+#: woocommerce/single-product-reviews.php:52
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../specular/woocommerce/single-product-reviews.php:56
+#: woocommerce/single-product-reviews.php:56
+msgid "Name"
+msgstr ""
+
+#: ../specular/woocommerce/single-product-reviews.php:58
+#: woocommerce/single-product-reviews.php:58
+msgid "Email"
+msgstr ""
+
+#: ../specular/woocommerce/single-product-reviews.php:61
+#: woocommerce/single-product-reviews.php:61
+msgid "Submit"
+msgstr ""
+
+#: ../specular/woocommerce/single-product-reviews.php:67
+#: woocommerce/single-product-reviews.php:67
+msgid "Your Rating"
+msgstr ""
+
+#: ../specular/woocommerce/single-product-reviews.php:68
+#: woocommerce/single-product-reviews.php:68
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../specular/woocommerce/single-product-reviews.php:69
+#: woocommerce/single-product-reviews.php:69
+msgid "Perfect"
+msgstr ""
+
+#: ../specular/woocommerce/single-product-reviews.php:70
+#: woocommerce/single-product-reviews.php:70
+msgid "Good"
+msgstr ""
+
+#: ../specular/woocommerce/single-product-reviews.php:71
+#: woocommerce/single-product-reviews.php:71
+msgid "Average"
+msgstr ""
+
+#: ../specular/woocommerce/single-product-reviews.php:72
+#: woocommerce/single-product-reviews.php:72
+msgid "Not that bad"
+msgstr ""
+
+#: ../specular/woocommerce/single-product-reviews.php:73
+#: woocommerce/single-product-reviews.php:73
+msgid "Very Poor"
+msgstr ""
+
+#: ../specular/woocommerce/single-product-reviews.php:77
+#: woocommerce/single-product-reviews.php:77
+msgid "Your Review"
+msgstr ""
+
+#: ../specular/woocommerce/single-product-reviews.php:86
+#: woocommerce/single-product-reviews.php:86
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: ../specular/woocommerce/single-product/related.php:36
+#: woocommerce/single-product/related.php:36
+msgid "Related Products"
+msgstr ""
+
+#: ../specular/woocommerce/single-product/review.php:26
+#: woocommerce/single-product/review.php:26
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: ../specular/woocommerce/single-product/review.php:27
+#: woocommerce/single-product/review.php:27
+msgid "out of 5"
+msgstr ""
+
+#: ../specular/woocommerce/single-product/review.php:34
+#: woocommerce/single-product/review.php:34
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: ../specular/woocommerce/single-product/review.php:43
+#: woocommerce/single-product/review.php:43
+msgid "verified owner"
+msgstr ""
+
+#: ../specular/woocommerce/single-product/tabs/additional-information.php:17
+#: woocommerce/single-product/tabs/additional-information.php:17
+msgid "Additional Information"
+msgstr ""
+
+#: ../specular/woocommerce/single-product/tabs/description.php:14
+#: woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""
+
+#: ../twentyfourteen/404.php:17 ../twentythirteen/404.php:16
+msgid "Not Found"
+msgstr ""
+
+#: ../twentyfourteen/404.php:21 ../twentythirteen/404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../twentyfourteen/archive.php:31 ../twentythirteen/archive.php:29
+#: ../twentytwelve/archive.php:29
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../twentyfourteen/archive.php:34 ../twentythirteen/archive.php:31
+#: ../twentytwelve/archive.php:31
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../twentyfourteen/archive.php:37 ../twentythirteen/archive.php:33
+#: ../twentytwelve/archive.php:33
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../twentyfourteen/archive.php:40
+#: ../twentyfourteen/taxonomy-post_format.php:51
+#: ../twentythirteen/archive.php:35 ../twentytwelve/archive.php:35
+msgid "Archives"
+msgstr ""
+
+#: ../twentyfourteen/author.php:31 ../twentythirteen/author.php:31
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: ../twentyfourteen/category.php:20 ../twentythirteen/category.php:19
+#: ../twentytwelve/category.php:21
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../twentyfourteen/comments.php:34 ../twentyfourteen/comments.php:52
+#: ../twentythirteen/comments.php:45 ../twentytwelve/comments.php:42
+msgid "Comment navigation"
+msgstr ""
+
+#: ../twentyfourteen/comments.php:35 ../twentyfourteen/comments.php:53
+#: ../twentythirteen/comments.php:46 ../twentytwelve/comments.php:43
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../twentyfourteen/comments.php:36 ../twentyfourteen/comments.php:54
+#: ../twentythirteen/comments.php:47 ../twentytwelve/comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../twentyfourteen/comments.php:59 ../twentythirteen/comments.php:52
+#: ../twentytwelve/comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:194
+#: ../twentythirteen/content-gallery.php:36
+#: ../twentythirteen/content-image.php:32
+#: ../twentythirteen/content-quote.php:22
+#: ../twentythirteen/content-video.php:32 ../twentythirteen/content.php:49
+msgid "Leave a comment"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:194
+msgid "1 Comment"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:37
+#: ../twentyfourteen/content-audio.php:37
+#: ../twentyfourteen/content-gallery.php:37
+#: ../twentyfourteen/content-image.php:37
+#: ../twentyfourteen/content-link.php:37
+#: ../twentyfourteen/content-quote.php:37
+#: ../twentyfourteen/content-video.php:37 ../twentyfourteen/content.php:38
+#: ../twentyfourteen/inc/widgets.php:194
+msgid "% Comments"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:40
+#: ../twentyfourteen/content-audio.php:40
+#: ../twentyfourteen/content-gallery.php:40
+#: ../twentyfourteen/content-image.php:40
+#: ../twentyfourteen/content-link.php:40 ../twentyfourteen/content-page.php:28
+#: ../twentyfourteen/content-quote.php:40
+#: ../twentyfourteen/content-video.php:40 ../twentyfourteen/content.php:42
+#: ../twentyfourteen/image.php:34
+#: ../twentyfourteen/page-templates/contributors.php:35
+#: ../twentythirteen/content-aside.php:20
+#: ../twentythirteen/content-aside.php:28
+#: ../twentythirteen/content-audio.php:31
+#: ../twentythirteen/content-chat.php:29
+#: ../twentythirteen/content-gallery.php:39
+#: ../twentythirteen/content-image.php:35
+#: ../twentythirteen/content-link.php:19
+#: ../twentythirteen/content-quote.php:25
+#: ../twentythirteen/content-status.php:19
+#: ../twentythirteen/content-video.php:35 ../twentythirteen/content.php:31
+#: ../twentythirteen/image.php:44 ../twentythirteen/page.php:39
+#: ../twentytwelve/content-aside.php:26 ../twentytwelve/content-image.php:26
+#: ../twentytwelve/content-link.php:24 ../twentytwelve/content-page.php:24
+#: ../twentytwelve/content-quote.php:23 ../twentytwelve/content-status.php:40
+#: ../twentytwelve/content.php:51 ../twentytwelve/functions.php:345
+#: ../twentytwelve/image.php:37
+msgid "Edit"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:46
+#: ../twentyfourteen/content-audio.php:46
+#: ../twentyfourteen/content-gallery.php:46
+#: ../twentyfourteen/content-image.php:46
+#: ../twentyfourteen/content-link.php:46
+#: ../twentyfourteen/content-quote.php:46
+#: ../twentyfourteen/content-video.php:46 ../twentyfourteen/content.php:54
+#: ../twentyfourteen/inc/widgets.php:127 ../twentyfourteen/inc/widgets.php:172
+#: ../twentythirteen/content-aside.php:13
+#: ../twentythirteen/content-audio.php:24
+#: ../twentythirteen/content-gallery.php:24
+#: ../twentythirteen/content-image.php:23
+#: ../twentythirteen/content-link.php:24
+#: ../twentythirteen/content-quote.php:13
+#: ../twentythirteen/content-status.php:13
+#: ../twentythirteen/content-video.php:23 ../twentythirteen/content.php:41
+#: ../twentytwelve/content-aside.php:15 ../twentytwelve/content-image.php:13
+#: ../twentytwelve/content-link.php:14 ../twentytwelve/content-quote.php:13
+#: ../twentytwelve/content-status.php:31 ../twentytwelve/content.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentyfourteen/content-aside.php:48
+#: ../twentyfourteen/content-audio.php:48
+#: ../twentyfourteen/content-gallery.php:48
+#: ../twentyfourteen/content-image.php:48
+#: ../twentyfourteen/content-link.php:48 ../twentyfourteen/content-page.php:22
+#: ../twentyfourteen/content-quote.php:48
+#: ../twentyfourteen/content-video.php:48 ../twentyfourteen/content.php:56
+#: ../twentyfourteen/image.php:54 ../twentythirteen/content-aside.php:14
+#: ../twentythirteen/content-audio.php:25
+#: ../twentythirteen/content-chat.php:24
+#: ../twentythirteen/content-gallery.php:25
+#: ../twentythirteen/content-image.php:24
+#: ../twentythirteen/content-link.php:25
+#: ../twentythirteen/content-quote.php:14
+#: ../twentythirteen/content-status.php:14
+#: ../twentythirteen/content-video.php:24 ../twentythirteen/content.php:42
+#: ../twentythirteen/image.php:70 ../twentythirteen/page.php:35
+#: ../twentytwelve/content-page.php:21 ../twentytwelve/content.php:45
+#: ../twentytwelve/image.php:102
+msgid "Pages:"
+msgstr ""
+
+#: ../twentyfourteen/content-none.php:12 ../twentythirteen/content-none.php:12
+#: ../twentytwelve/content-none.php:13 ../twentytwelve/index.php:49
+#: ../twentytwelve/search.php:34
+msgid "Nothing Found"
+msgstr ""
+
+#: ../twentyfourteen/content-none.php:18 ../twentythirteen/content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../twentyfourteen/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../twentyfourteen/content-none.php:27 ../twentythirteen/content-none.php:27
+#: ../twentytwelve/404.php:21
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../twentyfourteen/footer.php:21 ../twentythirteen/footer.php:19
+#: ../twentytwelve/footer.php:16
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../twentyfourteen/footer.php:21 ../twentythirteen/footer.php:19
+#: ../twentytwelve/footer.php:16
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:83
+msgid "Top primary menu"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:84
+msgid "Secondary menu in left sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:171
+msgid "Primary Sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:173
+msgid "Main sidebar that appears on the left."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:180
+msgid "Content Sidebar"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:182
+msgid "Additional sidebar that appears on the right."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:189
+msgid "Footer Widget Area"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:191 ../twentythirteen/functions.php:233
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: ../twentyfourteen/functions.php:254
+msgid "Previous"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:255
+msgid "Next"
+msgstr ""
+
+#: ../twentyfourteen/functions.php:491 ../twentythirteen/functions.php:218
+#: ../twentytwelve/functions.php:213
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../twentyfourteen/header.php:52 ../twentytwelve/functions.php:64
+msgid "Primary Menu"
+msgstr ""
+
+#: ../twentyfourteen/header.php:53 ../twentythirteen/header.php:44
+#: ../twentytwelve/header.php:44
+msgid "Skip to content"
+msgstr ""
+
+#: ../twentyfourteen/image.php:65
+msgid "Previous Image"
+msgstr ""
+
+#: ../twentyfourteen/image.php:66
+msgid "Next Image"
+msgstr ""
+
+#: ../twentyfourteen/inc/back-compat.php:37
+#: ../twentyfourteen/inc/back-compat.php:47
+#: ../twentyfourteen/inc/back-compat.php:60
+#, php-format
+msgid ""
+"Twenty Fourteen requires at least WordPress version 3.6. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:19
+#: ../twentyfourteen/inc/customizer.php:20
+msgid "Background may only be visible on wide screens."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:28
+msgid "Site Title Color"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:31
+msgid "Display Site Title &amp; Tagline"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:35
+#: ../twentyfourteen/inc/featured-content.php:405
+msgid "Featured Content"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:36
+#: ../twentyfourteen/inc/featured-content.php:406
+#, php-format
+msgid ""
+"Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the "
+"tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:54
+msgid "Grid"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:99
+msgid "Twenty Fourteen"
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:102
+#, php-format
+msgid ""
+"The home page features your choice of up to 6 posts prominently displayed in "
+"a grid or slider, controlled by a <a href=\"%1$s\">tag</a>; you can change "
+"the tag and layout in <a href=\"%2$s\">Appearance &rarr; Customize</a>. If "
+"no posts match the tag, <a href=\"%3$s\">sticky posts</a> will be displayed "
+"instead."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:103
+#, php-format
+msgid ""
+"Enhance your site design by using <a href=\"%s\">Featured Images</a> for "
+"posts you&rsquo;d like to stand out (also known as post thumbnails). This "
+"allows you to associate an image with your post without inserting it. Twenty "
+"Fourteen uses featured images for posts and pages&mdash;above the "
+"title&mdash;and in the Featured Content area on the home page."
+msgstr ""
+
+#: ../twentyfourteen/inc/customizer.php:104
+#, php-format
+msgid ""
+"For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s"
+"\">Twenty Fourteen documentation</a>."
+msgstr ""
+
+#: ../twentyfourteen/inc/featured-content.php:428
+msgid "Tag Name"
+msgstr ""
+
+#: ../twentyfourteen/inc/featured-content.php:433
+msgid "Don&rsquo;t display tag on front end."
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:50 ../twentytwelve/image.php:41
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:51 ../twentytwelve/image.php:42
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:58
+#: ../twentythirteen/functions.php:266
+msgid "Posts navigation"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:85
+#: ../twentythirteen/functions.php:300 ../twentytwelve/functions.php:286
+#: ../twentytwelve/single.php:20
+msgid "Post navigation"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:89
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:91
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:92
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr ""
+
+#: ../twentyfourteen/inc/template-tags.php:109
+#: ../twentythirteen/functions.php:322
+msgid "Sticky"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:34
+msgid "Twenty Fourteen Ephemera"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:36
+msgid ""
+"Use this widget to list your recent Aside, Quote, Video, Audio, Image, "
+"Gallery, and Link posts."
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:54
+#: ../twentyfourteen/taxonomy-post_format.php:33
+msgid "Images"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:55
+msgid "More images"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:58
+#: ../twentyfourteen/taxonomy-post_format.php:36
+msgid "Videos"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:59
+msgid "More videos"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:62
+#: ../twentyfourteen/taxonomy-post_format.php:39
+msgid "Audio"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:63
+msgid "More audio"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:66
+#: ../twentyfourteen/taxonomy-post_format.php:42
+msgid "Quotes"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:67
+msgid "More quotes"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:70
+#: ../twentyfourteen/taxonomy-post_format.php:45
+msgid "Links"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:71
+msgid "More links"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:74
+#: ../twentyfourteen/taxonomy-post_format.php:48
+msgid "Galleries"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:75
+msgid "More galleries"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:79
+#: ../twentyfourteen/taxonomy-post_format.php:30
+msgid "Asides"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:80
+msgid "More asides"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:206
+#, php-format
+msgid "%s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:255
+msgid "Title:"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:258
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../twentyfourteen/inc/widgets.php:261
+msgid "Post format to show:"
+msgstr ""
+
+#: ../twentyfourteen/search.php:18 ../twentythirteen/search.php:18
+#: ../twentytwelve/search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../twentyfourteen/tag.php:22 ../twentythirteen/tag.php:21
+#: ../twentytwelve/tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../twentythirteen/404.php:21 ../twentytwelve/404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: ../twentythirteen/author-bio.php:26 ../twentytwelve/author.php:63
+#: ../twentytwelve/content.php:62
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../twentythirteen/author-bio.php:30 ../twentytwelve/content.php:66
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/content-gallery.php:36
+#: ../twentythirteen/content-image.php:32
+#: ../twentythirteen/content-quote.php:22
+#: ../twentythirteen/content-video.php:32 ../twentythirteen/content.php:49
+msgid "One comment so far"
+msgstr ""
+
+#: ../twentythirteen/content-gallery.php:36
+#: ../twentythirteen/content-image.php:32
+#: ../twentythirteen/content-quote.php:22
+#: ../twentythirteen/content-video.php:32 ../twentythirteen/content.php:49
+#, php-format
+msgid "View all % comments"
+msgstr ""
+
+#: ../twentythirteen/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: ../twentythirteen/functions.php:97
+msgid "Navigation Menu"
+msgstr ""
+
+#: ../twentythirteen/functions.php:231
+msgid "Main Widget Area"
+msgstr ""
+
+#: ../twentythirteen/functions.php:241
+msgid "Secondary Widget Area"
+msgstr ""
+
+#: ../twentythirteen/functions.php:243
+msgid "Appears on posts and pages in the sidebar."
+msgstr ""
+
+#: ../twentythirteen/functions.php:270 ../twentytwelve/functions.php:287
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../twentythirteen/functions.php:274 ../twentytwelve/functions.php:288
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/functions.php:328 ../twentythirteen/functions.php:334
+#: ../twentytwelve/functions.php:370 ../twentytwelve/functions.php:373
+msgid ", "
+msgstr ""
+
+#: ../twentythirteen/functions.php:343 ../twentytwelve/functions.php:384
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../twentythirteen/functions.php:369 ../twentytwelve/content-aside.php:20
+#: ../twentytwelve/content-link.php:18 ../twentytwelve/content-quote.php:17
+#: ../twentytwelve/content-status.php:15
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../twentythirteen/header.php:43 ../twentytwelve/header.php:43
+msgid "Menu"
+msgstr ""
+
+#: ../twentythirteen/image.php:22
+#, php-format
+msgid ""
+"<span class=\"attachment-meta\">Published on <time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Return to %4$s\" "
+"rel=\"gallery\">%5$s</a></span>"
+msgstr ""
+
+#: ../twentythirteen/image.php:39
+msgid "Full resolution"
+msgstr ""
+
+#: ../twentythirteen/image.php:51
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: ../twentythirteen/image.php:52
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../twentythirteen/inc/back-compat.php:37
+#: ../twentythirteen/inc/back-compat.php:47
+#: ../twentythirteen/inc/back-compat.php:60
+#, php-format
+msgid ""
+"Twenty Thirteen requires at least WordPress version 3.6. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../twentythirteen/taxonomy-post_format.php:23
+#, php-format
+msgid "%s Archives"
+msgstr ""
+
+#: ../twentytwelve/author.php:32
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../twentytwelve/content-aside.php:23 ../twentytwelve/content-image.php:23
+#: ../twentytwelve/content-link.php:21 ../twentytwelve/content-quote.php:20
+#: ../twentytwelve/content-status.php:37 ../twentytwelve/content.php:33
+msgid "Leave a reply"
+msgstr ""
+
+#: ../twentytwelve/content-aside.php:23 ../twentytwelve/content-image.php:23
+#: ../twentytwelve/content-link.php:21 ../twentytwelve/content-quote.php:20
+#: ../twentytwelve/content-status.php:37 ../twentytwelve/content.php:33
+msgid "1 Reply"
+msgstr ""
+
+#: ../twentytwelve/content-aside.php:23 ../twentytwelve/content-image.php:23
+#: ../twentytwelve/content-link.php:21 ../twentytwelve/content-quote.php:20
+#: ../twentytwelve/content-status.php:37 ../twentytwelve/content.php:33
+msgid "% Replies"
+msgstr ""
+
+#: ../twentytwelve/content-link.php:12
+msgid "Link"
+msgstr ""
+
+#: ../twentytwelve/content-none.php:17 ../twentytwelve/index.php:53
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: ../twentytwelve/content.php:16
+msgid "Featured post"
+msgstr ""
+
+#: ../twentytwelve/functions.php:242
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../twentytwelve/functions.php:244
+msgid ""
+"Appears on posts and pages except the optional Front Page template, which "
+"has its own widgets"
+msgstr ""
+
+#: ../twentytwelve/functions.php:252
+msgid "First Front Page Widget Area"
+msgstr ""
+
+#: ../twentytwelve/functions.php:254 ../twentytwelve/functions.php:264
+msgid ""
+"Appears when using the optional Front Page template with a page set as "
+"Static Front Page"
+msgstr ""
+
+#: ../twentytwelve/functions.php:262
+msgid "Second Front Page Widget Area"
+msgstr ""
+
+#: ../twentytwelve/functions.php:313
+msgid "Pingback:"
+msgstr ""
+
+#: ../twentytwelve/functions.php:313
+msgid "(Edit)"
+msgstr ""
+
+#: ../twentytwelve/functions.php:328
+msgid "Post author"
+msgstr ""
+
+#: ../twentytwelve/functions.php:334
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../twentytwelve/functions.php:340
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../twentytwelve/functions.php:349
+msgid "Reply"
+msgstr ""
+
+#: ../twentytwelve/functions.php:390
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author"
+"\"> by %4$s</span>."
+msgstr ""
+
+#: ../twentytwelve/functions.php:392
+#, php-format
+msgid ""
+"This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</"
+"span>."
+msgstr ""
+
+#: ../twentytwelve/functions.php:394
+#, php-format
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+
+#: ../twentytwelve/image.php:26
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+
+#: ../twentytwelve/index.php:38
+msgid "No posts to display"
+msgstr ""
+
+#: ../twentytwelve/index.php:42
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: ../twentytwelve/search.php:38
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
